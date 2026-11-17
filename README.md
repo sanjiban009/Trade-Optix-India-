@@ -3,7 +3,8 @@
 
 **Portfolio case study by Sanjiban Das** · Indian FYTD (April–March) · Power BI-style HTML dashboard · Excel + CSV data model
 
-![TradeOptix India executive overview](screenshots/01_Executive_Overview.png)
+<img width="1512" height="1447" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/42a1bf3f-5390-4883-b575-1c78425d367e" />
+
 
 > **Synthetic data notice:** Every brand, transaction, distributor, retailer, promotional scheme, claim, KPI, scenario result and financial amount in this project is fictitious. It is a realistic demonstration, not a report on any actual company or verified operational achievement. Causal uplift and baseline assumptions have not been validated with real controls.
 
@@ -81,3 +82,8 @@ Commercial Analytics · FMCG Trade Promotion Management (TPM) · Trade Promotion
 ### License & usage
 
 Open-source demonstration under the MIT License. Please preserve the synthetic data disclosure in any redistribution. See `LICENSE`.
+<img width="1512" height="1458" alt="04_Promotion_Optimizer" src="https://github.com/user-attachments/assets/3b7d9f28-cc37-49fa-8c6e-5be48e532999" />
+<img width="1512" height="1687" alt="03_Promotion_ROI" src="https://github.com/user-attachments/assets/452973f1-3198-4a39-90e7-c4f8d27b16c2" />
+<img width="1512" height="1405" alt="02_Primary_Secondary" src="https://github.com/user-attachments/assets/de1cb68f-989c-4c0b-8e97-61fe9940b6f6" />
+<img width="1512" height="1447" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/42e73a67-6a9a-4052-8ae6-617a82990ff6" />
+
