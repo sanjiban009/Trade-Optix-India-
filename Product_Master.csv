@@ -1,0 +1,13 @@
+﻿SKU_ID,SKU_Name,Category,List_Price_INR,Unit_Cost_INR
+SKU-0101,Marie Gold,Biscuits,75,47
+SKU-0102,Choco Bites,Biscuits,103,63
+SKU-0103,Digestive Plus,Biscuits,131,79
+SKU-0201,Masala Crunch,Snacks,115,72
+SKU-0202,Salted Rings,Snacks,143,88
+SKU-0203,Namkeen Mix,Snacks,171,104
+SKU-0301,FreshCare Soap,Personal Care,155,97
+SKU-0302,PureGlow Wash,Personal Care,183,113
+SKU-0303,Daily Shampoo,Personal Care,211,129
+SKU-0401,CleanMax Detergent,Home Care,195,122
+SKU-0402,Spark Dishwash,Home Care,223,138
+SKU-0403,FloorFresh,Home Care,251,154

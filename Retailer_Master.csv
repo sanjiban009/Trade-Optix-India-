@@ -1,0 +1,841 @@
+﻿Retailer_ID,Distributor_ID,Region,State,Outlet_Type
+R-0100101,D-01001,East,West Bengal,Kirana
+R-0100102,D-01001,East,West Bengal,Supermarket
+R-0100103,D-01001,East,West Bengal,Wholesale
+R-0100104,D-01001,East,West Bengal,Online Seller
+R-0100105,D-01001,East,West Bengal,Kirana
+R-0100106,D-01001,East,West Bengal,Supermarket
+R-0100107,D-01001,East,West Bengal,Wholesale
+R-0100108,D-01001,East,West Bengal,Online Seller
+R-0100109,D-01001,East,West Bengal,Kirana
+R-0100110,D-01001,East,West Bengal,Supermarket
+R-0100111,D-01001,East,West Bengal,Wholesale
+R-0100112,D-01001,East,West Bengal,Online Seller
+R-0100113,D-01001,East,West Bengal,Kirana
+R-0100114,D-01001,East,West Bengal,Supermarket
+R-0100201,D-01002,East,Odisha,Kirana
+R-0100202,D-01002,East,Odisha,Supermarket
+R-0100203,D-01002,East,Odisha,Wholesale
+R-0100204,D-01002,East,Odisha,Online Seller
+R-0100205,D-01002,East,Odisha,Kirana
+R-0100206,D-01002,East,Odisha,Supermarket
+R-0100207,D-01002,East,Odisha,Wholesale
+R-0100208,D-01002,East,Odisha,Online Seller
+R-0100209,D-01002,East,Odisha,Kirana
+R-0100210,D-01002,East,Odisha,Supermarket
+R-0100211,D-01002,East,Odisha,Wholesale
+R-0100212,D-01002,East,Odisha,Online Seller
+R-0100213,D-01002,East,Odisha,Kirana
+R-0100214,D-01002,East,Odisha,Supermarket
+R-0100301,D-01003,East,Bihar,Kirana
+R-0100302,D-01003,East,Bihar,Supermarket
+R-0100303,D-01003,East,Bihar,Wholesale
+R-0100304,D-01003,East,Bihar,Online Seller
+R-0100305,D-01003,East,Bihar,Kirana
+R-0100306,D-01003,East,Bihar,Supermarket
+R-0100307,D-01003,East,Bihar,Wholesale
+R-0100308,D-01003,East,Bihar,Online Seller
+R-0100309,D-01003,East,Bihar,Kirana
+R-0100310,D-01003,East,Bihar,Supermarket
+R-0100311,D-01003,East,Bihar,Wholesale
+R-0100312,D-01003,East,Bihar,Online Seller
+R-0100313,D-01003,East,Bihar,Kirana
+R-0100314,D-01003,East,Bihar,Supermarket
+R-0100401,D-01004,East,West Bengal,Kirana
+R-0100402,D-01004,East,West Bengal,Supermarket
+R-0100403,D-01004,East,West Bengal,Wholesale
+R-0100404,D-01004,East,West Bengal,Online Seller
+R-0100405,D-01004,East,West Bengal,Kirana
+R-0100406,D-01004,East,West Bengal,Supermarket
+R-0100407,D-01004,East,West Bengal,Wholesale
+R-0100408,D-01004,East,West Bengal,Online Seller
+R-0100409,D-01004,East,West Bengal,Kirana
+R-0100410,D-01004,East,West Bengal,Supermarket
+R-0100411,D-01004,East,West Bengal,Wholesale
+R-0100412,D-01004,East,West Bengal,Online Seller
+R-0100413,D-01004,East,West Bengal,Kirana
+R-0100414,D-01004,East,West Bengal,Supermarket
+R-0100501,D-01005,East,Odisha,Kirana
+R-0100502,D-01005,East,Odisha,Supermarket
+R-0100503,D-01005,East,Odisha,Wholesale
+R-0100504,D-01005,East,Odisha,Online Seller
+R-0100505,D-01005,East,Odisha,Kirana
+R-0100506,D-01005,East,Odisha,Supermarket
+R-0100507,D-01005,East,Odisha,Wholesale
+R-0100508,D-01005,East,Odisha,Online Seller
+R-0100509,D-01005,East,Odisha,Kirana
+R-0100510,D-01005,East,Odisha,Supermarket
+R-0100511,D-01005,East,Odisha,Wholesale
+R-0100512,D-01005,East,Odisha,Online Seller
+R-0100513,D-01005,East,Odisha,Kirana
+R-0100514,D-01005,East,Odisha,Supermarket
+R-0100601,D-01006,East,Bihar,Kirana
+R-0100602,D-01006,East,Bihar,Supermarket
+R-0100603,D-01006,East,Bihar,Wholesale
+R-0100604,D-01006,East,Bihar,Online Seller
+R-0100605,D-01006,East,Bihar,Kirana
+R-0100606,D-01006,East,Bihar,Supermarket
+R-0100607,D-01006,East,Bihar,Wholesale
+R-0100608,D-01006,East,Bihar,Online Seller
+R-0100609,D-01006,East,Bihar,Kirana
+R-0100610,D-01006,East,Bihar,Supermarket
+R-0100611,D-01006,East,Bihar,Wholesale
+R-0100612,D-01006,East,Bihar,Online Seller
+R-0100613,D-01006,East,Bihar,Kirana
+R-0100614,D-01006,East,Bihar,Supermarket
+R-0100701,D-01007,East,West Bengal,Kirana
+R-0100702,D-01007,East,West Bengal,Supermarket
+R-0100703,D-01007,East,West Bengal,Wholesale
+R-0100704,D-01007,East,West Bengal,Online Seller
+R-0100705,D-01007,East,West Bengal,Kirana
+R-0100706,D-01007,East,West Bengal,Supermarket
+R-0100707,D-01007,East,West Bengal,Wholesale
+R-0100708,D-01007,East,West Bengal,Online Seller
+R-0100709,D-01007,East,West Bengal,Kirana
+R-0100710,D-01007,East,West Bengal,Supermarket
+R-0100711,D-01007,East,West Bengal,Wholesale
+R-0100712,D-01007,East,West Bengal,Online Seller
+R-0100713,D-01007,East,West Bengal,Kirana
+R-0100714,D-01007,East,West Bengal,Supermarket
+R-0100801,D-01008,East,Odisha,Kirana
+R-0100802,D-01008,East,Odisha,Supermarket
+R-0100803,D-01008,East,Odisha,Wholesale
+R-0100804,D-01008,East,Odisha,Online Seller
+R-0100805,D-01008,East,Odisha,Kirana
+R-0100806,D-01008,East,Odisha,Supermarket
+R-0100807,D-01008,East,Odisha,Wholesale
+R-0100808,D-01008,East,Odisha,Online Seller
+R-0100809,D-01008,East,Odisha,Kirana
+R-0100810,D-01008,East,Odisha,Supermarket
+R-0100811,D-01008,East,Odisha,Wholesale
+R-0100812,D-01008,East,Odisha,Online Seller
+R-0100813,D-01008,East,Odisha,Kirana
+R-0100814,D-01008,East,Odisha,Supermarket
+R-0100901,D-01009,East,Bihar,Kirana
+R-0100902,D-01009,East,Bihar,Supermarket
+R-0100903,D-01009,East,Bihar,Wholesale
+R-0100904,D-01009,East,Bihar,Online Seller
+R-0100905,D-01009,East,Bihar,Kirana
+R-0100906,D-01009,East,Bihar,Supermarket
+R-0100907,D-01009,East,Bihar,Wholesale
+R-0100908,D-01009,East,Bihar,Online Seller
+R-0100909,D-01009,East,Bihar,Kirana
+R-0100910,D-01009,East,Bihar,Supermarket
+R-0100911,D-01009,East,Bihar,Wholesale
+R-0100912,D-01009,East,Bihar,Online Seller
+R-0100913,D-01009,East,Bihar,Kirana
+R-0100914,D-01009,East,Bihar,Supermarket
+R-0101001,D-01010,East,West Bengal,Kirana
+R-0101002,D-01010,East,West Bengal,Supermarket
+R-0101003,D-01010,East,West Bengal,Wholesale
+R-0101004,D-01010,East,West Bengal,Online Seller
+R-0101005,D-01010,East,West Bengal,Kirana
+R-0101006,D-01010,East,West Bengal,Supermarket
+R-0101007,D-01010,East,West Bengal,Wholesale
+R-0101008,D-01010,East,West Bengal,Online Seller
+R-0101009,D-01010,East,West Bengal,Kirana
+R-0101010,D-01010,East,West Bengal,Supermarket
+R-0101011,D-01010,East,West Bengal,Wholesale
+R-0101012,D-01010,East,West Bengal,Online Seller
+R-0101013,D-01010,East,West Bengal,Kirana
+R-0101014,D-01010,East,West Bengal,Supermarket
+R-0101101,D-01011,East,Odisha,Kirana
+R-0101102,D-01011,East,Odisha,Supermarket
+R-0101103,D-01011,East,Odisha,Wholesale
+R-0101104,D-01011,East,Odisha,Online Seller
+R-0101105,D-01011,East,Odisha,Kirana
+R-0101106,D-01011,East,Odisha,Supermarket
+R-0101107,D-01011,East,Odisha,Wholesale
+R-0101108,D-01011,East,Odisha,Online Seller
+R-0101109,D-01011,East,Odisha,Kirana
+R-0101110,D-01011,East,Odisha,Supermarket
+R-0101111,D-01011,East,Odisha,Wholesale
+R-0101112,D-01011,East,Odisha,Online Seller
+R-0101113,D-01011,East,Odisha,Kirana
+R-0101114,D-01011,East,Odisha,Supermarket
+R-0101201,D-01012,East,Bihar,Kirana
+R-0101202,D-01012,East,Bihar,Supermarket
+R-0101203,D-01012,East,Bihar,Wholesale
+R-0101204,D-01012,East,Bihar,Online Seller
+R-0101205,D-01012,East,Bihar,Kirana
+R-0101206,D-01012,East,Bihar,Supermarket
+R-0101207,D-01012,East,Bihar,Wholesale
+R-0101208,D-01012,East,Bihar,Online Seller
+R-0101209,D-01012,East,Bihar,Kirana
+R-0101210,D-01012,East,Bihar,Supermarket
+R-0101211,D-01012,East,Bihar,Wholesale
+R-0101212,D-01012,East,Bihar,Online Seller
+R-0101213,D-01012,East,Bihar,Kirana
+R-0101214,D-01012,East,Bihar,Supermarket
+R-0101301,D-01013,East,West Bengal,Kirana
+R-0101302,D-01013,East,West Bengal,Supermarket
+R-0101303,D-01013,East,West Bengal,Wholesale
+R-0101304,D-01013,East,West Bengal,Online Seller
+R-0101305,D-01013,East,West Bengal,Kirana
+R-0101306,D-01013,East,West Bengal,Supermarket
+R-0101307,D-01013,East,West Bengal,Wholesale
+R-0101308,D-01013,East,West Bengal,Online Seller
+R-0101309,D-01013,East,West Bengal,Kirana
+R-0101310,D-01013,East,West Bengal,Supermarket
+R-0101311,D-01013,East,West Bengal,Wholesale
+R-0101312,D-01013,East,West Bengal,Online Seller
+R-0101313,D-01013,East,West Bengal,Kirana
+R-0101314,D-01013,East,West Bengal,Supermarket
+R-0101401,D-01014,East,Odisha,Kirana
+R-0101402,D-01014,East,Odisha,Supermarket
+R-0101403,D-01014,East,Odisha,Wholesale
+R-0101404,D-01014,East,Odisha,Online Seller
+R-0101405,D-01014,East,Odisha,Kirana
+R-0101406,D-01014,East,Odisha,Supermarket
+R-0101407,D-01014,East,Odisha,Wholesale
+R-0101408,D-01014,East,Odisha,Online Seller
+R-0101409,D-01014,East,Odisha,Kirana
+R-0101410,D-01014,East,Odisha,Supermarket
+R-0101411,D-01014,East,Odisha,Wholesale
+R-0101412,D-01014,East,Odisha,Online Seller
+R-0101413,D-01014,East,Odisha,Kirana
+R-0101414,D-01014,East,Odisha,Supermarket
+R-0101501,D-01015,East,Bihar,Kirana
+R-0101502,D-01015,East,Bihar,Supermarket
+R-0101503,D-01015,East,Bihar,Wholesale
+R-0101504,D-01015,East,Bihar,Online Seller
+R-0101505,D-01015,East,Bihar,Kirana
+R-0101506,D-01015,East,Bihar,Supermarket
+R-0101507,D-01015,East,Bihar,Wholesale
+R-0101508,D-01015,East,Bihar,Online Seller
+R-0101509,D-01015,East,Bihar,Kirana
+R-0101510,D-01015,East,Bihar,Supermarket
+R-0101511,D-01015,East,Bihar,Wholesale
+R-0101512,D-01015,East,Bihar,Online Seller
+R-0101513,D-01015,East,Bihar,Kirana
+R-0101514,D-01015,East,Bihar,Supermarket
+R-0200101,D-02001,North,Delhi,Kirana
+R-0200102,D-02001,North,Delhi,Supermarket
+R-0200103,D-02001,North,Delhi,Wholesale
+R-0200104,D-02001,North,Delhi,Online Seller
+R-0200105,D-02001,North,Delhi,Kirana
+R-0200106,D-02001,North,Delhi,Supermarket
+R-0200107,D-02001,North,Delhi,Wholesale
+R-0200108,D-02001,North,Delhi,Online Seller
+R-0200109,D-02001,North,Delhi,Kirana
+R-0200110,D-02001,North,Delhi,Supermarket
+R-0200111,D-02001,North,Delhi,Wholesale
+R-0200112,D-02001,North,Delhi,Online Seller
+R-0200113,D-02001,North,Delhi,Kirana
+R-0200114,D-02001,North,Delhi,Supermarket
+R-0200201,D-02002,North,Uttar Pradesh,Kirana
+R-0200202,D-02002,North,Uttar Pradesh,Supermarket
+R-0200203,D-02002,North,Uttar Pradesh,Wholesale
+R-0200204,D-02002,North,Uttar Pradesh,Online Seller
+R-0200205,D-02002,North,Uttar Pradesh,Kirana
+R-0200206,D-02002,North,Uttar Pradesh,Supermarket
+R-0200207,D-02002,North,Uttar Pradesh,Wholesale
+R-0200208,D-02002,North,Uttar Pradesh,Online Seller
+R-0200209,D-02002,North,Uttar Pradesh,Kirana
+R-0200210,D-02002,North,Uttar Pradesh,Supermarket
+R-0200211,D-02002,North,Uttar Pradesh,Wholesale
+R-0200212,D-02002,North,Uttar Pradesh,Online Seller
+R-0200213,D-02002,North,Uttar Pradesh,Kirana
+R-0200214,D-02002,North,Uttar Pradesh,Supermarket
+R-0200301,D-02003,North,Punjab,Kirana
+R-0200302,D-02003,North,Punjab,Supermarket
+R-0200303,D-02003,North,Punjab,Wholesale
+R-0200304,D-02003,North,Punjab,Online Seller
+R-0200305,D-02003,North,Punjab,Kirana
+R-0200306,D-02003,North,Punjab,Supermarket
+R-0200307,D-02003,North,Punjab,Wholesale
+R-0200308,D-02003,North,Punjab,Online Seller
+R-0200309,D-02003,North,Punjab,Kirana
+R-0200310,D-02003,North,Punjab,Supermarket
+R-0200311,D-02003,North,Punjab,Wholesale
+R-0200312,D-02003,North,Punjab,Online Seller
+R-0200313,D-02003,North,Punjab,Kirana
+R-0200314,D-02003,North,Punjab,Supermarket
+R-0200401,D-02004,North,Delhi,Kirana
+R-0200402,D-02004,North,Delhi,Supermarket
+R-0200403,D-02004,North,Delhi,Wholesale
+R-0200404,D-02004,North,Delhi,Online Seller
+R-0200405,D-02004,North,Delhi,Kirana
+R-0200406,D-02004,North,Delhi,Supermarket
+R-0200407,D-02004,North,Delhi,Wholesale
+R-0200408,D-02004,North,Delhi,Online Seller
+R-0200409,D-02004,North,Delhi,Kirana
+R-0200410,D-02004,North,Delhi,Supermarket
+R-0200411,D-02004,North,Delhi,Wholesale
+R-0200412,D-02004,North,Delhi,Online Seller
+R-0200413,D-02004,North,Delhi,Kirana
+R-0200414,D-02004,North,Delhi,Supermarket
+R-0200501,D-02005,North,Uttar Pradesh,Kirana
+R-0200502,D-02005,North,Uttar Pradesh,Supermarket
+R-0200503,D-02005,North,Uttar Pradesh,Wholesale
+R-0200504,D-02005,North,Uttar Pradesh,Online Seller
+R-0200505,D-02005,North,Uttar Pradesh,Kirana
+R-0200506,D-02005,North,Uttar Pradesh,Supermarket
+R-0200507,D-02005,North,Uttar Pradesh,Wholesale
+R-0200508,D-02005,North,Uttar Pradesh,Online Seller
+R-0200509,D-02005,North,Uttar Pradesh,Kirana
+R-0200510,D-02005,North,Uttar Pradesh,Supermarket
+R-0200511,D-02005,North,Uttar Pradesh,Wholesale
+R-0200512,D-02005,North,Uttar Pradesh,Online Seller
+R-0200513,D-02005,North,Uttar Pradesh,Kirana
+R-0200514,D-02005,North,Uttar Pradesh,Supermarket
+R-0200601,D-02006,North,Punjab,Kirana
+R-0200602,D-02006,North,Punjab,Supermarket
+R-0200603,D-02006,North,Punjab,Wholesale
+R-0200604,D-02006,North,Punjab,Online Seller
+R-0200605,D-02006,North,Punjab,Kirana
+R-0200606,D-02006,North,Punjab,Supermarket
+R-0200607,D-02006,North,Punjab,Wholesale
+R-0200608,D-02006,North,Punjab,Online Seller
+R-0200609,D-02006,North,Punjab,Kirana
+R-0200610,D-02006,North,Punjab,Supermarket
+R-0200611,D-02006,North,Punjab,Wholesale
+R-0200612,D-02006,North,Punjab,Online Seller
+R-0200613,D-02006,North,Punjab,Kirana
+R-0200614,D-02006,North,Punjab,Supermarket
+R-0200701,D-02007,North,Delhi,Kirana
+R-0200702,D-02007,North,Delhi,Supermarket
+R-0200703,D-02007,North,Delhi,Wholesale
+R-0200704,D-02007,North,Delhi,Online Seller
+R-0200705,D-02007,North,Delhi,Kirana
+R-0200706,D-02007,North,Delhi,Supermarket
+R-0200707,D-02007,North,Delhi,Wholesale
+R-0200708,D-02007,North,Delhi,Online Seller
+R-0200709,D-02007,North,Delhi,Kirana
+R-0200710,D-02007,North,Delhi,Supermarket
+R-0200711,D-02007,North,Delhi,Wholesale
+R-0200712,D-02007,North,Delhi,Online Seller
+R-0200713,D-02007,North,Delhi,Kirana
+R-0200714,D-02007,North,Delhi,Supermarket
+R-0200801,D-02008,North,Uttar Pradesh,Kirana
+R-0200802,D-02008,North,Uttar Pradesh,Supermarket
+R-0200803,D-02008,North,Uttar Pradesh,Wholesale
+R-0200804,D-02008,North,Uttar Pradesh,Online Seller
+R-0200805,D-02008,North,Uttar Pradesh,Kirana
+R-0200806,D-02008,North,Uttar Pradesh,Supermarket
+R-0200807,D-02008,North,Uttar Pradesh,Wholesale
+R-0200808,D-02008,North,Uttar Pradesh,Online Seller
+R-0200809,D-02008,North,Uttar Pradesh,Kirana
+R-0200810,D-02008,North,Uttar Pradesh,Supermarket
+R-0200811,D-02008,North,Uttar Pradesh,Wholesale
+R-0200812,D-02008,North,Uttar Pradesh,Online Seller
+R-0200813,D-02008,North,Uttar Pradesh,Kirana
+R-0200814,D-02008,North,Uttar Pradesh,Supermarket
+R-0200901,D-02009,North,Punjab,Kirana
+R-0200902,D-02009,North,Punjab,Supermarket
+R-0200903,D-02009,North,Punjab,Wholesale
+R-0200904,D-02009,North,Punjab,Online Seller
+R-0200905,D-02009,North,Punjab,Kirana
+R-0200906,D-02009,North,Punjab,Supermarket
+R-0200907,D-02009,North,Punjab,Wholesale
+R-0200908,D-02009,North,Punjab,Online Seller
+R-0200909,D-02009,North,Punjab,Kirana
+R-0200910,D-02009,North,Punjab,Supermarket
+R-0200911,D-02009,North,Punjab,Wholesale
+R-0200912,D-02009,North,Punjab,Online Seller
+R-0200913,D-02009,North,Punjab,Kirana
+R-0200914,D-02009,North,Punjab,Supermarket
+R-0201001,D-02010,North,Delhi,Kirana
+R-0201002,D-02010,North,Delhi,Supermarket
+R-0201003,D-02010,North,Delhi,Wholesale
+R-0201004,D-02010,North,Delhi,Online Seller
+R-0201005,D-02010,North,Delhi,Kirana
+R-0201006,D-02010,North,Delhi,Supermarket
+R-0201007,D-02010,North,Delhi,Wholesale
+R-0201008,D-02010,North,Delhi,Online Seller
+R-0201009,D-02010,North,Delhi,Kirana
+R-0201010,D-02010,North,Delhi,Supermarket
+R-0201011,D-02010,North,Delhi,Wholesale
+R-0201012,D-02010,North,Delhi,Online Seller
+R-0201013,D-02010,North,Delhi,Kirana
+R-0201014,D-02010,North,Delhi,Supermarket
+R-0201101,D-02011,North,Uttar Pradesh,Kirana
+R-0201102,D-02011,North,Uttar Pradesh,Supermarket
+R-0201103,D-02011,North,Uttar Pradesh,Wholesale
+R-0201104,D-02011,North,Uttar Pradesh,Online Seller
+R-0201105,D-02011,North,Uttar Pradesh,Kirana
+R-0201106,D-02011,North,Uttar Pradesh,Supermarket
+R-0201107,D-02011,North,Uttar Pradesh,Wholesale
+R-0201108,D-02011,North,Uttar Pradesh,Online Seller
+R-0201109,D-02011,North,Uttar Pradesh,Kirana
+R-0201110,D-02011,North,Uttar Pradesh,Supermarket
+R-0201111,D-02011,North,Uttar Pradesh,Wholesale
+R-0201112,D-02011,North,Uttar Pradesh,Online Seller
+R-0201113,D-02011,North,Uttar Pradesh,Kirana
+R-0201114,D-02011,North,Uttar Pradesh,Supermarket
+R-0201201,D-02012,North,Punjab,Kirana
+R-0201202,D-02012,North,Punjab,Supermarket
+R-0201203,D-02012,North,Punjab,Wholesale
+R-0201204,D-02012,North,Punjab,Online Seller
+R-0201205,D-02012,North,Punjab,Kirana
+R-0201206,D-02012,North,Punjab,Supermarket
+R-0201207,D-02012,North,Punjab,Wholesale
+R-0201208,D-02012,North,Punjab,Online Seller
+R-0201209,D-02012,North,Punjab,Kirana
+R-0201210,D-02012,North,Punjab,Supermarket
+R-0201211,D-02012,North,Punjab,Wholesale
+R-0201212,D-02012,North,Punjab,Online Seller
+R-0201213,D-02012,North,Punjab,Kirana
+R-0201214,D-02012,North,Punjab,Supermarket
+R-0201301,D-02013,North,Delhi,Kirana
+R-0201302,D-02013,North,Delhi,Supermarket
+R-0201303,D-02013,North,Delhi,Wholesale
+R-0201304,D-02013,North,Delhi,Online Seller
+R-0201305,D-02013,North,Delhi,Kirana
+R-0201306,D-02013,North,Delhi,Supermarket
+R-0201307,D-02013,North,Delhi,Wholesale
+R-0201308,D-02013,North,Delhi,Online Seller
+R-0201309,D-02013,North,Delhi,Kirana
+R-0201310,D-02013,North,Delhi,Supermarket
+R-0201311,D-02013,North,Delhi,Wholesale
+R-0201312,D-02013,North,Delhi,Online Seller
+R-0201313,D-02013,North,Delhi,Kirana
+R-0201314,D-02013,North,Delhi,Supermarket
+R-0201401,D-02014,North,Uttar Pradesh,Kirana
+R-0201402,D-02014,North,Uttar Pradesh,Supermarket
+R-0201403,D-02014,North,Uttar Pradesh,Wholesale
+R-0201404,D-02014,North,Uttar Pradesh,Online Seller
+R-0201405,D-02014,North,Uttar Pradesh,Kirana
+R-0201406,D-02014,North,Uttar Pradesh,Supermarket
+R-0201407,D-02014,North,Uttar Pradesh,Wholesale
+R-0201408,D-02014,North,Uttar Pradesh,Online Seller
+R-0201409,D-02014,North,Uttar Pradesh,Kirana
+R-0201410,D-02014,North,Uttar Pradesh,Supermarket
+R-0201411,D-02014,North,Uttar Pradesh,Wholesale
+R-0201412,D-02014,North,Uttar Pradesh,Online Seller
+R-0201413,D-02014,North,Uttar Pradesh,Kirana
+R-0201414,D-02014,North,Uttar Pradesh,Supermarket
+R-0201501,D-02015,North,Punjab,Kirana
+R-0201502,D-02015,North,Punjab,Supermarket
+R-0201503,D-02015,North,Punjab,Wholesale
+R-0201504,D-02015,North,Punjab,Online Seller
+R-0201505,D-02015,North,Punjab,Kirana
+R-0201506,D-02015,North,Punjab,Supermarket
+R-0201507,D-02015,North,Punjab,Wholesale
+R-0201508,D-02015,North,Punjab,Online Seller
+R-0201509,D-02015,North,Punjab,Kirana
+R-0201510,D-02015,North,Punjab,Supermarket
+R-0201511,D-02015,North,Punjab,Wholesale
+R-0201512,D-02015,North,Punjab,Online Seller
+R-0201513,D-02015,North,Punjab,Kirana
+R-0201514,D-02015,North,Punjab,Supermarket
+R-0300101,D-03001,South,Karnataka,Kirana
+R-0300102,D-03001,South,Karnataka,Supermarket
+R-0300103,D-03001,South,Karnataka,Wholesale
+R-0300104,D-03001,South,Karnataka,Online Seller
+R-0300105,D-03001,South,Karnataka,Kirana
+R-0300106,D-03001,South,Karnataka,Supermarket
+R-0300107,D-03001,South,Karnataka,Wholesale
+R-0300108,D-03001,South,Karnataka,Online Seller
+R-0300109,D-03001,South,Karnataka,Kirana
+R-0300110,D-03001,South,Karnataka,Supermarket
+R-0300111,D-03001,South,Karnataka,Wholesale
+R-0300112,D-03001,South,Karnataka,Online Seller
+R-0300113,D-03001,South,Karnataka,Kirana
+R-0300114,D-03001,South,Karnataka,Supermarket
+R-0300201,D-03002,South,Tamil Nadu,Kirana
+R-0300202,D-03002,South,Tamil Nadu,Supermarket
+R-0300203,D-03002,South,Tamil Nadu,Wholesale
+R-0300204,D-03002,South,Tamil Nadu,Online Seller
+R-0300205,D-03002,South,Tamil Nadu,Kirana
+R-0300206,D-03002,South,Tamil Nadu,Supermarket
+R-0300207,D-03002,South,Tamil Nadu,Wholesale
+R-0300208,D-03002,South,Tamil Nadu,Online Seller
+R-0300209,D-03002,South,Tamil Nadu,Kirana
+R-0300210,D-03002,South,Tamil Nadu,Supermarket
+R-0300211,D-03002,South,Tamil Nadu,Wholesale
+R-0300212,D-03002,South,Tamil Nadu,Online Seller
+R-0300213,D-03002,South,Tamil Nadu,Kirana
+R-0300214,D-03002,South,Tamil Nadu,Supermarket
+R-0300301,D-03003,South,Telangana,Kirana
+R-0300302,D-03003,South,Telangana,Supermarket
+R-0300303,D-03003,South,Telangana,Wholesale
+R-0300304,D-03003,South,Telangana,Online Seller
+R-0300305,D-03003,South,Telangana,Kirana
+R-0300306,D-03003,South,Telangana,Supermarket
+R-0300307,D-03003,South,Telangana,Wholesale
+R-0300308,D-03003,South,Telangana,Online Seller
+R-0300309,D-03003,South,Telangana,Kirana
+R-0300310,D-03003,South,Telangana,Supermarket
+R-0300311,D-03003,South,Telangana,Wholesale
+R-0300312,D-03003,South,Telangana,Online Seller
+R-0300313,D-03003,South,Telangana,Kirana
+R-0300314,D-03003,South,Telangana,Supermarket
+R-0300401,D-03004,South,Karnataka,Kirana
+R-0300402,D-03004,South,Karnataka,Supermarket
+R-0300403,D-03004,South,Karnataka,Wholesale
+R-0300404,D-03004,South,Karnataka,Online Seller
+R-0300405,D-03004,South,Karnataka,Kirana
+R-0300406,D-03004,South,Karnataka,Supermarket
+R-0300407,D-03004,South,Karnataka,Wholesale
+R-0300408,D-03004,South,Karnataka,Online Seller
+R-0300409,D-03004,South,Karnataka,Kirana
+R-0300410,D-03004,South,Karnataka,Supermarket
+R-0300411,D-03004,South,Karnataka,Wholesale
+R-0300412,D-03004,South,Karnataka,Online Seller
+R-0300413,D-03004,South,Karnataka,Kirana
+R-0300414,D-03004,South,Karnataka,Supermarket
+R-0300501,D-03005,South,Tamil Nadu,Kirana
+R-0300502,D-03005,South,Tamil Nadu,Supermarket
+R-0300503,D-03005,South,Tamil Nadu,Wholesale
+R-0300504,D-03005,South,Tamil Nadu,Online Seller
+R-0300505,D-03005,South,Tamil Nadu,Kirana
+R-0300506,D-03005,South,Tamil Nadu,Supermarket
+R-0300507,D-03005,South,Tamil Nadu,Wholesale
+R-0300508,D-03005,South,Tamil Nadu,Online Seller
+R-0300509,D-03005,South,Tamil Nadu,Kirana
+R-0300510,D-03005,South,Tamil Nadu,Supermarket
+R-0300511,D-03005,South,Tamil Nadu,Wholesale
+R-0300512,D-03005,South,Tamil Nadu,Online Seller
+R-0300513,D-03005,South,Tamil Nadu,Kirana
+R-0300514,D-03005,South,Tamil Nadu,Supermarket
+R-0300601,D-03006,South,Telangana,Kirana
+R-0300602,D-03006,South,Telangana,Supermarket
+R-0300603,D-03006,South,Telangana,Wholesale
+R-0300604,D-03006,South,Telangana,Online Seller
+R-0300605,D-03006,South,Telangana,Kirana
+R-0300606,D-03006,South,Telangana,Supermarket
+R-0300607,D-03006,South,Telangana,Wholesale
+R-0300608,D-03006,South,Telangana,Online Seller
+R-0300609,D-03006,South,Telangana,Kirana
+R-0300610,D-03006,South,Telangana,Supermarket
+R-0300611,D-03006,South,Telangana,Wholesale
+R-0300612,D-03006,South,Telangana,Online Seller
+R-0300613,D-03006,South,Telangana,Kirana
+R-0300614,D-03006,South,Telangana,Supermarket
+R-0300701,D-03007,South,Karnataka,Kirana
+R-0300702,D-03007,South,Karnataka,Supermarket
+R-0300703,D-03007,South,Karnataka,Wholesale
+R-0300704,D-03007,South,Karnataka,Online Seller
+R-0300705,D-03007,South,Karnataka,Kirana
+R-0300706,D-03007,South,Karnataka,Supermarket
+R-0300707,D-03007,South,Karnataka,Wholesale
+R-0300708,D-03007,South,Karnataka,Online Seller
+R-0300709,D-03007,South,Karnataka,Kirana
+R-0300710,D-03007,South,Karnataka,Supermarket
+R-0300711,D-03007,South,Karnataka,Wholesale
+R-0300712,D-03007,South,Karnataka,Online Seller
+R-0300713,D-03007,South,Karnataka,Kirana
+R-0300714,D-03007,South,Karnataka,Supermarket
+R-0300801,D-03008,South,Tamil Nadu,Kirana
+R-0300802,D-03008,South,Tamil Nadu,Supermarket
+R-0300803,D-03008,South,Tamil Nadu,Wholesale
+R-0300804,D-03008,South,Tamil Nadu,Online Seller
+R-0300805,D-03008,South,Tamil Nadu,Kirana
+R-0300806,D-03008,South,Tamil Nadu,Supermarket
+R-0300807,D-03008,South,Tamil Nadu,Wholesale
+R-0300808,D-03008,South,Tamil Nadu,Online Seller
+R-0300809,D-03008,South,Tamil Nadu,Kirana
+R-0300810,D-03008,South,Tamil Nadu,Supermarket
+R-0300811,D-03008,South,Tamil Nadu,Wholesale
+R-0300812,D-03008,South,Tamil Nadu,Online Seller
+R-0300813,D-03008,South,Tamil Nadu,Kirana
+R-0300814,D-03008,South,Tamil Nadu,Supermarket
+R-0300901,D-03009,South,Telangana,Kirana
+R-0300902,D-03009,South,Telangana,Supermarket
+R-0300903,D-03009,South,Telangana,Wholesale
+R-0300904,D-03009,South,Telangana,Online Seller
+R-0300905,D-03009,South,Telangana,Kirana
+R-0300906,D-03009,South,Telangana,Supermarket
+R-0300907,D-03009,South,Telangana,Wholesale
+R-0300908,D-03009,South,Telangana,Online Seller
+R-0300909,D-03009,South,Telangana,Kirana
+R-0300910,D-03009,South,Telangana,Supermarket
+R-0300911,D-03009,South,Telangana,Wholesale
+R-0300912,D-03009,South,Telangana,Online Seller
+R-0300913,D-03009,South,Telangana,Kirana
+R-0300914,D-03009,South,Telangana,Supermarket
+R-0301001,D-03010,South,Karnataka,Kirana
+R-0301002,D-03010,South,Karnataka,Supermarket
+R-0301003,D-03010,South,Karnataka,Wholesale
+R-0301004,D-03010,South,Karnataka,Online Seller
+R-0301005,D-03010,South,Karnataka,Kirana
+R-0301006,D-03010,South,Karnataka,Supermarket
+R-0301007,D-03010,South,Karnataka,Wholesale
+R-0301008,D-03010,South,Karnataka,Online Seller
+R-0301009,D-03010,South,Karnataka,Kirana
+R-0301010,D-03010,South,Karnataka,Supermarket
+R-0301011,D-03010,South,Karnataka,Wholesale
+R-0301012,D-03010,South,Karnataka,Online Seller
+R-0301013,D-03010,South,Karnataka,Kirana
+R-0301014,D-03010,South,Karnataka,Supermarket
+R-0301101,D-03011,South,Tamil Nadu,Kirana
+R-0301102,D-03011,South,Tamil Nadu,Supermarket
+R-0301103,D-03011,South,Tamil Nadu,Wholesale
+R-0301104,D-03011,South,Tamil Nadu,Online Seller
+R-0301105,D-03011,South,Tamil Nadu,Kirana
+R-0301106,D-03011,South,Tamil Nadu,Supermarket
+R-0301107,D-03011,South,Tamil Nadu,Wholesale
+R-0301108,D-03011,South,Tamil Nadu,Online Seller
+R-0301109,D-03011,South,Tamil Nadu,Kirana
+R-0301110,D-03011,South,Tamil Nadu,Supermarket
+R-0301111,D-03011,South,Tamil Nadu,Wholesale
+R-0301112,D-03011,South,Tamil Nadu,Online Seller
+R-0301113,D-03011,South,Tamil Nadu,Kirana
+R-0301114,D-03011,South,Tamil Nadu,Supermarket
+R-0301201,D-03012,South,Telangana,Kirana
+R-0301202,D-03012,South,Telangana,Supermarket
+R-0301203,D-03012,South,Telangana,Wholesale
+R-0301204,D-03012,South,Telangana,Online Seller
+R-0301205,D-03012,South,Telangana,Kirana
+R-0301206,D-03012,South,Telangana,Supermarket
+R-0301207,D-03012,South,Telangana,Wholesale
+R-0301208,D-03012,South,Telangana,Online Seller
+R-0301209,D-03012,South,Telangana,Kirana
+R-0301210,D-03012,South,Telangana,Supermarket
+R-0301211,D-03012,South,Telangana,Wholesale
+R-0301212,D-03012,South,Telangana,Online Seller
+R-0301213,D-03012,South,Telangana,Kirana
+R-0301214,D-03012,South,Telangana,Supermarket
+R-0301301,D-03013,South,Karnataka,Kirana
+R-0301302,D-03013,South,Karnataka,Supermarket
+R-0301303,D-03013,South,Karnataka,Wholesale
+R-0301304,D-03013,South,Karnataka,Online Seller
+R-0301305,D-03013,South,Karnataka,Kirana
+R-0301306,D-03013,South,Karnataka,Supermarket
+R-0301307,D-03013,South,Karnataka,Wholesale
+R-0301308,D-03013,South,Karnataka,Online Seller
+R-0301309,D-03013,South,Karnataka,Kirana
+R-0301310,D-03013,South,Karnataka,Supermarket
+R-0301311,D-03013,South,Karnataka,Wholesale
+R-0301312,D-03013,South,Karnataka,Online Seller
+R-0301313,D-03013,South,Karnataka,Kirana
+R-0301314,D-03013,South,Karnataka,Supermarket
+R-0301401,D-03014,South,Tamil Nadu,Kirana
+R-0301402,D-03014,South,Tamil Nadu,Supermarket
+R-0301403,D-03014,South,Tamil Nadu,Wholesale
+R-0301404,D-03014,South,Tamil Nadu,Online Seller
+R-0301405,D-03014,South,Tamil Nadu,Kirana
+R-0301406,D-03014,South,Tamil Nadu,Supermarket
+R-0301407,D-03014,South,Tamil Nadu,Wholesale
+R-0301408,D-03014,South,Tamil Nadu,Online Seller
+R-0301409,D-03014,South,Tamil Nadu,Kirana
+R-0301410,D-03014,South,Tamil Nadu,Supermarket
+R-0301411,D-03014,South,Tamil Nadu,Wholesale
+R-0301412,D-03014,South,Tamil Nadu,Online Seller
+R-0301413,D-03014,South,Tamil Nadu,Kirana
+R-0301414,D-03014,South,Tamil Nadu,Supermarket
+R-0301501,D-03015,South,Telangana,Kirana
+R-0301502,D-03015,South,Telangana,Supermarket
+R-0301503,D-03015,South,Telangana,Wholesale
+R-0301504,D-03015,South,Telangana,Online Seller
+R-0301505,D-03015,South,Telangana,Kirana
+R-0301506,D-03015,South,Telangana,Supermarket
+R-0301507,D-03015,South,Telangana,Wholesale
+R-0301508,D-03015,South,Telangana,Online Seller
+R-0301509,D-03015,South,Telangana,Kirana
+R-0301510,D-03015,South,Telangana,Supermarket
+R-0301511,D-03015,South,Telangana,Wholesale
+R-0301512,D-03015,South,Telangana,Online Seller
+R-0301513,D-03015,South,Telangana,Kirana
+R-0301514,D-03015,South,Telangana,Supermarket
+R-0400101,D-04001,West,Maharashtra,Kirana
+R-0400102,D-04001,West,Maharashtra,Supermarket
+R-0400103,D-04001,West,Maharashtra,Wholesale
+R-0400104,D-04001,West,Maharashtra,Online Seller
+R-0400105,D-04001,West,Maharashtra,Kirana
+R-0400106,D-04001,West,Maharashtra,Supermarket
+R-0400107,D-04001,West,Maharashtra,Wholesale
+R-0400108,D-04001,West,Maharashtra,Online Seller
+R-0400109,D-04001,West,Maharashtra,Kirana
+R-0400110,D-04001,West,Maharashtra,Supermarket
+R-0400111,D-04001,West,Maharashtra,Wholesale
+R-0400112,D-04001,West,Maharashtra,Online Seller
+R-0400113,D-04001,West,Maharashtra,Kirana
+R-0400114,D-04001,West,Maharashtra,Supermarket
+R-0400201,D-04002,West,Gujarat,Kirana
+R-0400202,D-04002,West,Gujarat,Supermarket
+R-0400203,D-04002,West,Gujarat,Wholesale
+R-0400204,D-04002,West,Gujarat,Online Seller
+R-0400205,D-04002,West,Gujarat,Kirana
+R-0400206,D-04002,West,Gujarat,Supermarket
+R-0400207,D-04002,West,Gujarat,Wholesale
+R-0400208,D-04002,West,Gujarat,Online Seller
+R-0400209,D-04002,West,Gujarat,Kirana
+R-0400210,D-04002,West,Gujarat,Supermarket
+R-0400211,D-04002,West,Gujarat,Wholesale
+R-0400212,D-04002,West,Gujarat,Online Seller
+R-0400213,D-04002,West,Gujarat,Kirana
+R-0400214,D-04002,West,Gujarat,Supermarket
+R-0400301,D-04003,West,Rajasthan,Kirana
+R-0400302,D-04003,West,Rajasthan,Supermarket
+R-0400303,D-04003,West,Rajasthan,Wholesale
+R-0400304,D-04003,West,Rajasthan,Online Seller
+R-0400305,D-04003,West,Rajasthan,Kirana
+R-0400306,D-04003,West,Rajasthan,Supermarket
+R-0400307,D-04003,West,Rajasthan,Wholesale
+R-0400308,D-04003,West,Rajasthan,Online Seller
+R-0400309,D-04003,West,Rajasthan,Kirana
+R-0400310,D-04003,West,Rajasthan,Supermarket
+R-0400311,D-04003,West,Rajasthan,Wholesale
+R-0400312,D-04003,West,Rajasthan,Online Seller
+R-0400313,D-04003,West,Rajasthan,Kirana
+R-0400314,D-04003,West,Rajasthan,Supermarket
+R-0400401,D-04004,West,Maharashtra,Kirana
+R-0400402,D-04004,West,Maharashtra,Supermarket
+R-0400403,D-04004,West,Maharashtra,Wholesale
+R-0400404,D-04004,West,Maharashtra,Online Seller
+R-0400405,D-04004,West,Maharashtra,Kirana
+R-0400406,D-04004,West,Maharashtra,Supermarket
+R-0400407,D-04004,West,Maharashtra,Wholesale
+R-0400408,D-04004,West,Maharashtra,Online Seller
+R-0400409,D-04004,West,Maharashtra,Kirana
+R-0400410,D-04004,West,Maharashtra,Supermarket
+R-0400411,D-04004,West,Maharashtra,Wholesale
+R-0400412,D-04004,West,Maharashtra,Online Seller
+R-0400413,D-04004,West,Maharashtra,Kirana
+R-0400414,D-04004,West,Maharashtra,Supermarket
+R-0400501,D-04005,West,Gujarat,Kirana
+R-0400502,D-04005,West,Gujarat,Supermarket
+R-0400503,D-04005,West,Gujarat,Wholesale
+R-0400504,D-04005,West,Gujarat,Online Seller
+R-0400505,D-04005,West,Gujarat,Kirana
+R-0400506,D-04005,West,Gujarat,Supermarket
+R-0400507,D-04005,West,Gujarat,Wholesale
+R-0400508,D-04005,West,Gujarat,Online Seller
+R-0400509,D-04005,West,Gujarat,Kirana
+R-0400510,D-04005,West,Gujarat,Supermarket
+R-0400511,D-04005,West,Gujarat,Wholesale
+R-0400512,D-04005,West,Gujarat,Online Seller
+R-0400513,D-04005,West,Gujarat,Kirana
+R-0400514,D-04005,West,Gujarat,Supermarket
+R-0400601,D-04006,West,Rajasthan,Kirana
+R-0400602,D-04006,West,Rajasthan,Supermarket
+R-0400603,D-04006,West,Rajasthan,Wholesale
+R-0400604,D-04006,West,Rajasthan,Online Seller
+R-0400605,D-04006,West,Rajasthan,Kirana
+R-0400606,D-04006,West,Rajasthan,Supermarket
+R-0400607,D-04006,West,Rajasthan,Wholesale
+R-0400608,D-04006,West,Rajasthan,Online Seller
+R-0400609,D-04006,West,Rajasthan,Kirana
+R-0400610,D-04006,West,Rajasthan,Supermarket
+R-0400611,D-04006,West,Rajasthan,Wholesale
+R-0400612,D-04006,West,Rajasthan,Online Seller
+R-0400613,D-04006,West,Rajasthan,Kirana
+R-0400614,D-04006,West,Rajasthan,Supermarket
+R-0400701,D-04007,West,Maharashtra,Kirana
+R-0400702,D-04007,West,Maharashtra,Supermarket
+R-0400703,D-04007,West,Maharashtra,Wholesale
+R-0400704,D-04007,West,Maharashtra,Online Seller
+R-0400705,D-04007,West,Maharashtra,Kirana
+R-0400706,D-04007,West,Maharashtra,Supermarket
+R-0400707,D-04007,West,Maharashtra,Wholesale
+R-0400708,D-04007,West,Maharashtra,Online Seller
+R-0400709,D-04007,West,Maharashtra,Kirana
+R-0400710,D-04007,West,Maharashtra,Supermarket
+R-0400711,D-04007,West,Maharashtra,Wholesale
+R-0400712,D-04007,West,Maharashtra,Online Seller
+R-0400713,D-04007,West,Maharashtra,Kirana
+R-0400714,D-04007,West,Maharashtra,Supermarket
+R-0400801,D-04008,West,Gujarat,Kirana
+R-0400802,D-04008,West,Gujarat,Supermarket
+R-0400803,D-04008,West,Gujarat,Wholesale
+R-0400804,D-04008,West,Gujarat,Online Seller
+R-0400805,D-04008,West,Gujarat,Kirana
+R-0400806,D-04008,West,Gujarat,Supermarket
+R-0400807,D-04008,West,Gujarat,Wholesale
+R-0400808,D-04008,West,Gujarat,Online Seller
+R-0400809,D-04008,West,Gujarat,Kirana
+R-0400810,D-04008,West,Gujarat,Supermarket
+R-0400811,D-04008,West,Gujarat,Wholesale
+R-0400812,D-04008,West,Gujarat,Online Seller
+R-0400813,D-04008,West,Gujarat,Kirana
+R-0400814,D-04008,West,Gujarat,Supermarket
+R-0400901,D-04009,West,Rajasthan,Kirana
+R-0400902,D-04009,West,Rajasthan,Supermarket
+R-0400903,D-04009,West,Rajasthan,Wholesale
+R-0400904,D-04009,West,Rajasthan,Online Seller
+R-0400905,D-04009,West,Rajasthan,Kirana
+R-0400906,D-04009,West,Rajasthan,Supermarket
+R-0400907,D-04009,West,Rajasthan,Wholesale
+R-0400908,D-04009,West,Rajasthan,Online Seller
+R-0400909,D-04009,West,Rajasthan,Kirana
+R-0400910,D-04009,West,Rajasthan,Supermarket
+R-0400911,D-04009,West,Rajasthan,Wholesale
+R-0400912,D-04009,West,Rajasthan,Online Seller
+R-0400913,D-04009,West,Rajasthan,Kirana
+R-0400914,D-04009,West,Rajasthan,Supermarket
+R-0401001,D-04010,West,Maharashtra,Kirana
+R-0401002,D-04010,West,Maharashtra,Supermarket
+R-0401003,D-04010,West,Maharashtra,Wholesale
+R-0401004,D-04010,West,Maharashtra,Online Seller
+R-0401005,D-04010,West,Maharashtra,Kirana
+R-0401006,D-04010,West,Maharashtra,Supermarket
+R-0401007,D-04010,West,Maharashtra,Wholesale
+R-0401008,D-04010,West,Maharashtra,Online Seller
+R-0401009,D-04010,West,Maharashtra,Kirana
+R-0401010,D-04010,West,Maharashtra,Supermarket
+R-0401011,D-04010,West,Maharashtra,Wholesale
+R-0401012,D-04010,West,Maharashtra,Online Seller
+R-0401013,D-04010,West,Maharashtra,Kirana
+R-0401014,D-04010,West,Maharashtra,Supermarket
+R-0401101,D-04011,West,Gujarat,Kirana
+R-0401102,D-04011,West,Gujarat,Supermarket
+R-0401103,D-04011,West,Gujarat,Wholesale
+R-0401104,D-04011,West,Gujarat,Online Seller
+R-0401105,D-04011,West,Gujarat,Kirana
+R-0401106,D-04011,West,Gujarat,Supermarket
+R-0401107,D-04011,West,Gujarat,Wholesale
+R-0401108,D-04011,West,Gujarat,Online Seller
+R-0401109,D-04011,West,Gujarat,Kirana
+R-0401110,D-04011,West,Gujarat,Supermarket
+R-0401111,D-04011,West,Gujarat,Wholesale
+R-0401112,D-04011,West,Gujarat,Online Seller
+R-0401113,D-04011,West,Gujarat,Kirana
+R-0401114,D-04011,West,Gujarat,Supermarket
+R-0401201,D-04012,West,Rajasthan,Kirana
+R-0401202,D-04012,West,Rajasthan,Supermarket
+R-0401203,D-04012,West,Rajasthan,Wholesale
+R-0401204,D-04012,West,Rajasthan,Online Seller
+R-0401205,D-04012,West,Rajasthan,Kirana
+R-0401206,D-04012,West,Rajasthan,Supermarket
+R-0401207,D-04012,West,Rajasthan,Wholesale
+R-0401208,D-04012,West,Rajasthan,Online Seller
+R-0401209,D-04012,West,Rajasthan,Kirana
+R-0401210,D-04012,West,Rajasthan,Supermarket
+R-0401211,D-04012,West,Rajasthan,Wholesale
+R-0401212,D-04012,West,Rajasthan,Online Seller
+R-0401213,D-04012,West,Rajasthan,Kirana
+R-0401214,D-04012,West,Rajasthan,Supermarket
+R-0401301,D-04013,West,Maharashtra,Kirana
+R-0401302,D-04013,West,Maharashtra,Supermarket
+R-0401303,D-04013,West,Maharashtra,Wholesale
+R-0401304,D-04013,West,Maharashtra,Online Seller
+R-0401305,D-04013,West,Maharashtra,Kirana
+R-0401306,D-04013,West,Maharashtra,Supermarket
+R-0401307,D-04013,West,Maharashtra,Wholesale
+R-0401308,D-04013,West,Maharashtra,Online Seller
+R-0401309,D-04013,West,Maharashtra,Kirana
+R-0401310,D-04013,West,Maharashtra,Supermarket
+R-0401311,D-04013,West,Maharashtra,Wholesale
+R-0401312,D-04013,West,Maharashtra,Online Seller
+R-0401313,D-04013,West,Maharashtra,Kirana
+R-0401314,D-04013,West,Maharashtra,Supermarket
+R-0401401,D-04014,West,Gujarat,Kirana
+R-0401402,D-04014,West,Gujarat,Supermarket
+R-0401403,D-04014,West,Gujarat,Wholesale
+R-0401404,D-04014,West,Gujarat,Online Seller
+R-0401405,D-04014,West,Gujarat,Kirana
+R-0401406,D-04014,West,Gujarat,Supermarket
+R-0401407,D-04014,West,Gujarat,Wholesale
+R-0401408,D-04014,West,Gujarat,Online Seller
+R-0401409,D-04014,West,Gujarat,Kirana
+R-0401410,D-04014,West,Gujarat,Supermarket
+R-0401411,D-04014,West,Gujarat,Wholesale
+R-0401412,D-04014,West,Gujarat,Online Seller
+R-0401413,D-04014,West,Gujarat,Kirana
+R-0401414,D-04014,West,Gujarat,Supermarket
+R-0401501,D-04015,West,Rajasthan,Kirana
+R-0401502,D-04015,West,Rajasthan,Supermarket
+R-0401503,D-04015,West,Rajasthan,Wholesale
+R-0401504,D-04015,West,Rajasthan,Online Seller
+R-0401505,D-04015,West,Rajasthan,Kirana
+R-0401506,D-04015,West,Rajasthan,Supermarket
+R-0401507,D-04015,West,Rajasthan,Wholesale
+R-0401508,D-04015,West,Rajasthan,Online Seller
+R-0401509,D-04015,West,Rajasthan,Kirana
+R-0401510,D-04015,West,Rajasthan,Supermarket
+R-0401511,D-04015,West,Rajasthan,Wholesale
+R-0401512,D-04015,West,Rajasthan,Online Seller
+R-0401513,D-04015,West,Rajasthan,Kirana
+R-0401514,D-04015,West,Rajasthan,Supermarket

@@ -1,0 +1,61 @@
+﻿Distributor_ID,Distributor_Name,Region,State,Default_Channel
+D-01001,West Bengal Trade Partner 01,East,West Bengal,General Trade
+D-01002,Odisha Trade Partner 02,East,Odisha,Modern Trade
+D-01003,Bihar Trade Partner 03,East,Bihar,E-commerce
+D-01004,West Bengal Trade Partner 04,East,West Bengal,General Trade
+D-01005,Odisha Trade Partner 05,East,Odisha,Modern Trade
+D-01006,Bihar Trade Partner 06,East,Bihar,E-commerce
+D-01007,West Bengal Trade Partner 07,East,West Bengal,General Trade
+D-01008,Odisha Trade Partner 08,East,Odisha,Modern Trade
+D-01009,Bihar Trade Partner 09,East,Bihar,E-commerce
+D-01010,West Bengal Trade Partner 10,East,West Bengal,General Trade
+D-01011,Odisha Trade Partner 11,East,Odisha,Modern Trade
+D-01012,Bihar Trade Partner 12,East,Bihar,E-commerce
+D-01013,West Bengal Trade Partner 13,East,West Bengal,General Trade
+D-01014,Odisha Trade Partner 14,East,Odisha,Modern Trade
+D-01015,Bihar Trade Partner 15,East,Bihar,E-commerce
+D-02001,Delhi Trade Partner 01,North,Delhi,General Trade
+D-02002,Uttar Pradesh Trade Partner 02,North,Uttar Pradesh,Modern Trade
+D-02003,Punjab Trade Partner 03,North,Punjab,E-commerce
+D-02004,Delhi Trade Partner 04,North,Delhi,General Trade
+D-02005,Uttar Pradesh Trade Partner 05,North,Uttar Pradesh,Modern Trade
+D-02006,Punjab Trade Partner 06,North,Punjab,E-commerce
+D-02007,Delhi Trade Partner 07,North,Delhi,General Trade
+D-02008,Uttar Pradesh Trade Partner 08,North,Uttar Pradesh,Modern Trade
+D-02009,Punjab Trade Partner 09,North,Punjab,E-commerce
+D-02010,Delhi Trade Partner 10,North,Delhi,General Trade
+D-02011,Uttar Pradesh Trade Partner 11,North,Uttar Pradesh,Modern Trade
+D-02012,Punjab Trade Partner 12,North,Punjab,E-commerce
+D-02013,Delhi Trade Partner 13,North,Delhi,General Trade
+D-02014,Uttar Pradesh Trade Partner 14,North,Uttar Pradesh,Modern Trade
+D-02015,Punjab Trade Partner 15,North,Punjab,E-commerce
+D-03001,Karnataka Trade Partner 01,South,Karnataka,General Trade
+D-03002,Tamil Nadu Trade Partner 02,South,Tamil Nadu,Modern Trade
+D-03003,Telangana Trade Partner 03,South,Telangana,E-commerce
+D-03004,Karnataka Trade Partner 04,South,Karnataka,General Trade
+D-03005,Tamil Nadu Trade Partner 05,South,Tamil Nadu,Modern Trade
+D-03006,Telangana Trade Partner 06,South,Telangana,E-commerce
+D-03007,Karnataka Trade Partner 07,South,Karnataka,General Trade
+D-03008,Tamil Nadu Trade Partner 08,South,Tamil Nadu,Modern Trade
+D-03009,Telangana Trade Partner 09,South,Telangana,E-commerce
+D-03010,Karnataka Trade Partner 10,South,Karnataka,General Trade
+D-03011,Tamil Nadu Trade Partner 11,South,Tamil Nadu,Modern Trade
+D-03012,Telangana Trade Partner 12,South,Telangana,E-commerce
+D-03013,Karnataka Trade Partner 13,South,Karnataka,General Trade
+D-03014,Tamil Nadu Trade Partner 14,South,Tamil Nadu,Modern Trade
+D-03015,Telangana Trade Partner 15,South,Telangana,E-commerce
+D-04001,Maharashtra Trade Partner 01,West,Maharashtra,General Trade
+D-04002,Gujarat Trade Partner 02,West,Gujarat,Modern Trade
+D-04003,Rajasthan Trade Partner 03,West,Rajasthan,E-commerce
+D-04004,Maharashtra Trade Partner 04,West,Maharashtra,General Trade
+D-04005,Gujarat Trade Partner 05,West,Gujarat,Modern Trade
+D-04006,Rajasthan Trade Partner 06,West,Rajasthan,E-commerce
+D-04007,Maharashtra Trade Partner 07,West,Maharashtra,General Trade
+D-04008,Gujarat Trade Partner 08,West,Gujarat,Modern Trade
+D-04009,Rajasthan Trade Partner 09,West,Rajasthan,E-commerce
+D-04010,Maharashtra Trade Partner 10,West,Maharashtra,General Trade
+D-04011,Gujarat Trade Partner 11,West,Gujarat,Modern Trade
+D-04012,Rajasthan Trade Partner 12,West,Rajasthan,E-commerce
+D-04013,Maharashtra Trade Partner 13,West,Maharashtra,General Trade
+D-04014,Gujarat Trade Partner 14,West,Gujarat,Modern Trade
+D-04015,Rajasthan Trade Partner 15,West,Rajasthan,E-commerce

@@ -1,0 +1,961 @@
+﻿Scheme_ID,Fiscal_Year,Scheme_Date,Region,Category,Channel,Scheme_Type,Approved_Budget_INR,Actual_Promotion_Cost_INR,Variance_INR
+TP-202504-0001,FY 2025–26,2025-04-04,East,Biscuits,General Trade,Festive Bundle,12355.6,9635.89,-2719.71
+TP-202504-0002,FY 2025–26,2025-04-15,East,Biscuits,Modern Trade,Volume Slab,9667.39,10093.94,426.55
+TP-202504-0003,FY 2025–26,2025-04-13,East,Biscuits,E-commerce,Extra Trade Discount,11026.02,8913.79,-2112.23
+TP-202504-0004,FY 2025–26,2025-04-09,East,Snacks,General Trade,Free Goods,14381.11,11043.91,-3337.2
+TP-202504-0005,FY 2025–26,2025-04-07,East,Snacks,Modern Trade,Retail Visibility,4253.34,4056.54,-196.8
+TP-202504-0006,FY 2025–26,2025-04-08,East,Snacks,E-commerce,Quarterly Incentive,8213.03,10322.7,2109.67
+TP-202504-0007,FY 2025–26,2025-04-23,East,Personal Care,General Trade,Festive Bundle,5379.37,5397.42,18.05
+TP-202504-0008,FY 2025–26,2025-04-13,East,Personal Care,Modern Trade,Volume Slab,11443.6,11097.12,-346.48
+TP-202504-0009,FY 2025–26,2025-04-10,East,Personal Care,E-commerce,Extra Trade Discount,8154.17,9246.76,1092.59
+TP-202504-0010,FY 2025–26,2025-04-17,East,Home Care,General Trade,Free Goods,26694.78,28791.3,2096.52
+TP-202504-0011,FY 2025–26,2025-04-17,East,Home Care,Modern Trade,Retail Visibility,6993.35,6749.52,-243.83
+TP-202504-0012,FY 2025–26,2025-04-14,East,Home Care,E-commerce,Quarterly Incentive,9379.97,8031.93,-1348.04
+TP-202504-0013,FY 2025–26,2025-04-23,North,Biscuits,General Trade,Festive Bundle,5756.38,6798.45,1042.07
+TP-202504-0014,FY 2025–26,2025-04-16,North,Biscuits,Modern Trade,Volume Slab,7082.19,7831.85,749.66
+TP-202504-0015,FY 2025–26,2025-04-20,North,Biscuits,E-commerce,Extra Trade Discount,8820.96,9061.48,240.52
+TP-202504-0016,FY 2025–26,2025-04-22,North,Snacks,General Trade,Free Goods,18583.09,21094.18,2511.09
+TP-202504-0017,FY 2025–26,2025-04-20,North,Snacks,Modern Trade,Retail Visibility,7111.58,5741.62,-1369.96
+TP-202504-0018,FY 2025–26,2025-04-20,North,Snacks,E-commerce,Quarterly Incentive,7704.18,6433.84,-1270.34
+TP-202504-0019,FY 2025–26,2025-04-18,North,Personal Care,General Trade,Festive Bundle,14803.33,11446.85,-3356.48
+TP-202504-0020,FY 2025–26,2025-04-14,North,Personal Care,Modern Trade,Volume Slab,14198.02,17125.75,2927.73
+TP-202504-0021,FY 2025–26,2025-04-04,North,Personal Care,E-commerce,Extra Trade Discount,4666.71,4263.42,-403.29
+TP-202504-0022,FY 2025–26,2025-04-15,North,Home Care,General Trade,Free Goods,29950.51,31154.01,1203.5
+TP-202504-0023,FY 2025–26,2025-04-17,North,Home Care,Modern Trade,Retail Visibility,11630.07,11112.87,-517.2
+TP-202504-0024,FY 2025–26,2025-04-07,North,Home Care,E-commerce,Quarterly Incentive,4218.36,4501.56,283.2
+TP-202504-0025,FY 2025–26,2025-04-10,South,Biscuits,General Trade,Festive Bundle,3582.36,3390.52,-191.84
+TP-202504-0026,FY 2025–26,2025-04-10,South,Biscuits,Modern Trade,Volume Slab,7982.18,9272.97,1290.79
+TP-202504-0027,FY 2025–26,2025-04-19,South,Biscuits,E-commerce,Extra Trade Discount,9542.57,9916.77,374.2
+TP-202504-0028,FY 2025–26,2025-04-15,South,Snacks,General Trade,Free Goods,15866.35,13499.2,-2367.15
+TP-202504-0029,FY 2025–26,2025-04-14,South,Snacks,Modern Trade,Retail Visibility,3478.15,3476.43,-1.72
+TP-202504-0030,FY 2025–26,2025-04-15,South,Snacks,E-commerce,Quarterly Incentive,5977.8,5373.17,-604.63
+TP-202504-0031,FY 2025–26,2025-04-05,South,Personal Care,General Trade,Festive Bundle,12870.76,11374.77,-1495.99
+TP-202504-0032,FY 2025–26,2025-04-18,South,Personal Care,Modern Trade,Volume Slab,13715.04,14871.06,1156.02
+TP-202504-0033,FY 2025–26,2025-04-23,South,Personal Care,E-commerce,Extra Trade Discount,10375.26,13066.92,2691.66
+TP-202504-0034,FY 2025–26,2025-04-10,South,Home Care,General Trade,Free Goods,15351.23,14731.35,-619.88
+TP-202504-0035,FY 2025–26,2025-04-21,South,Home Care,Modern Trade,Retail Visibility,5883.85,4414.4,-1469.45
+TP-202504-0036,FY 2025–26,2025-04-20,South,Home Care,E-commerce,Quarterly Incentive,22442.63,17322.7,-5119.93
+TP-202504-0037,FY 2025–26,2025-04-21,West,Biscuits,General Trade,Festive Bundle,6999.21,5697.89,-1301.32
+TP-202504-0038,FY 2025–26,2025-04-13,West,Biscuits,Modern Trade,Volume Slab,9640.51,10769.96,1129.45
+TP-202504-0039,FY 2025–26,2025-04-05,West,Biscuits,E-commerce,Extra Trade Discount,7577.82,9526.7,1948.88
+TP-202504-0040,FY 2025–26,2025-04-15,West,Snacks,General Trade,Free Goods,9407.08,10377.33,970.25
+TP-202504-0041,FY 2025–26,2025-04-07,West,Snacks,Modern Trade,Retail Visibility,20032.27,23761.82,3729.55
+TP-202504-0042,FY 2025–26,2025-04-17,West,Snacks,E-commerce,Quarterly Incentive,10256.84,11229.46,972.62
+TP-202504-0043,FY 2025–26,2025-04-08,West,Personal Care,General Trade,Festive Bundle,18317.74,15194.51,-3123.23
+TP-202504-0044,FY 2025–26,2025-04-22,West,Personal Care,Modern Trade,Volume Slab,5700.8,6962.32,1261.52
+TP-202504-0045,FY 2025–26,2025-04-09,West,Personal Care,E-commerce,Extra Trade Discount,5163.25,5096.98,-66.27
+TP-202504-0046,FY 2025–26,2025-04-20,West,Home Care,General Trade,Free Goods,14541.74,16581.19,2039.45
+TP-202504-0047,FY 2025–26,2025-04-05,West,Home Care,Modern Trade,Retail Visibility,12639.7,10814.96,-1824.74
+TP-202504-0048,FY 2025–26,2025-04-20,West,Home Care,E-commerce,Quarterly Incentive,10291.2,7959.75,-2331.45
+TP-202505-0049,FY 2025–26,2025-05-17,East,Biscuits,General Trade,Volume Slab,6050.54,6406.64,356.1
+TP-202505-0050,FY 2025–26,2025-05-15,East,Biscuits,Modern Trade,Extra Trade Discount,6595.11,6156.04,-439.07
+TP-202505-0051,FY 2025–26,2025-05-23,East,Biscuits,E-commerce,Free Goods,5569.34,6567.53,998.19
+TP-202505-0052,FY 2025–26,2025-05-14,East,Snacks,General Trade,Retail Visibility,7821.68,7628.26,-193.42
+TP-202505-0053,FY 2025–26,2025-05-23,East,Snacks,Modern Trade,Quarterly Incentive,11857.85,9898.48,-1959.37
+TP-202505-0054,FY 2025–26,2025-05-13,East,Snacks,E-commerce,Festive Bundle,7047.52,6661.29,-386.23
+TP-202505-0055,FY 2025–26,2025-05-21,East,Personal Care,General Trade,Volume Slab,19621.45,16359.76,-3261.69
+TP-202505-0056,FY 2025–26,2025-05-16,East,Personal Care,Modern Trade,Extra Trade Discount,18281.5,15700.26,-2581.24
+TP-202505-0057,FY 2025–26,2025-05-14,East,Personal Care,E-commerce,Free Goods,11085.04,8309.78,-2775.26
+TP-202505-0058,FY 2025–26,2025-05-17,East,Home Care,General Trade,Retail Visibility,22853.48,20260.41,-2593.07
+TP-202505-0059,FY 2025–26,2025-05-06,East,Home Care,Modern Trade,Quarterly Incentive,7334.72,9288.41,1953.69
+TP-202505-0060,FY 2025–26,2025-05-12,East,Home Care,E-commerce,Festive Bundle,9574.4,7623.38,-1951.02
+TP-202505-0061,FY 2025–26,2025-05-22,North,Biscuits,General Trade,Volume Slab,10097.38,8227.22,-1870.16
+TP-202505-0062,FY 2025–26,2025-05-13,North,Biscuits,Modern Trade,Extra Trade Discount,8115.57,7545.22,-570.35
+TP-202505-0063,FY 2025–26,2025-05-16,North,Biscuits,E-commerce,Free Goods,7029.82,6390.37,-639.45
+TP-202505-0064,FY 2025–26,2025-05-21,North,Snacks,General Trade,Retail Visibility,4425.43,4908.43,483.0
+TP-202505-0065,FY 2025–26,2025-05-14,North,Snacks,Modern Trade,Quarterly Incentive,15365.47,11724.11,-3641.36
+TP-202505-0066,FY 2025–26,2025-05-16,North,Snacks,E-commerce,Festive Bundle,15086.18,12532.39,-2553.79
+TP-202505-0067,FY 2025–26,2025-05-19,North,Personal Care,General Trade,Volume Slab,10033.4,8573.53,-1459.87
+TP-202505-0068,FY 2025–26,2025-05-04,North,Personal Care,Modern Trade,Extra Trade Discount,9305.25,8477.76,-827.49
+TP-202505-0069,FY 2025–26,2025-05-04,North,Personal Care,E-commerce,Free Goods,25118.47,19219.36,-5899.11
+TP-202505-0070,FY 2025–26,2025-05-23,North,Home Care,General Trade,Retail Visibility,27251.99,30362.37,3110.38
+TP-202505-0071,FY 2025–26,2025-05-14,North,Home Care,Modern Trade,Quarterly Incentive,21548.6,20050.29,-1498.31
+TP-202505-0072,FY 2025–26,2025-05-11,North,Home Care,E-commerce,Festive Bundle,23165.18,18133.02,-5032.16
+TP-202505-0073,FY 2025–26,2025-05-20,South,Biscuits,General Trade,Volume Slab,16613.99,16057.33,-556.66
+TP-202505-0074,FY 2025–26,2025-05-14,South,Biscuits,Modern Trade,Extra Trade Discount,9690.93,7587.04,-2103.89
+TP-202505-0075,FY 2025–26,2025-05-06,South,Biscuits,E-commerce,Free Goods,11086.59,9770.17,-1316.42
+TP-202505-0076,FY 2025–26,2025-05-16,South,Snacks,General Trade,Retail Visibility,3756.75,3755.65,-1.1
+TP-202505-0077,FY 2025–26,2025-05-05,South,Snacks,Modern Trade,Quarterly Incentive,3662.7,3620.13,-42.57
+TP-202505-0078,FY 2025–26,2025-05-23,South,Snacks,E-commerce,Festive Bundle,8150.67,8078.99,-71.68
+TP-202505-0079,FY 2025–26,2025-05-17,South,Personal Care,General Trade,Volume Slab,14434.02,11832.49,-2601.53
+TP-202505-0080,FY 2025–26,2025-05-13,South,Personal Care,Modern Trade,Extra Trade Discount,15755.37,19847.38,4092.01
+TP-202505-0081,FY 2025–26,2025-05-10,South,Personal Care,E-commerce,Free Goods,11021.43,12964.8,1943.37
+TP-202505-0082,FY 2025–26,2025-05-19,South,Home Care,General Trade,Retail Visibility,37240.75,32657.43,-4583.32
+TP-202505-0083,FY 2025–26,2025-05-14,South,Home Care,Modern Trade,Quarterly Incentive,10504.84,12521.16,2016.32
+TP-202505-0084,FY 2025–26,2025-05-11,South,Home Care,E-commerce,Festive Bundle,9899.09,7972.26,-1926.83
+TP-202505-0085,FY 2025–26,2025-05-13,West,Biscuits,General Trade,Volume Slab,18472.77,14574.42,-3898.35
+TP-202505-0086,FY 2025–26,2025-05-08,West,Biscuits,Modern Trade,Extra Trade Discount,5012.67,5033.92,21.25
+TP-202505-0087,FY 2025–26,2025-05-08,West,Biscuits,E-commerce,Free Goods,8926.97,6790.85,-2136.12
+TP-202505-0088,FY 2025–26,2025-05-07,West,Snacks,General Trade,Retail Visibility,11114.25,13021.59,1907.34
+TP-202505-0089,FY 2025–26,2025-05-23,West,Snacks,Modern Trade,Quarterly Incentive,14540.64,12119.91,-2420.73
+TP-202505-0090,FY 2025–26,2025-05-19,West,Snacks,E-commerce,Festive Bundle,8839.9,7007.81,-1832.09
+TP-202505-0091,FY 2025–26,2025-05-13,West,Personal Care,General Trade,Volume Slab,11668.33,10056.71,-1611.62
+TP-202505-0092,FY 2025–26,2025-05-18,West,Personal Care,Modern Trade,Extra Trade Discount,3768.44,4516.81,748.37
+TP-202505-0093,FY 2025–26,2025-05-16,West,Personal Care,E-commerce,Free Goods,9779.41,9233.06,-546.35
+TP-202505-0094,FY 2025–26,2025-05-21,West,Home Care,General Trade,Retail Visibility,39366.41,37865.2,-1501.21
+TP-202505-0095,FY 2025–26,2025-05-14,West,Home Care,Modern Trade,Quarterly Incentive,23730.76,20755.84,-2974.92
+TP-202505-0096,FY 2025–26,2025-05-07,West,Home Care,E-commerce,Festive Bundle,10385.55,10650.53,264.98
+TP-202506-0097,FY 2025–26,2025-06-21,East,Biscuits,General Trade,Extra Trade Discount,16387.0,13334.91,-3052.09
+TP-202506-0098,FY 2025–26,2025-06-23,East,Biscuits,Modern Trade,Free Goods,10961.49,9315.69,-1645.8
+TP-202506-0099,FY 2025–26,2025-06-20,East,Biscuits,E-commerce,Retail Visibility,5490.16,4705.51,-784.65
+TP-202506-0100,FY 2025–26,2025-06-21,East,Snacks,General Trade,Quarterly Incentive,16898.48,12665.58,-4232.9
+TP-202506-0101,FY 2025–26,2025-06-04,East,Snacks,Modern Trade,Festive Bundle,3352.21,4277.68,925.47
+TP-202506-0102,FY 2025–26,2025-06-16,East,Snacks,E-commerce,Volume Slab,8994.33,7177.64,-1816.69
+TP-202506-0103,FY 2025–26,2025-06-20,East,Personal Care,General Trade,Extra Trade Discount,18369.13,14601.72,-3767.41
+TP-202506-0104,FY 2025–26,2025-06-21,East,Personal Care,Modern Trade,Free Goods,7783.84,9483.7,1699.86
+TP-202506-0105,FY 2025–26,2025-06-12,East,Personal Care,E-commerce,Retail Visibility,5905.03,7247.03,1342.0
+TP-202506-0106,FY 2025–26,2025-06-11,East,Home Care,General Trade,Quarterly Incentive,33219.43,26062.18,-7157.25
+TP-202506-0107,FY 2025–26,2025-06-12,East,Home Care,Modern Trade,Festive Bundle,17969.04,14177.29,-3791.75
+TP-202506-0108,FY 2025–26,2025-06-09,East,Home Care,E-commerce,Volume Slab,7852.48,6584.82,-1267.66
+TP-202506-0109,FY 2025–26,2025-06-17,North,Biscuits,General Trade,Extra Trade Discount,9301.19,7958.06,-1343.13
+TP-202506-0110,FY 2025–26,2025-06-12,North,Biscuits,Modern Trade,Free Goods,10468.6,10665.64,197.04
+TP-202506-0111,FY 2025–26,2025-06-04,North,Biscuits,E-commerce,Retail Visibility,3985.99,4790.01,804.02
+TP-202506-0112,FY 2025–26,2025-06-16,North,Snacks,General Trade,Quarterly Incentive,11803.09,9318.21,-2484.88
+TP-202506-0113,FY 2025–26,2025-06-09,North,Snacks,Modern Trade,Festive Bundle,17255.0,15758.59,-1496.41
+TP-202506-0114,FY 2025–26,2025-06-21,North,Snacks,E-commerce,Volume Slab,5668.05,6641.23,973.18
+TP-202506-0115,FY 2025–26,2025-06-23,North,Personal Care,General Trade,Extra Trade Discount,13620.94,14593.05,972.11
+TP-202506-0116,FY 2025–26,2025-06-17,North,Personal Care,Modern Trade,Free Goods,15557.1,15666.9,109.8
+TP-202506-0117,FY 2025–26,2025-06-09,North,Personal Care,E-commerce,Retail Visibility,5092.49,4345.63,-746.86
+TP-202506-0118,FY 2025–26,2025-06-13,North,Home Care,General Trade,Quarterly Incentive,28764.75,27418.61,-1346.14
+TP-202506-0119,FY 2025–26,2025-06-10,North,Home Care,Modern Trade,Festive Bundle,14608.45,14371.51,-236.94
+TP-202506-0120,FY 2025–26,2025-06-16,North,Home Care,E-commerce,Volume Slab,5007.29,4978.0,-29.29
+TP-202506-0121,FY 2025–26,2025-06-04,South,Biscuits,General Trade,Extra Trade Discount,6062.44,6930.93,868.49
+TP-202506-0122,FY 2025–26,2025-06-18,South,Biscuits,Modern Trade,Free Goods,12543.48,9625.89,-2917.59
+TP-202506-0123,FY 2025–26,2025-06-19,South,Biscuits,E-commerce,Retail Visibility,6932.36,8736.07,1803.71
+TP-202506-0124,FY 2025–26,2025-06-16,South,Snacks,General Trade,Quarterly Incentive,14536.94,18526.08,3989.14
+TP-202506-0125,FY 2025–26,2025-06-23,South,Snacks,Modern Trade,Festive Bundle,8234.87,10297.01,2062.14
+TP-202506-0126,FY 2025–26,2025-06-18,South,Snacks,E-commerce,Volume Slab,4039.51,3562.39,-477.12
+TP-202506-0127,FY 2025–26,2025-06-20,South,Personal Care,General Trade,Extra Trade Discount,20818.79,25869.73,5050.94
+TP-202506-0128,FY 2025–26,2025-06-14,South,Personal Care,Modern Trade,Free Goods,11856.92,11120.45,-736.47
+TP-202506-0129,FY 2025–26,2025-06-06,South,Personal Care,E-commerce,Retail Visibility,10952.65,11001.81,49.16
+TP-202506-0130,FY 2025–26,2025-06-10,South,Home Care,General Trade,Quarterly Incentive,27091.31,26874.05,-217.26
+TP-202506-0131,FY 2025–26,2025-06-11,South,Home Care,Modern Trade,Festive Bundle,14701.68,12903.68,-1798.0
+TP-202506-0132,FY 2025–26,2025-06-21,South,Home Care,E-commerce,Volume Slab,19531.17,17350.42,-2180.75
+TP-202506-0133,FY 2025–26,2025-06-07,West,Biscuits,General Trade,Extra Trade Discount,7314.76,6540.09,-774.67
+TP-202506-0134,FY 2025–26,2025-06-22,West,Biscuits,Modern Trade,Free Goods,6356.3,5482.95,-873.35
+TP-202506-0135,FY 2025–26,2025-06-17,West,Biscuits,E-commerce,Retail Visibility,5861.6,4386.27,-1475.33
+TP-202506-0136,FY 2025–26,2025-06-19,West,Snacks,General Trade,Quarterly Incentive,11349.62,9372.0,-1977.62
+TP-202506-0137,FY 2025–26,2025-06-08,West,Snacks,Modern Trade,Festive Bundle,6382.4,4837.0,-1545.4
+TP-202506-0138,FY 2025–26,2025-06-09,West,Snacks,E-commerce,Volume Slab,4552.15,4405.73,-146.42
+TP-202506-0139,FY 2025–26,2025-06-12,West,Personal Care,General Trade,Extra Trade Discount,30841.74,29215.34,-1626.4
+TP-202506-0140,FY 2025–26,2025-06-10,West,Personal Care,Modern Trade,Free Goods,9227.61,9250.85,23.24
+TP-202506-0141,FY 2025–26,2025-06-13,West,Personal Care,E-commerce,Retail Visibility,12708.78,11073.63,-1635.15
+TP-202506-0142,FY 2025–26,2025-06-20,West,Home Care,General Trade,Quarterly Incentive,25351.83,31859.44,6507.61
+TP-202506-0143,FY 2025–26,2025-06-10,West,Home Care,Modern Trade,Festive Bundle,24591.33,21732.36,-2858.97
+TP-202506-0144,FY 2025–26,2025-06-20,West,Home Care,E-commerce,Volume Slab,17276.76,15950.52,-1326.24
+TP-202507-0145,FY 2025–26,2025-07-11,East,Biscuits,General Trade,Free Goods,7938.44,9537.04,1598.6
+TP-202507-0146,FY 2025–26,2025-07-22,East,Biscuits,Modern Trade,Retail Visibility,2617.83,2127.85,-489.98
+TP-202507-0147,FY 2025–26,2025-07-19,East,Biscuits,E-commerce,Quarterly Incentive,4501.42,4268.75,-232.67
+TP-202507-0148,FY 2025–26,2025-07-23,East,Snacks,General Trade,Festive Bundle,5819.34,6502.45,683.11
+TP-202507-0149,FY 2025–26,2025-07-07,East,Snacks,Modern Trade,Volume Slab,12297.44,10668.82,-1628.62
+TP-202507-0150,FY 2025–26,2025-07-14,East,Snacks,E-commerce,Extra Trade Discount,5568.26,6928.09,1359.83
+TP-202507-0151,FY 2025–26,2025-07-10,East,Personal Care,General Trade,Free Goods,25204.85,20272.33,-4932.52
+TP-202507-0152,FY 2025–26,2025-07-20,East,Personal Care,Modern Trade,Retail Visibility,14922.39,11245.18,-3677.21
+TP-202507-0153,FY 2025–26,2025-07-09,East,Personal Care,E-commerce,Quarterly Incentive,15372.71,15623.97,251.26
+TP-202507-0154,FY 2025–26,2025-07-12,East,Home Care,General Trade,Festive Bundle,15455.16,12195.8,-3259.36
+TP-202507-0155,FY 2025–26,2025-07-20,East,Home Care,Modern Trade,Volume Slab,7256.58,7985.0,728.42
+TP-202507-0156,FY 2025–26,2025-07-08,East,Home Care,E-commerce,Extra Trade Discount,8318.19,8249.96,-68.23
+TP-202507-0157,FY 2025–26,2025-07-05,North,Biscuits,General Trade,Free Goods,3103.65,2350.1,-753.55
+TP-202507-0158,FY 2025–26,2025-07-09,North,Biscuits,Modern Trade,Retail Visibility,3181.62,2570.77,-610.85
+TP-202507-0159,FY 2025–26,2025-07-20,North,Biscuits,E-commerce,Quarterly Incentive,10027.4,7719.68,-2307.72
+TP-202507-0160,FY 2025–26,2025-07-12,North,Snacks,General Trade,Festive Bundle,14704.69,14092.05,-612.64
+TP-202507-0161,FY 2025–26,2025-07-05,North,Snacks,Modern Trade,Volume Slab,4463.46,4588.08,124.62
+TP-202507-0162,FY 2025–26,2025-07-22,North,Snacks,E-commerce,Extra Trade Discount,7562.02,8838.53,1276.51
+TP-202507-0163,FY 2025–26,2025-07-09,North,Personal Care,General Trade,Free Goods,45045.06,35720.9,-9324.16
+TP-202507-0164,FY 2025–26,2025-07-05,North,Personal Care,Modern Trade,Retail Visibility,11294.94,8715.12,-2579.82
+TP-202507-0165,FY 2025–26,2025-07-10,North,Personal Care,E-commerce,Quarterly Incentive,3160.79,3417.74,256.95
+TP-202507-0166,FY 2025–26,2025-07-07,North,Home Care,General Trade,Festive Bundle,20804.2,18830.99,-1973.21
+TP-202507-0167,FY 2025–26,2025-07-11,North,Home Care,Modern Trade,Volume Slab,6494.86,6267.65,-227.21
+TP-202507-0168,FY 2025–26,2025-07-11,North,Home Care,E-commerce,Extra Trade Discount,12337.34,9706.72,-2630.62
+TP-202507-0169,FY 2025–26,2025-07-09,South,Biscuits,General Trade,Free Goods,4709.74,5357.4,647.66
+TP-202507-0170,FY 2025–26,2025-07-18,South,Biscuits,Modern Trade,Retail Visibility,4734.9,6048.1,1313.2
+TP-202507-0171,FY 2025–26,2025-07-09,South,Biscuits,E-commerce,Quarterly Incentive,5006.75,4520.97,-485.78
+TP-202507-0172,FY 2025–26,2025-07-12,South,Snacks,General Trade,Festive Bundle,17647.44,14741.83,-2905.61
+TP-202507-0173,FY 2025–26,2025-07-09,South,Snacks,Modern Trade,Volume Slab,12607.17,13734.36,1127.19
+TP-202507-0174,FY 2025–26,2025-07-20,South,Snacks,E-commerce,Extra Trade Discount,11634.17,8706.86,-2927.31
+TP-202507-0175,FY 2025–26,2025-07-21,South,Personal Care,General Trade,Free Goods,39019.95,29361.9,-9658.05
+TP-202507-0176,FY 2025–26,2025-07-15,South,Personal Care,Modern Trade,Retail Visibility,11831.25,13320.62,1489.37
+TP-202507-0177,FY 2025–26,2025-07-11,South,Personal Care,E-commerce,Quarterly Incentive,10978.81,10777.39,-201.42
+TP-202507-0178,FY 2025–26,2025-07-04,South,Home Care,General Trade,Festive Bundle,10016.22,9139.67,-876.55
+TP-202507-0179,FY 2025–26,2025-07-04,South,Home Care,Modern Trade,Volume Slab,18635.03,19989.69,1354.66
+TP-202507-0180,FY 2025–26,2025-07-07,South,Home Care,E-commerce,Extra Trade Discount,15854.3,13163.93,-2690.37
+TP-202507-0181,FY 2025–26,2025-07-11,West,Biscuits,General Trade,Free Goods,12592.99,11142.88,-1450.11
+TP-202507-0182,FY 2025–26,2025-07-11,West,Biscuits,Modern Trade,Retail Visibility,3417.04,2715.61,-701.43
+TP-202507-0183,FY 2025–26,2025-07-10,West,Biscuits,E-commerce,Quarterly Incentive,1596.99,1265.98,-331.01
+TP-202507-0184,FY 2025–26,2025-07-06,West,Snacks,General Trade,Festive Bundle,9386.46,9967.81,581.35
+TP-202507-0185,FY 2025–26,2025-07-17,West,Snacks,Modern Trade,Volume Slab,12216.38,13544.82,1328.44
+TP-202507-0186,FY 2025–26,2025-07-09,West,Snacks,E-commerce,Extra Trade Discount,3322.52,4037.62,715.1
+TP-202507-0187,FY 2025–26,2025-07-11,West,Personal Care,General Trade,Free Goods,42051.86,33583.57,-8468.29
+TP-202507-0188,FY 2025–26,2025-07-13,West,Personal Care,Modern Trade,Retail Visibility,7353.06,9412.75,2059.69
+TP-202507-0189,FY 2025–26,2025-07-07,West,Personal Care,E-commerce,Quarterly Incentive,16535.19,13350.11,-3185.08
+TP-202507-0190,FY 2025–26,2025-07-10,West,Home Care,General Trade,Festive Bundle,22739.24,25571.65,2832.41
+TP-202507-0191,FY 2025–26,2025-07-20,West,Home Care,Modern Trade,Volume Slab,13761.36,10464.16,-3297.2
+TP-202507-0192,FY 2025–26,2025-07-17,West,Home Care,E-commerce,Extra Trade Discount,16692.66,18040.05,1347.39
+TP-202508-0193,FY 2025–26,2025-08-06,East,Biscuits,General Trade,Retail Visibility,5788.82,5546.21,-242.61
+TP-202508-0194,FY 2025–26,2025-08-12,East,Biscuits,Modern Trade,Quarterly Incentive,10890.88,13644.76,2753.88
+TP-202508-0195,FY 2025–26,2025-08-14,East,Biscuits,E-commerce,Festive Bundle,9833.42,7671.21,-2162.21
+TP-202508-0196,FY 2025–26,2025-08-04,East,Snacks,General Trade,Volume Slab,31412.13,25333.72,-6078.41
+TP-202508-0197,FY 2025–26,2025-08-11,East,Snacks,Modern Trade,Extra Trade Discount,6239.78,5046.04,-1193.74
+TP-202508-0198,FY 2025–26,2025-08-20,East,Snacks,E-commerce,Free Goods,22041.48,21833.95,-207.53
+TP-202508-0199,FY 2025–26,2025-08-11,East,Personal Care,General Trade,Retail Visibility,15263.74,15907.32,643.58
+TP-202508-0200,FY 2025–26,2025-08-17,East,Personal Care,Modern Trade,Quarterly Incentive,9586.21,10606.38,1020.17
+TP-202508-0201,FY 2025–26,2025-08-10,East,Personal Care,E-commerce,Festive Bundle,14395.61,13453.79,-941.82
+TP-202508-0202,FY 2025–26,2025-08-14,East,Home Care,General Trade,Volume Slab,39320.03,34348.91,-4971.12
+TP-202508-0203,FY 2025–26,2025-08-13,East,Home Care,Modern Trade,Extra Trade Discount,24888.14,23635.7,-1252.44
+TP-202508-0204,FY 2025–26,2025-08-13,East,Home Care,E-commerce,Free Goods,21593.78,17369.41,-4224.37
+TP-202508-0205,FY 2025–26,2025-08-15,North,Biscuits,General Trade,Retail Visibility,9017.6,11227.88,2210.28
+TP-202508-0206,FY 2025–26,2025-08-11,North,Biscuits,Modern Trade,Quarterly Incentive,8208.75,7229.38,-979.37
+TP-202508-0207,FY 2025–26,2025-08-14,North,Biscuits,E-commerce,Festive Bundle,16062.3,12318.72,-3743.58
+TP-202508-0208,FY 2025–26,2025-08-18,North,Snacks,General Trade,Volume Slab,14129.07,10848.01,-3281.06
+TP-202508-0209,FY 2025–26,2025-08-10,North,Snacks,Modern Trade,Extra Trade Discount,9305.25,8526.04,-779.21
+TP-202508-0210,FY 2025–26,2025-08-14,North,Snacks,E-commerce,Free Goods,9697.51,9108.64,-588.87
+TP-202508-0211,FY 2025–26,2025-08-21,North,Personal Care,General Trade,Retail Visibility,17082.08,15198.54,-1883.54
+TP-202508-0212,FY 2025–26,2025-08-07,North,Personal Care,Modern Trade,Quarterly Incentive,24397.16,28030.14,3632.98
+TP-202508-0213,FY 2025–26,2025-08-11,North,Personal Care,E-commerce,Festive Bundle,16106.45,12375.84,-3730.61
+TP-202508-0214,FY 2025–26,2025-08-17,North,Home Care,General Trade,Volume Slab,9746.08,9216.87,-529.21
+TP-202508-0215,FY 2025–26,2025-08-09,North,Home Care,Modern Trade,Extra Trade Discount,6834.67,6039.15,-795.52
+TP-202508-0216,FY 2025–26,2025-08-12,North,Home Care,E-commerce,Free Goods,4017.26,4995.52,978.26
+TP-202508-0217,FY 2025–26,2025-08-15,South,Biscuits,General Trade,Retail Visibility,16118.38,16444.48,326.1
+TP-202508-0218,FY 2025–26,2025-08-14,South,Biscuits,Modern Trade,Quarterly Incentive,10058.52,8252.92,-1805.6
+TP-202508-0219,FY 2025–26,2025-08-13,South,Biscuits,E-commerce,Festive Bundle,10576.26,9415.82,-1160.44
+TP-202508-0220,FY 2025–26,2025-08-13,South,Snacks,General Trade,Volume Slab,8650.44,7286.1,-1364.34
+TP-202508-0221,FY 2025–26,2025-08-09,South,Snacks,Modern Trade,Extra Trade Discount,17695.47,16612.98,-1082.49
+TP-202508-0222,FY 2025–26,2025-08-13,South,Snacks,E-commerce,Free Goods,14670.29,16007.4,1337.11
+TP-202508-0223,FY 2025–26,2025-08-23,South,Personal Care,General Trade,Retail Visibility,20556.93,24528.56,3971.63
+TP-202508-0224,FY 2025–26,2025-08-10,South,Personal Care,Modern Trade,Quarterly Incentive,9780.5,10626.86,846.36
+TP-202508-0225,FY 2025–26,2025-08-15,South,Personal Care,E-commerce,Festive Bundle,10888.48,8639.45,-2249.03
+TP-202508-0226,FY 2025–26,2025-08-07,South,Home Care,General Trade,Volume Slab,19799.19,16284.06,-3515.13
+TP-202508-0227,FY 2025–26,2025-08-22,South,Home Care,Modern Trade,Extra Trade Discount,17335.26,14638.97,-2696.29
+TP-202508-0228,FY 2025–26,2025-08-19,South,Home Care,E-commerce,Free Goods,4598.74,3512.95,-1085.79
+TP-202508-0229,FY 2025–26,2025-08-09,West,Biscuits,General Trade,Retail Visibility,2911.83,3657.45,745.62
+TP-202508-0230,FY 2025–26,2025-08-15,West,Biscuits,Modern Trade,Quarterly Incentive,3189.49,2880.27,-309.22
+TP-202508-0231,FY 2025–26,2025-08-12,West,Biscuits,E-commerce,Festive Bundle,5905.61,7280.12,1374.51
+TP-202508-0232,FY 2025–26,2025-08-08,West,Snacks,General Trade,Volume Slab,29045.37,32446.79,3401.42
+TP-202508-0233,FY 2025–26,2025-08-16,West,Snacks,Modern Trade,Extra Trade Discount,18277.0,18504.46,227.46
+TP-202508-0234,FY 2025–26,2025-08-23,West,Snacks,E-commerce,Free Goods,11696.65,13938.98,2242.33
+TP-202508-0235,FY 2025–26,2025-08-14,West,Personal Care,General Trade,Retail Visibility,19322.08,17580.63,-1741.45
+TP-202508-0236,FY 2025–26,2025-08-13,West,Personal Care,Modern Trade,Quarterly Incentive,24724.98,27784.97,3059.99
+TP-202508-0237,FY 2025–26,2025-08-10,West,Personal Care,E-commerce,Festive Bundle,4163.6,4267.48,103.88
+TP-202508-0238,FY 2025–26,2025-08-08,West,Home Care,General Trade,Volume Slab,21161.39,15739.39,-5422.0
+TP-202508-0239,FY 2025–26,2025-08-07,West,Home Care,Modern Trade,Extra Trade Discount,6895.9,6645.51,-250.39
+TP-202508-0240,FY 2025–26,2025-08-18,West,Home Care,E-commerce,Free Goods,19451.58,17240.3,-2211.28
+TP-202509-0241,FY 2025–26,2025-09-23,East,Biscuits,General Trade,Quarterly Incentive,8524.19,10811.03,2286.84
+TP-202509-0242,FY 2025–26,2025-09-09,East,Biscuits,Modern Trade,Festive Bundle,7249.39,8931.11,1681.72
+TP-202509-0243,FY 2025–26,2025-09-23,East,Biscuits,E-commerce,Volume Slab,10219.44,8023.24,-2196.2
+TP-202509-0244,FY 2025–26,2025-09-07,East,Snacks,General Trade,Extra Trade Discount,10343.46,10884.93,541.47
+TP-202509-0245,FY 2025–26,2025-09-04,East,Snacks,Modern Trade,Free Goods,3722.83,4461.85,739.02
+TP-202509-0246,FY 2025–26,2025-09-16,East,Snacks,E-commerce,Retail Visibility,6321.44,4919.72,-1401.72
+TP-202509-0247,FY 2025–26,2025-09-08,East,Personal Care,General Trade,Quarterly Incentive,8916.44,8175.25,-741.19
+TP-202509-0248,FY 2025–26,2025-09-11,East,Personal Care,Modern Trade,Festive Bundle,20353.22,25955.28,5602.06
+TP-202509-0249,FY 2025–26,2025-09-08,East,Personal Care,E-commerce,Volume Slab,3178.96,3488.33,309.37
+TP-202509-0250,FY 2025–26,2025-09-22,East,Home Care,General Trade,Extra Trade Discount,32732.4,32976.32,243.92
+TP-202509-0251,FY 2025–26,2025-09-18,East,Home Care,Modern Trade,Free Goods,19463.0,20099.28,636.28
+TP-202509-0252,FY 2025–26,2025-09-09,East,Home Care,E-commerce,Retail Visibility,40127.27,31398.99,-8728.28
+TP-202509-0253,FY 2025–26,2025-09-18,North,Biscuits,General Trade,Quarterly Incentive,4484.24,5445.03,960.79
+TP-202509-0254,FY 2025–26,2025-09-06,North,Biscuits,Modern Trade,Festive Bundle,10966.09,11316.44,350.35
+TP-202509-0255,FY 2025–26,2025-09-22,North,Biscuits,E-commerce,Volume Slab,7531.26,6125.77,-1405.49
+TP-202509-0256,FY 2025–26,2025-09-15,North,Snacks,General Trade,Extra Trade Discount,15852.2,18758.21,2906.01
+TP-202509-0257,FY 2025–26,2025-09-07,North,Snacks,Modern Trade,Free Goods,9450.6,11212.11,1761.51
+TP-202509-0258,FY 2025–26,2025-09-16,North,Snacks,E-commerce,Retail Visibility,6847.22,5436.77,-1410.45
+TP-202509-0259,FY 2025–26,2025-09-14,North,Personal Care,General Trade,Quarterly Incentive,6859.82,6220.65,-639.17
+TP-202509-0260,FY 2025–26,2025-09-14,North,Personal Care,Modern Trade,Festive Bundle,18940.51,14239.77,-4700.74
+TP-202509-0261,FY 2025–26,2025-09-09,North,Personal Care,E-commerce,Volume Slab,7528.26,5992.16,-1536.1
+TP-202509-0262,FY 2025–26,2025-09-06,North,Home Care,General Trade,Extra Trade Discount,9635.09,11713.3,2078.21
+TP-202509-0263,FY 2025–26,2025-09-17,North,Home Care,Modern Trade,Free Goods,26974.55,21020.18,-5954.37
+TP-202509-0264,FY 2025–26,2025-09-17,North,Home Care,E-commerce,Retail Visibility,9969.55,7448.7,-2520.85
+TP-202509-0265,FY 2025–26,2025-09-20,South,Biscuits,General Trade,Quarterly Incentive,19903.91,17461.53,-2442.38
+TP-202509-0266,FY 2025–26,2025-09-20,South,Biscuits,Modern Trade,Festive Bundle,3358.6,3652.81,294.21
+TP-202509-0267,FY 2025–26,2025-09-21,South,Biscuits,E-commerce,Volume Slab,4698.94,4541.27,-157.67
+TP-202509-0268,FY 2025–26,2025-09-14,South,Snacks,General Trade,Extra Trade Discount,21478.97,26256.78,4777.81
+TP-202509-0269,FY 2025–26,2025-09-12,South,Snacks,Modern Trade,Free Goods,22176.13,17459.83,-4716.3
+TP-202509-0270,FY 2025–26,2025-09-16,South,Snacks,E-commerce,Retail Visibility,6333.69,5611.79,-721.9
+TP-202509-0271,FY 2025–26,2025-09-05,South,Personal Care,General Trade,Quarterly Incentive,22196.52,23346.64,1150.12
+TP-202509-0272,FY 2025–26,2025-09-22,South,Personal Care,Modern Trade,Festive Bundle,14655.67,17697.15,3041.48
+TP-202509-0273,FY 2025–26,2025-09-05,South,Personal Care,E-commerce,Volume Slab,7593.83,6070.57,-1523.26
+TP-202509-0274,FY 2025–26,2025-09-20,South,Home Care,General Trade,Extra Trade Discount,18018.65,17121.59,-897.06
+TP-202509-0275,FY 2025–26,2025-09-07,South,Home Care,Modern Trade,Free Goods,14152.6,10775.11,-3377.49
+TP-202509-0276,FY 2025–26,2025-09-23,South,Home Care,E-commerce,Retail Visibility,9418.94,8559.92,-859.02
+TP-202509-0277,FY 2025–26,2025-09-09,West,Biscuits,General Trade,Quarterly Incentive,13670.92,10266.98,-3403.94
+TP-202509-0278,FY 2025–26,2025-09-04,West,Biscuits,Modern Trade,Festive Bundle,2591.34,1936.54,-654.8
+TP-202509-0279,FY 2025–26,2025-09-07,West,Biscuits,E-commerce,Volume Slab,4725.06,4316.84,-408.22
+TP-202509-0280,FY 2025–26,2025-09-17,West,Snacks,General Trade,Extra Trade Discount,13340.26,14087.21,746.95
+TP-202509-0281,FY 2025–26,2025-09-15,West,Snacks,Modern Trade,Free Goods,7406.92,7434.22,27.3
+TP-202509-0282,FY 2025–26,2025-09-10,West,Snacks,E-commerce,Retail Visibility,2847.34,3393.33,545.99
+TP-202509-0283,FY 2025–26,2025-09-14,West,Personal Care,General Trade,Quarterly Incentive,9674.33,10264.41,590.08
+TP-202509-0284,FY 2025–26,2025-09-15,West,Personal Care,Modern Trade,Festive Bundle,20683.43,24151.17,3467.74
+TP-202509-0285,FY 2025–26,2025-09-07,West,Personal Care,E-commerce,Volume Slab,19591.57,24309.85,4718.28
+TP-202509-0286,FY 2025–26,2025-09-22,West,Home Care,General Trade,Extra Trade Discount,16888.58,20697.18,3808.6
+TP-202509-0287,FY 2025–26,2025-09-12,West,Home Care,Modern Trade,Free Goods,15510.48,16762.56,1252.08
+TP-202509-0288,FY 2025–26,2025-09-06,West,Home Care,E-commerce,Retail Visibility,7330.3,6557.25,-773.05
+TP-202510-0289,FY 2025–26,2025-10-12,East,Biscuits,General Trade,Festive Bundle,10069.4,11282.22,1212.82
+TP-202510-0290,FY 2025–26,2025-10-17,East,Biscuits,Modern Trade,Volume Slab,23068.37,18566.33,-4502.04
+TP-202510-0291,FY 2025–26,2025-10-12,East,Biscuits,E-commerce,Extra Trade Discount,8707.53,9160.06,452.53
+TP-202510-0292,FY 2025–26,2025-10-09,East,Snacks,General Trade,Free Goods,8416.39,7276.74,-1139.65
+TP-202510-0293,FY 2025–26,2025-10-09,East,Snacks,Modern Trade,Retail Visibility,15464.22,13188.57,-2275.65
+TP-202510-0294,FY 2025–26,2025-10-10,East,Snacks,E-commerce,Quarterly Incentive,14642.26,11368.0,-3274.26
+TP-202510-0295,FY 2025–26,2025-10-10,East,Personal Care,General Trade,Festive Bundle,34599.13,27178.84,-7420.29
+TP-202510-0296,FY 2025–26,2025-10-19,East,Personal Care,Modern Trade,Volume Slab,7668.1,6396.7,-1271.4
+TP-202510-0297,FY 2025–26,2025-10-13,East,Personal Care,E-commerce,Extra Trade Discount,13116.99,12270.92,-846.07
+TP-202510-0298,FY 2025–26,2025-10-05,East,Home Care,General Trade,Free Goods,14566.77,11416.12,-3150.65
+TP-202510-0299,FY 2025–26,2025-10-17,East,Home Care,Modern Trade,Retail Visibility,13948.3,15883.31,1935.01
+TP-202510-0300,FY 2025–26,2025-10-19,East,Home Care,E-commerce,Quarterly Incentive,19047.71,15193.0,-3854.71
+TP-202510-0301,FY 2025–26,2025-10-21,North,Biscuits,General Trade,Festive Bundle,11877.54,9761.56,-2115.98
+TP-202510-0302,FY 2025–26,2025-10-04,North,Biscuits,Modern Trade,Volume Slab,5357.07,4742.69,-614.38
+TP-202510-0303,FY 2025–26,2025-10-09,North,Biscuits,E-commerce,Extra Trade Discount,3047.09,3286.32,239.23
+TP-202510-0304,FY 2025–26,2025-10-12,North,Snacks,General Trade,Free Goods,5698.62,4773.15,-925.47
+TP-202510-0305,FY 2025–26,2025-10-19,North,Snacks,Modern Trade,Retail Visibility,15809.72,14616.05,-1193.67
+TP-202510-0306,FY 2025–26,2025-10-20,North,Snacks,E-commerce,Quarterly Incentive,8474.29,6975.19,-1499.1
+TP-202510-0307,FY 2025–26,2025-10-15,North,Personal Care,General Trade,Festive Bundle,34054.98,40912.5,6857.52
+TP-202510-0308,FY 2025–26,2025-10-20,North,Personal Care,Modern Trade,Volume Slab,8206.32,8699.57,493.25
+TP-202510-0309,FY 2025–26,2025-10-10,North,Personal Care,E-commerce,Extra Trade Discount,9507.2,9429.33,-77.87
+TP-202510-0310,FY 2025–26,2025-10-07,North,Home Care,General Trade,Free Goods,23782.38,18903.62,-4878.76
+TP-202510-0311,FY 2025–26,2025-10-04,North,Home Care,Modern Trade,Retail Visibility,17149.65,18781.53,1631.88
+TP-202510-0312,FY 2025–26,2025-10-19,North,Home Care,E-commerce,Quarterly Incentive,7826.71,7575.17,-251.54
+TP-202510-0313,FY 2025–26,2025-10-12,South,Biscuits,General Trade,Festive Bundle,6261.07,5174.34,-1086.73
+TP-202510-0314,FY 2025–26,2025-10-20,South,Biscuits,Modern Trade,Volume Slab,9555.86,10376.25,820.39
+TP-202510-0315,FY 2025–26,2025-10-04,South,Biscuits,E-commerce,Extra Trade Discount,3906.47,3905.47,-1.0
+TP-202510-0316,FY 2025–26,2025-10-06,South,Snacks,General Trade,Free Goods,18280.84,14391.06,-3889.78
+TP-202510-0317,FY 2025–26,2025-10-19,South,Snacks,Modern Trade,Retail Visibility,19330.57,18173.01,-1157.56
+TP-202510-0318,FY 2025–26,2025-10-13,South,Snacks,E-commerce,Quarterly Incentive,5927.49,5071.43,-856.06
+TP-202510-0319,FY 2025–26,2025-10-06,South,Personal Care,General Trade,Festive Bundle,21730.14,19318.93,-2411.21
+TP-202510-0320,FY 2025–26,2025-10-13,South,Personal Care,Modern Trade,Volume Slab,9382.0,10205.36,823.36
+TP-202510-0321,FY 2025–26,2025-10-16,South,Personal Care,E-commerce,Extra Trade Discount,22360.14,18758.42,-3601.72
+TP-202510-0322,FY 2025–26,2025-10-12,South,Home Care,General Trade,Free Goods,10831.24,10763.04,-68.2
+TP-202510-0323,FY 2025–26,2025-10-07,South,Home Care,Modern Trade,Retail Visibility,10160.8,11496.43,1335.63
+TP-202510-0324,FY 2025–26,2025-10-11,South,Home Care,E-commerce,Quarterly Incentive,17283.07,14751.69,-2531.38
+TP-202510-0325,FY 2025–26,2025-10-14,West,Biscuits,General Trade,Festive Bundle,14558.77,13057.62,-1501.15
+TP-202510-0326,FY 2025–26,2025-10-23,West,Biscuits,Modern Trade,Volume Slab,6524.75,6701.4,176.65
+TP-202510-0327,FY 2025–26,2025-10-21,West,Biscuits,E-commerce,Extra Trade Discount,2491.75,2128.5,-363.25
+TP-202510-0328,FY 2025–26,2025-10-13,West,Snacks,General Trade,Free Goods,28245.28,22385.77,-5859.51
+TP-202510-0329,FY 2025–26,2025-10-14,West,Snacks,Modern Trade,Retail Visibility,9052.9,7392.62,-1660.28
+TP-202510-0330,FY 2025–26,2025-10-20,West,Snacks,E-commerce,Quarterly Incentive,3911.83,4946.35,1034.52
+TP-202510-0331,FY 2025–26,2025-10-10,West,Personal Care,General Trade,Festive Bundle,28385.19,23773.49,-4611.7
+TP-202510-0332,FY 2025–26,2025-10-12,West,Personal Care,Modern Trade,Volume Slab,5185.29,4115.21,-1070.08
+TP-202510-0333,FY 2025–26,2025-10-12,West,Personal Care,E-commerce,Extra Trade Discount,12988.59,10070.41,-2918.18
+TP-202510-0334,FY 2025–26,2025-10-10,West,Home Care,General Trade,Free Goods,11213.82,10032.51,-1181.31
+TP-202510-0335,FY 2025–26,2025-10-18,West,Home Care,Modern Trade,Retail Visibility,8459.95,9650.81,1190.86
+TP-202510-0336,FY 2025–26,2025-10-16,West,Home Care,E-commerce,Quarterly Incentive,17271.21,16820.03,-451.18
+TP-202511-0337,FY 2025–26,2025-11-07,East,Biscuits,General Trade,Volume Slab,17210.62,18414.06,1203.44
+TP-202511-0338,FY 2025–26,2025-11-11,East,Biscuits,Modern Trade,Extra Trade Discount,9972.65,8314.53,-1658.12
+TP-202511-0339,FY 2025–26,2025-11-16,East,Biscuits,E-commerce,Free Goods,5233.39,4960.53,-272.86
+TP-202511-0340,FY 2025–26,2025-11-15,East,Snacks,General Trade,Retail Visibility,9024.56,11056.13,2031.57
+TP-202511-0341,FY 2025–26,2025-11-16,East,Snacks,Modern Trade,Quarterly Incentive,25007.75,27139.43,2131.68
+TP-202511-0342,FY 2025–26,2025-11-13,East,Snacks,E-commerce,Festive Bundle,9707.43,7876.5,-1830.93
+TP-202511-0343,FY 2025–26,2025-11-04,East,Personal Care,General Trade,Volume Slab,18223.64,16540.2,-1683.44
+TP-202511-0344,FY 2025–26,2025-11-21,East,Personal Care,Modern Trade,Extra Trade Discount,8038.05,7706.0,-332.05
+TP-202511-0345,FY 2025–26,2025-11-06,East,Personal Care,E-commerce,Free Goods,6151.41,6591.55,440.14
+TP-202511-0346,FY 2025–26,2025-11-14,East,Home Care,General Trade,Retail Visibility,28812.92,29182.12,369.2
+TP-202511-0347,FY 2025–26,2025-11-05,East,Home Care,Modern Trade,Quarterly Incentive,11545.17,12123.86,578.69
+TP-202511-0348,FY 2025–26,2025-11-12,East,Home Care,E-commerce,Festive Bundle,12271.73,14749.59,2477.86
+TP-202511-0349,FY 2025–26,2025-11-05,North,Biscuits,General Trade,Volume Slab,6165.9,4738.58,-1427.32
+TP-202511-0350,FY 2025–26,2025-11-07,North,Biscuits,Modern Trade,Extra Trade Discount,8009.77,7792.64,-217.13
+TP-202511-0351,FY 2025–26,2025-11-12,North,Biscuits,E-commerce,Free Goods,5003.74,3804.34,-1199.4
+TP-202511-0352,FY 2025–26,2025-11-20,North,Snacks,General Trade,Retail Visibility,17758.36,17766.87,8.51
+TP-202511-0353,FY 2025–26,2025-11-21,North,Snacks,Modern Trade,Quarterly Incentive,4861.82,4644.54,-217.28
+TP-202511-0354,FY 2025–26,2025-11-13,North,Snacks,E-commerce,Festive Bundle,11458.24,11723.15,264.91
+TP-202511-0355,FY 2025–26,2025-11-20,North,Personal Care,General Trade,Volume Slab,24548.29,18347.61,-6200.68
+TP-202511-0356,FY 2025–26,2025-11-22,North,Personal Care,Modern Trade,Extra Trade Discount,16888.06,14240.36,-2647.7
+TP-202511-0357,FY 2025–26,2025-11-10,North,Personal Care,E-commerce,Free Goods,11227.61,9384.58,-1843.03
+TP-202511-0358,FY 2025–26,2025-11-08,North,Home Care,General Trade,Retail Visibility,16685.33,17956.61,1271.28
+TP-202511-0359,FY 2025–26,2025-11-18,North,Home Care,Modern Trade,Quarterly Incentive,18603.59,16550.95,-2052.64
+TP-202511-0360,FY 2025–26,2025-11-20,North,Home Care,E-commerce,Festive Bundle,13888.87,11711.13,-2177.74
+TP-202511-0361,FY 2025–26,2025-11-18,South,Biscuits,General Trade,Volume Slab,8873.71,9881.83,1008.12
+TP-202511-0362,FY 2025–26,2025-11-23,South,Biscuits,Modern Trade,Extra Trade Discount,6275.12,4998.21,-1276.91
+TP-202511-0363,FY 2025–26,2025-11-23,South,Biscuits,E-commerce,Free Goods,8453.22,8487.53,34.31
+TP-202511-0364,FY 2025–26,2025-11-14,South,Snacks,General Trade,Retail Visibility,26874.41,26637.82,-236.59
+TP-202511-0365,FY 2025–26,2025-11-17,South,Snacks,Modern Trade,Quarterly Incentive,10309.14,12067.98,1758.84
+TP-202511-0366,FY 2025–26,2025-11-22,South,Snacks,E-commerce,Festive Bundle,2614.19,2915.41,301.22
+TP-202511-0367,FY 2025–26,2025-11-23,South,Personal Care,General Trade,Volume Slab,10837.27,11480.79,643.52
+TP-202511-0368,FY 2025–26,2025-11-17,South,Personal Care,Modern Trade,Extra Trade Discount,12425.45,15157.37,2731.92
+TP-202511-0369,FY 2025–26,2025-11-19,South,Personal Care,E-commerce,Free Goods,7917.3,9741.37,1824.07
+TP-202511-0370,FY 2025–26,2025-11-08,South,Home Care,General Trade,Retail Visibility,42494.82,47006.85,4512.03
+TP-202511-0371,FY 2025–26,2025-11-09,South,Home Care,Modern Trade,Quarterly Incentive,28834.5,23207.34,-5627.16
+TP-202511-0372,FY 2025–26,2025-11-13,South,Home Care,E-commerce,Festive Bundle,33750.91,25378.17,-8372.74
+TP-202511-0373,FY 2025–26,2025-11-15,West,Biscuits,General Trade,Volume Slab,6503.09,5750.01,-753.08
+TP-202511-0374,FY 2025–26,2025-11-22,West,Biscuits,Modern Trade,Extra Trade Discount,12078.95,9297.45,-2781.5
+TP-202511-0375,FY 2025–26,2025-11-18,West,Biscuits,E-commerce,Free Goods,4998.96,5353.11,354.15
+TP-202511-0376,FY 2025–26,2025-11-17,West,Snacks,General Trade,Retail Visibility,10210.96,8712.55,-1498.41
+TP-202511-0377,FY 2025–26,2025-11-05,West,Snacks,Modern Trade,Quarterly Incentive,10514.3,8360.64,-2153.66
+TP-202511-0378,FY 2025–26,2025-11-04,West,Snacks,E-commerce,Festive Bundle,11923.99,12490.21,566.22
+TP-202511-0379,FY 2025–26,2025-11-23,West,Personal Care,General Trade,Volume Slab,32908.65,34103.78,1195.13
+TP-202511-0380,FY 2025–26,2025-11-15,West,Personal Care,Modern Trade,Extra Trade Discount,19968.3,17711.05,-2257.25
+TP-202511-0381,FY 2025–26,2025-11-06,West,Personal Care,E-commerce,Free Goods,8203.86,8109.46,-94.4
+TP-202511-0382,FY 2025–26,2025-11-05,West,Home Care,General Trade,Retail Visibility,11361.22,13219.4,1858.18
+TP-202511-0383,FY 2025–26,2025-11-15,West,Home Care,Modern Trade,Quarterly Incentive,29798.73,22509.99,-7288.74
+TP-202511-0384,FY 2025–26,2025-11-13,West,Home Care,E-commerce,Festive Bundle,7712.8,5817.69,-1895.11
+TP-202512-0385,FY 2025–26,2025-12-09,East,Biscuits,General Trade,Extra Trade Discount,5567.01,5868.64,301.63
+TP-202512-0386,FY 2025–26,2025-12-17,East,Biscuits,Modern Trade,Free Goods,6955.44,7672.91,717.47
+TP-202512-0387,FY 2025–26,2025-12-15,East,Biscuits,E-commerce,Retail Visibility,9928.43,7901.86,-2026.57
+TP-202512-0388,FY 2025–26,2025-12-11,East,Snacks,General Trade,Quarterly Incentive,10528.3,10727.1,198.8
+TP-202512-0389,FY 2025–26,2025-12-07,East,Snacks,Modern Trade,Festive Bundle,10782.05,11703.83,921.78
+TP-202512-0390,FY 2025–26,2025-12-15,East,Snacks,E-commerce,Volume Slab,12554.92,13484.59,929.67
+TP-202512-0391,FY 2025–26,2025-12-07,East,Personal Care,General Trade,Extra Trade Discount,21693.5,22722.58,1029.08
+TP-202512-0392,FY 2025–26,2025-12-13,East,Personal Care,Modern Trade,Free Goods,12421.9,11502.75,-919.15
+TP-202512-0393,FY 2025–26,2025-12-21,East,Personal Care,E-commerce,Retail Visibility,4586.14,4707.15,121.01
+TP-202512-0394,FY 2025–26,2025-12-19,East,Home Care,General Trade,Quarterly Incentive,14554.34,13993.82,-560.52
+TP-202512-0395,FY 2025–26,2025-12-22,East,Home Care,Modern Trade,Festive Bundle,32423.77,28923.87,-3499.9
+TP-202512-0396,FY 2025–26,2025-12-04,East,Home Care,E-commerce,Volume Slab,5601.38,5584.3,-17.08
+TP-202512-0397,FY 2025–26,2025-12-11,North,Biscuits,General Trade,Extra Trade Discount,7747.68,6257.79,-1489.89
+TP-202512-0398,FY 2025–26,2025-12-21,North,Biscuits,Modern Trade,Free Goods,8191.03,10420.31,2229.28
+TP-202512-0399,FY 2025–26,2025-12-08,North,Biscuits,E-commerce,Retail Visibility,2339.94,2618.72,278.78
+TP-202512-0400,FY 2025–26,2025-12-12,North,Snacks,General Trade,Quarterly Incentive,30121.72,25644.27,-4477.45
+TP-202512-0401,FY 2025–26,2025-12-10,North,Snacks,Modern Trade,Festive Bundle,10848.66,12469.13,1620.47
+TP-202512-0402,FY 2025–26,2025-12-18,North,Snacks,E-commerce,Volume Slab,4812.11,5417.21,605.1
+TP-202512-0403,FY 2025–26,2025-12-04,North,Personal Care,General Trade,Extra Trade Discount,20445.14,20819.76,374.62
+TP-202512-0404,FY 2025–26,2025-12-04,North,Personal Care,Modern Trade,Free Goods,18734.44,18757.51,23.07
+TP-202512-0405,FY 2025–26,2025-12-18,North,Personal Care,E-commerce,Retail Visibility,23922.67,29352.82,5430.15
+TP-202512-0406,FY 2025–26,2025-12-20,North,Home Care,General Trade,Quarterly Incentive,32672.77,28818.69,-3854.08
+TP-202512-0407,FY 2025–26,2025-12-14,North,Home Care,Modern Trade,Festive Bundle,7062.74,5577.35,-1485.39
+TP-202512-0408,FY 2025–26,2025-12-10,North,Home Care,E-commerce,Volume Slab,10449.73,7791.89,-2657.84
+TP-202512-0409,FY 2025–26,2025-12-21,South,Biscuits,General Trade,Extra Trade Discount,3577.25,3427.94,-149.31
+TP-202512-0410,FY 2025–26,2025-12-21,South,Biscuits,Modern Trade,Free Goods,5453.4,5799.66,346.26
+TP-202512-0411,FY 2025–26,2025-12-05,South,Biscuits,E-commerce,Retail Visibility,5324.18,5377.13,52.95
+TP-202512-0412,FY 2025–26,2025-12-17,South,Snacks,General Trade,Quarterly Incentive,11172.1,12434.09,1261.99
+TP-202512-0413,FY 2025–26,2025-12-15,South,Snacks,Modern Trade,Festive Bundle,7562.49,6581.59,-980.9
+TP-202512-0414,FY 2025–26,2025-12-23,South,Snacks,E-commerce,Volume Slab,8182.1,6698.29,-1483.81
+TP-202512-0415,FY 2025–26,2025-12-04,South,Personal Care,General Trade,Extra Trade Discount,26870.57,28125.32,1254.75
+TP-202512-0416,FY 2025–26,2025-12-17,South,Personal Care,Modern Trade,Free Goods,12588.99,10334.19,-2254.8
+TP-202512-0417,FY 2025–26,2025-12-21,South,Personal Care,E-commerce,Retail Visibility,6698.96,6371.65,-327.31
+TP-202512-0418,FY 2025–26,2025-12-22,South,Home Care,General Trade,Quarterly Incentive,23092.15,18860.29,-4231.86
+TP-202512-0419,FY 2025–26,2025-12-07,South,Home Care,Modern Trade,Festive Bundle,22078.03,16654.44,-5423.59
+TP-202512-0420,FY 2025–26,2025-12-22,South,Home Care,E-commerce,Volume Slab,15561.61,18246.84,2685.23
+TP-202512-0421,FY 2025–26,2025-12-08,West,Biscuits,General Trade,Extra Trade Discount,8557.33,9131.78,574.45
+TP-202512-0422,FY 2025–26,2025-12-16,West,Biscuits,Modern Trade,Free Goods,4879.62,6168.23,1288.61
+TP-202512-0423,FY 2025–26,2025-12-21,West,Biscuits,E-commerce,Retail Visibility,10337.18,9998.72,-338.46
+TP-202512-0424,FY 2025–26,2025-12-17,West,Snacks,General Trade,Quarterly Incentive,20711.71,17619.91,-3091.8
+TP-202512-0425,FY 2025–26,2025-12-22,West,Snacks,Modern Trade,Festive Bundle,9129.77,7147.88,-1981.89
+TP-202512-0426,FY 2025–26,2025-12-11,West,Snacks,E-commerce,Volume Slab,7347.14,6357.01,-990.13
+TP-202512-0427,FY 2025–26,2025-12-05,West,Personal Care,General Trade,Extra Trade Discount,20574.89,18678.24,-1896.65
+TP-202512-0428,FY 2025–26,2025-12-15,West,Personal Care,Modern Trade,Free Goods,3799.03,3542.4,-256.63
+TP-202512-0429,FY 2025–26,2025-12-20,West,Personal Care,E-commerce,Retail Visibility,5077.53,4539.89,-537.64
+TP-202512-0430,FY 2025–26,2025-12-04,West,Home Care,General Trade,Quarterly Incentive,35536.33,43845.16,8308.83
+TP-202512-0431,FY 2025–26,2025-12-16,West,Home Care,Modern Trade,Festive Bundle,33392.99,25178.63,-8214.36
+TP-202512-0432,FY 2025–26,2025-12-22,West,Home Care,E-commerce,Volume Slab,24254.07,25331.02,1076.95
+TP-202601-0433,FY 2025–26,2026-01-17,East,Biscuits,General Trade,Free Goods,7249.38,5841.57,-1407.81
+TP-202601-0434,FY 2025–26,2026-01-16,East,Biscuits,Modern Trade,Retail Visibility,4097.69,4455.52,357.83
+TP-202601-0435,FY 2025–26,2026-01-13,East,Biscuits,E-commerce,Quarterly Incentive,7394.55,6577.47,-817.08
+TP-202601-0436,FY 2025–26,2026-01-20,East,Snacks,General Trade,Festive Bundle,15354.61,11712.5,-3642.11
+TP-202601-0437,FY 2025–26,2026-01-10,East,Snacks,Modern Trade,Volume Slab,24001.0,17812.75,-6188.25
+TP-202601-0438,FY 2025–26,2026-01-10,East,Snacks,E-commerce,Extra Trade Discount,4745.88,4949.58,203.7
+TP-202601-0439,FY 2025–26,2026-01-22,East,Personal Care,General Trade,Free Goods,16661.24,13014.09,-3647.15
+TP-202601-0440,FY 2025–26,2026-01-19,East,Personal Care,Modern Trade,Retail Visibility,7448.19,8347.43,899.24
+TP-202601-0441,FY 2025–26,2026-01-19,East,Personal Care,E-commerce,Quarterly Incentive,7698.88,7607.06,-91.82
+TP-202601-0442,FY 2025–26,2026-01-13,East,Home Care,General Trade,Festive Bundle,21107.5,26014.55,4907.05
+TP-202601-0443,FY 2025–26,2026-01-18,East,Home Care,Modern Trade,Volume Slab,9172.93,9680.37,507.44
+TP-202601-0444,FY 2025–26,2026-01-06,East,Home Care,E-commerce,Extra Trade Discount,3656.22,3617.97,-38.25
+TP-202601-0445,FY 2025–26,2026-01-07,North,Biscuits,General Trade,Free Goods,8113.78,6066.43,-2047.35
+TP-202601-0446,FY 2025–26,2026-01-05,North,Biscuits,Modern Trade,Retail Visibility,3502.67,2688.35,-814.32
+TP-202601-0447,FY 2025–26,2026-01-15,North,Biscuits,E-commerce,Quarterly Incentive,1713.21,1397.25,-315.96
+TP-202601-0448,FY 2025–26,2026-01-09,North,Snacks,General Trade,Festive Bundle,11635.38,11914.93,279.55
+TP-202601-0449,FY 2025–26,2026-01-12,North,Snacks,Modern Trade,Volume Slab,10531.26,11827.26,1296.0
+TP-202601-0450,FY 2025–26,2026-01-04,North,Snacks,E-commerce,Extra Trade Discount,5898.53,7311.16,1412.63
+TP-202601-0451,FY 2025–26,2026-01-13,North,Personal Care,General Trade,Free Goods,25824.35,23772.52,-2051.83
+TP-202601-0452,FY 2025–26,2026-01-20,North,Personal Care,Modern Trade,Retail Visibility,8046.84,6742.28,-1304.56
+TP-202601-0453,FY 2025–26,2026-01-21,North,Personal Care,E-commerce,Quarterly Incentive,9549.55,7812.87,-1736.68
+TP-202601-0454,FY 2025–26,2026-01-18,North,Home Care,General Trade,Festive Bundle,8778.98,7457.73,-1321.25
+TP-202601-0455,FY 2025–26,2026-01-14,North,Home Care,Modern Trade,Volume Slab,4927.8,3779.0,-1148.8
+TP-202601-0456,FY 2025–26,2026-01-08,North,Home Care,E-commerce,Extra Trade Discount,6144.65,7606.31,1461.66
+TP-202601-0457,FY 2025–26,2026-01-08,South,Biscuits,General Trade,Free Goods,6464.26,7443.05,978.79
+TP-202601-0458,FY 2025–26,2026-01-12,South,Biscuits,Modern Trade,Retail Visibility,5785.61,7380.71,1595.1
+TP-202601-0459,FY 2025–26,2026-01-22,South,Biscuits,E-commerce,Quarterly Incentive,3743.73,2883.03,-860.7
+TP-202601-0460,FY 2025–26,2026-01-12,South,Snacks,General Trade,Festive Bundle,17197.49,13336.71,-3860.78
+TP-202601-0461,FY 2025–26,2026-01-20,South,Snacks,Modern Trade,Volume Slab,11123.95,13455.66,2331.71
+TP-202601-0462,FY 2025–26,2026-01-10,South,Snacks,E-commerce,Extra Trade Discount,2846.37,3042.41,196.04
+TP-202601-0463,FY 2025–26,2026-01-08,South,Personal Care,General Trade,Free Goods,5440.86,4465.05,-975.81
+TP-202601-0464,FY 2025–26,2026-01-10,South,Personal Care,Modern Trade,Retail Visibility,9204.07,8204.33,-999.74
+TP-202601-0465,FY 2025–26,2026-01-14,South,Personal Care,E-commerce,Quarterly Incentive,15019.31,13395.26,-1624.05
+TP-202601-0466,FY 2025–26,2026-01-13,South,Home Care,General Trade,Festive Bundle,19134.12,22678.18,3544.06
+TP-202601-0467,FY 2025–26,2026-01-08,South,Home Care,Modern Trade,Volume Slab,1751.47,2106.89,355.42
+TP-202601-0468,FY 2025–26,2026-01-11,South,Home Care,E-commerce,Extra Trade Discount,5767.87,4736.8,-1031.07
+TP-202601-0469,FY 2025–26,2026-01-21,West,Biscuits,General Trade,Free Goods,10407.44,8767.89,-1639.55
+TP-202601-0470,FY 2025–26,2026-01-16,West,Biscuits,Modern Trade,Retail Visibility,8891.32,7014.77,-1876.55
+TP-202601-0471,FY 2025–26,2026-01-22,West,Biscuits,E-commerce,Quarterly Incentive,5165.66,3940.35,-1225.31
+TP-202601-0472,FY 2025–26,2026-01-12,West,Snacks,General Trade,Festive Bundle,21939.31,16341.42,-5597.89
+TP-202601-0473,FY 2025–26,2026-01-23,West,Snacks,Modern Trade,Volume Slab,18342.2,15395.75,-2946.45
+TP-202601-0474,FY 2025–26,2026-01-07,West,Snacks,E-commerce,Extra Trade Discount,6470.16,5784.12,-686.04
+TP-202601-0475,FY 2025–26,2026-01-11,West,Personal Care,General Trade,Free Goods,9866.45,9710.19,-156.26
+TP-202601-0476,FY 2025–26,2026-01-12,West,Personal Care,Modern Trade,Retail Visibility,7929.91,9759.77,1829.86
+TP-202601-0477,FY 2025–26,2026-01-08,West,Personal Care,E-commerce,Quarterly Incentive,13107.11,11002.16,-2104.95
+TP-202601-0478,FY 2025–26,2026-01-19,West,Home Care,General Trade,Festive Bundle,27635.45,21706.27,-5929.18
+TP-202601-0479,FY 2025–26,2026-01-07,West,Home Care,Modern Trade,Volume Slab,5666.57,6491.74,825.17
+TP-202601-0480,FY 2025–26,2026-01-19,West,Home Care,E-commerce,Extra Trade Discount,5563.32,4164.06,-1399.26
+TP-202602-0481,FY 2025–26,2026-02-11,East,Biscuits,General Trade,Retail Visibility,4740.56,4688.31,-52.25
+TP-202602-0482,FY 2025–26,2026-02-13,East,Biscuits,Modern Trade,Quarterly Incentive,6964.23,6757.65,-206.58
+TP-202602-0483,FY 2025–26,2026-02-19,East,Biscuits,E-commerce,Festive Bundle,11492.23,10253.04,-1239.19
+TP-202602-0484,FY 2025–26,2026-02-20,East,Snacks,General Trade,Volume Slab,17555.64,22391.88,4836.24
+TP-202602-0485,FY 2025–26,2026-02-23,East,Snacks,Modern Trade,Extra Trade Discount,7065.95,5597.4,-1468.55
+TP-202602-0486,FY 2025–26,2026-02-20,East,Snacks,E-commerce,Free Goods,5287.61,4831.11,-456.5
+TP-202602-0487,FY 2025–26,2026-02-17,East,Personal Care,General Trade,Retail Visibility,25629.13,20101.62,-5527.51
+TP-202602-0488,FY 2025–26,2026-02-15,East,Personal Care,Modern Trade,Quarterly Incentive,18872.05,17697.93,-1174.12
+TP-202602-0489,FY 2025–26,2026-02-04,East,Personal Care,E-commerce,Festive Bundle,17250.98,15395.63,-1855.35
+TP-202602-0490,FY 2025–26,2026-02-12,East,Home Care,General Trade,Volume Slab,8560.79,8707.25,146.46
+TP-202602-0491,FY 2025–26,2026-02-22,East,Home Care,Modern Trade,Extra Trade Discount,9916.87,7964.05,-1952.82
+TP-202602-0492,FY 2025–26,2026-02-10,East,Home Care,E-commerce,Free Goods,11222.13,10704.76,-517.37
+TP-202602-0493,FY 2025–26,2026-02-17,North,Biscuits,General Trade,Retail Visibility,8047.23,9311.69,1264.46
+TP-202602-0494,FY 2025–26,2026-02-23,North,Biscuits,Modern Trade,Quarterly Incentive,3060.24,2325.14,-735.1
+TP-202602-0495,FY 2025–26,2026-02-09,North,Biscuits,E-commerce,Festive Bundle,10721.38,9535.57,-1185.81
+TP-202602-0496,FY 2025–26,2026-02-22,North,Snacks,General Trade,Volume Slab,17318.74,19032.75,1714.01
+TP-202602-0497,FY 2025–26,2026-02-09,North,Snacks,Modern Trade,Extra Trade Discount,9293.58,7023.19,-2270.39
+TP-202602-0498,FY 2025–26,2026-02-14,North,Snacks,E-commerce,Free Goods,4419.59,4038.03,-381.56
+TP-202602-0499,FY 2025–26,2026-02-19,North,Personal Care,General Trade,Retail Visibility,13062.84,11068.24,-1994.6
+TP-202602-0500,FY 2025–26,2026-02-22,North,Personal Care,Modern Trade,Quarterly Incentive,15307.99,12599.23,-2708.76
+TP-202602-0501,FY 2025–26,2026-02-07,North,Personal Care,E-commerce,Festive Bundle,2829.68,2127.97,-701.71
+TP-202602-0502,FY 2025–26,2026-02-13,North,Home Care,General Trade,Volume Slab,17994.56,22358.87,4364.31
+TP-202602-0503,FY 2025–26,2026-02-12,North,Home Care,Modern Trade,Extra Trade Discount,5732.86,4270.86,-1462.0
+TP-202602-0504,FY 2025–26,2026-02-04,North,Home Care,E-commerce,Free Goods,9398.57,7915.65,-1482.92
+TP-202602-0505,FY 2025–26,2026-02-09,South,Biscuits,General Trade,Retail Visibility,3508.81,3987.06,478.25
+TP-202602-0506,FY 2025–26,2026-02-14,South,Biscuits,Modern Trade,Quarterly Incentive,10446.78,9657.35,-789.43
+TP-202602-0507,FY 2025–26,2026-02-15,South,Biscuits,E-commerce,Festive Bundle,5125.81,4305.83,-819.98
+TP-202602-0508,FY 2025–26,2026-02-05,South,Snacks,General Trade,Volume Slab,6257.52,6088.28,-169.24
+TP-202602-0509,FY 2025–26,2026-02-05,South,Snacks,Modern Trade,Extra Trade Discount,3317.7,3434.63,116.93
+TP-202602-0510,FY 2025–26,2026-02-22,South,Snacks,E-commerce,Free Goods,5717.82,4471.5,-1246.32
+TP-202602-0511,FY 2025–26,2026-02-15,South,Personal Care,General Trade,Retail Visibility,10464.35,12765.12,2300.77
+TP-202602-0512,FY 2025–26,2026-02-10,South,Personal Care,Modern Trade,Quarterly Incentive,14265.66,10896.14,-3369.52
+TP-202602-0513,FY 2025–26,2026-02-21,South,Personal Care,E-commerce,Festive Bundle,8270.88,7526.09,-744.79
+TP-202602-0514,FY 2025–26,2026-02-17,South,Home Care,General Trade,Volume Slab,34688.88,27377.12,-7311.76
+TP-202602-0515,FY 2025–26,2026-02-10,South,Home Care,Modern Trade,Extra Trade Discount,14790.19,12637.49,-2152.7
+TP-202602-0516,FY 2025–26,2026-02-04,South,Home Care,E-commerce,Free Goods,10587.6,9556.27,-1031.33
+TP-202602-0517,FY 2025–26,2026-02-05,West,Biscuits,General Trade,Retail Visibility,3237.3,2445.44,-791.86
+TP-202602-0518,FY 2025–26,2026-02-15,West,Biscuits,Modern Trade,Quarterly Incentive,10968.51,9049.95,-1918.56
+TP-202602-0519,FY 2025–26,2026-02-10,West,Biscuits,E-commerce,Festive Bundle,8503.88,6363.81,-2140.07
+TP-202602-0520,FY 2025–26,2026-02-17,West,Snacks,General Trade,Volume Slab,21512.2,21136.87,-375.33
+TP-202602-0521,FY 2025–26,2026-02-09,West,Snacks,Modern Trade,Extra Trade Discount,4923.04,4931.44,8.4
+TP-202602-0522,FY 2025–26,2026-02-05,West,Snacks,E-commerce,Free Goods,8746.88,9614.83,867.95
+TP-202602-0523,FY 2025–26,2026-02-20,West,Personal Care,General Trade,Retail Visibility,8279.16,7075.4,-1203.76
+TP-202602-0524,FY 2025–26,2026-02-05,West,Personal Care,Modern Trade,Quarterly Incentive,4173.35,3682.21,-491.14
+TP-202602-0525,FY 2025–26,2026-02-19,West,Personal Care,E-commerce,Festive Bundle,18780.66,17848.89,-931.77
+TP-202602-0526,FY 2025–26,2026-02-10,West,Home Care,General Trade,Volume Slab,13298.61,14593.32,1294.71
+TP-202602-0527,FY 2025–26,2026-02-13,West,Home Care,Modern Trade,Extra Trade Discount,26439.61,20868.64,-5570.97
+TP-202602-0528,FY 2025–26,2026-02-16,West,Home Care,E-commerce,Free Goods,3267.81,3716.67,448.86
+TP-202603-0529,FY 2025–26,2026-03-06,East,Biscuits,General Trade,Quarterly Incentive,20146.07,17153.15,-2992.92
+TP-202603-0530,FY 2025–26,2026-03-04,East,Biscuits,Modern Trade,Festive Bundle,11160.29,10853.9,-306.39
+TP-202603-0531,FY 2025–26,2026-03-04,East,Biscuits,E-commerce,Volume Slab,7849.44,7953.62,104.18
+TP-202603-0532,FY 2025–26,2026-03-13,East,Snacks,General Trade,Extra Trade Discount,28470.65,23291.79,-5178.86
+TP-202603-0533,FY 2025–26,2026-03-06,East,Snacks,Modern Trade,Free Goods,3781.19,4726.84,945.65
+TP-202603-0534,FY 2025–26,2026-03-23,East,Snacks,E-commerce,Retail Visibility,8791.04,7384.74,-1406.3
+TP-202603-0535,FY 2025–26,2026-03-19,East,Personal Care,General Trade,Quarterly Incentive,6603.26,5825.17,-778.09
+TP-202603-0536,FY 2025–26,2026-03-18,East,Personal Care,Modern Trade,Festive Bundle,24949.09,22219.18,-2729.91
+TP-202603-0537,FY 2025–26,2026-03-08,East,Personal Care,E-commerce,Volume Slab,7563.32,8761.88,1198.56
+TP-202603-0538,FY 2025–26,2026-03-22,East,Home Care,General Trade,Extra Trade Discount,29550.99,34594.37,5043.38
+TP-202603-0539,FY 2025–26,2026-03-15,East,Home Care,Modern Trade,Free Goods,18295.86,15471.02,-2824.84
+TP-202603-0540,FY 2025–26,2026-03-20,East,Home Care,E-commerce,Retail Visibility,11720.96,13262.01,1541.05
+TP-202603-0541,FY 2025–26,2026-03-04,North,Biscuits,General Trade,Quarterly Incentive,7419.07,7156.19,-262.88
+TP-202603-0542,FY 2025–26,2026-03-17,North,Biscuits,Modern Trade,Festive Bundle,7852.81,7051.03,-801.78
+TP-202603-0543,FY 2025–26,2026-03-09,North,Biscuits,E-commerce,Volume Slab,5582.67,5911.17,328.5
+TP-202603-0544,FY 2025–26,2026-03-12,North,Snacks,General Trade,Extra Trade Discount,12945.77,13792.14,846.37
+TP-202603-0545,FY 2025–26,2026-03-13,North,Snacks,Modern Trade,Free Goods,14925.32,15780.42,855.1
+TP-202603-0546,FY 2025–26,2026-03-08,North,Snacks,E-commerce,Retail Visibility,5389.48,5916.57,527.09
+TP-202603-0547,FY 2025–26,2026-03-16,North,Personal Care,General Trade,Quarterly Incentive,14496.69,17054.27,2557.58
+TP-202603-0548,FY 2025–26,2026-03-19,North,Personal Care,Modern Trade,Festive Bundle,7900.83,6416.32,-1484.51
+TP-202603-0549,FY 2025–26,2026-03-12,North,Personal Care,E-commerce,Volume Slab,18802.45,16368.0,-2434.45
+TP-202603-0550,FY 2025–26,2026-03-05,North,Home Care,General Trade,Extra Trade Discount,74623.58,56732.16,-17891.42
+TP-202603-0551,FY 2025–26,2026-03-19,North,Home Care,Modern Trade,Free Goods,12147.41,11332.04,-815.37
+TP-202603-0552,FY 2025–26,2026-03-10,North,Home Care,E-commerce,Retail Visibility,10562.83,9504.58,-1058.25
+TP-202603-0553,FY 2025–26,2026-03-04,South,Biscuits,General Trade,Quarterly Incentive,6135.46,5083.47,-1051.99
+TP-202603-0554,FY 2025–26,2026-03-17,South,Biscuits,Modern Trade,Festive Bundle,5486.18,4705.63,-780.55
+TP-202603-0555,FY 2025–26,2026-03-07,South,Biscuits,E-commerce,Volume Slab,2317.12,2910.78,593.66
+TP-202603-0556,FY 2025–26,2026-03-09,South,Snacks,General Trade,Extra Trade Discount,19673.64,17094.01,-2579.63
+TP-202603-0557,FY 2025–26,2026-03-23,South,Snacks,Modern Trade,Free Goods,20385.43,17088.85,-3296.58
+TP-202603-0558,FY 2025–26,2026-03-11,South,Snacks,E-commerce,Retail Visibility,4485.11,4493.97,8.86
+TP-202603-0559,FY 2025–26,2026-03-05,South,Personal Care,General Trade,Quarterly Incentive,14066.98,14698.61,631.63
+TP-202603-0560,FY 2025–26,2026-03-06,South,Personal Care,Modern Trade,Festive Bundle,10650.48,8680.22,-1970.26
+TP-202603-0561,FY 2025–26,2026-03-22,South,Personal Care,E-commerce,Volume Slab,14096.12,11837.94,-2258.18
+TP-202603-0562,FY 2025–26,2026-03-15,South,Home Care,General Trade,Extra Trade Discount,24842.81,25703.14,860.33
+TP-202603-0563,FY 2025–26,2026-03-05,South,Home Care,Modern Trade,Free Goods,7683.25,9461.17,1777.92
+TP-202603-0564,FY 2025–26,2026-03-20,South,Home Care,E-commerce,Retail Visibility,10962.72,13954.47,2991.75
+TP-202603-0565,FY 2025–26,2026-03-20,West,Biscuits,General Trade,Quarterly Incentive,12676.0,12080.59,-595.41
+TP-202603-0566,FY 2025–26,2026-03-15,West,Biscuits,Modern Trade,Festive Bundle,7781.9,6748.33,-1033.57
+TP-202603-0567,FY 2025–26,2026-03-19,West,Biscuits,E-commerce,Volume Slab,5380.61,4156.09,-1224.52
+TP-202603-0568,FY 2025–26,2026-03-22,West,Snacks,General Trade,Extra Trade Discount,5747.62,5789.74,42.12
+TP-202603-0569,FY 2025–26,2026-03-08,West,Snacks,Modern Trade,Free Goods,9500.05,7733.64,-1766.41
+TP-202603-0570,FY 2025–26,2026-03-21,West,Snacks,E-commerce,Retail Visibility,7273.51,5558.01,-1715.5
+TP-202603-0571,FY 2025–26,2026-03-07,West,Personal Care,General Trade,Quarterly Incentive,30171.82,24348.47,-5823.35
+TP-202603-0572,FY 2025–26,2026-03-14,West,Personal Care,Modern Trade,Festive Bundle,10640.22,12366.38,1726.16
+TP-202603-0573,FY 2025–26,2026-03-19,West,Personal Care,E-commerce,Volume Slab,14783.79,12989.43,-1794.36
+TP-202603-0574,FY 2025–26,2026-03-19,West,Home Care,General Trade,Extra Trade Discount,24372.35,22748.55,-1623.8
+TP-202603-0575,FY 2025–26,2026-03-14,West,Home Care,Modern Trade,Free Goods,15017.09,12138.28,-2878.81
+TP-202603-0576,FY 2025–26,2026-03-16,West,Home Care,E-commerce,Retail Visibility,4604.46,4051.3,-553.16
+TP-202604-0577,FY 2026–27,2026-04-12,East,Biscuits,General Trade,Festive Bundle,10191.95,11495.13,1303.18
+TP-202604-0578,FY 2026–27,2026-04-13,East,Biscuits,Modern Trade,Volume Slab,9500.79,9182.52,-318.27
+TP-202604-0579,FY 2026–27,2026-04-07,East,Biscuits,E-commerce,Extra Trade Discount,5770.12,4668.36,-1101.76
+TP-202604-0580,FY 2026–27,2026-04-10,East,Snacks,General Trade,Free Goods,8144.06,7003.24,-1140.82
+TP-202604-0581,FY 2026–27,2026-04-10,East,Snacks,Modern Trade,Retail Visibility,17168.91,21167.54,3998.63
+TP-202604-0582,FY 2026–27,2026-04-08,East,Snacks,E-commerce,Quarterly Incentive,5408.32,4981.54,-426.78
+TP-202604-0583,FY 2026–27,2026-04-08,East,Personal Care,General Trade,Festive Bundle,8968.71,7802.69,-1166.02
+TP-202604-0584,FY 2026–27,2026-04-14,East,Personal Care,Modern Trade,Volume Slab,4626.16,5159.04,532.88
+TP-202604-0585,FY 2026–27,2026-04-22,East,Personal Care,E-commerce,Extra Trade Discount,12878.81,16378.29,3499.48
+TP-202604-0586,FY 2026–27,2026-04-23,East,Home Care,General Trade,Free Goods,4680.28,5018.85,338.57
+TP-202604-0587,FY 2026–27,2026-04-16,East,Home Care,Modern Trade,Retail Visibility,17582.67,14450.44,-3132.23
+TP-202604-0588,FY 2026–27,2026-04-17,East,Home Care,E-commerce,Quarterly Incentive,3228.7,3805.58,576.88
+TP-202604-0589,FY 2026–27,2026-04-09,North,Biscuits,General Trade,Festive Bundle,4676.52,5840.15,1163.63
+TP-202604-0590,FY 2026–27,2026-04-09,North,Biscuits,Modern Trade,Volume Slab,14593.7,12075.32,-2518.38
+TP-202604-0591,FY 2026–27,2026-04-07,North,Biscuits,E-commerce,Extra Trade Discount,2189.89,1955.32,-234.57
+TP-202604-0592,FY 2026–27,2026-04-18,North,Snacks,General Trade,Free Goods,3895.21,3809.81,-85.4
+TP-202604-0593,FY 2026–27,2026-04-14,North,Snacks,Modern Trade,Retail Visibility,16906.19,12545.13,-4361.06
+TP-202604-0594,FY 2026–27,2026-04-08,North,Snacks,E-commerce,Quarterly Incentive,14016.75,14569.9,553.15
+TP-202604-0595,FY 2026–27,2026-04-15,North,Personal Care,General Trade,Festive Bundle,35892.84,26810.75,-9082.09
+TP-202604-0596,FY 2026–27,2026-04-20,North,Personal Care,Modern Trade,Volume Slab,2137.22,2494.08,356.86
+TP-202604-0597,FY 2026–27,2026-04-07,North,Personal Care,E-commerce,Extra Trade Discount,3572.07,3098.12,-473.95
+TP-202604-0598,FY 2026–27,2026-04-09,North,Home Care,General Trade,Free Goods,40258.16,32911.23,-7346.93
+TP-202604-0599,FY 2026–27,2026-04-18,North,Home Care,Modern Trade,Retail Visibility,16712.7,14551.41,-2161.29
+TP-202604-0600,FY 2026–27,2026-04-10,North,Home Care,E-commerce,Quarterly Incentive,15724.19,17549.61,1825.42
+TP-202604-0601,FY 2026–27,2026-04-22,South,Biscuits,General Trade,Festive Bundle,6561.83,8146.48,1584.65
+TP-202604-0602,FY 2026–27,2026-04-17,South,Biscuits,Modern Trade,Volume Slab,8051.52,7973.16,-78.36
+TP-202604-0603,FY 2026–27,2026-04-07,South,Biscuits,E-commerce,Extra Trade Discount,4482.81,3906.91,-575.9
+TP-202604-0604,FY 2026–27,2026-04-08,South,Snacks,General Trade,Free Goods,22663.37,25785.36,3121.99
+TP-202604-0605,FY 2026–27,2026-04-20,South,Snacks,Modern Trade,Retail Visibility,17785.41,13456.75,-4328.66
+TP-202604-0606,FY 2026–27,2026-04-18,South,Snacks,E-commerce,Quarterly Incentive,4022.02,5022.53,1000.51
+TP-202604-0607,FY 2026–27,2026-04-11,South,Personal Care,General Trade,Festive Bundle,34683.56,30106.41,-4577.15
+TP-202604-0608,FY 2026–27,2026-04-16,South,Personal Care,Modern Trade,Volume Slab,7129.54,7760.28,630.74
+TP-202604-0609,FY 2026–27,2026-04-16,South,Personal Care,E-commerce,Extra Trade Discount,12642.49,9899.45,-2743.04
+TP-202604-0610,FY 2026–27,2026-04-17,South,Home Care,General Trade,Free Goods,8119.02,8683.38,564.36
+TP-202604-0611,FY 2026–27,2026-04-17,South,Home Care,Modern Trade,Retail Visibility,10053.99,12152.91,2098.92
+TP-202604-0612,FY 2026–27,2026-04-09,South,Home Care,E-commerce,Quarterly Incentive,12327.58,12640.12,312.54
+TP-202604-0613,FY 2026–27,2026-04-16,West,Biscuits,General Trade,Festive Bundle,10710.94,9780.76,-930.18
+TP-202604-0614,FY 2026–27,2026-04-14,West,Biscuits,Modern Trade,Volume Slab,12125.98,10010.64,-2115.34
+TP-202604-0615,FY 2026–27,2026-04-05,West,Biscuits,E-commerce,Extra Trade Discount,15079.0,13747.46,-1331.54
+TP-202604-0616,FY 2026–27,2026-04-19,West,Snacks,General Trade,Free Goods,9789.71,7843.35,-1946.36
+TP-202604-0617,FY 2026–27,2026-04-07,West,Snacks,Modern Trade,Retail Visibility,2621.99,2089.59,-532.4
+TP-202604-0618,FY 2026–27,2026-04-20,West,Snacks,E-commerce,Quarterly Incentive,10507.78,10867.71,359.93
+TP-202604-0619,FY 2026–27,2026-04-19,West,Personal Care,General Trade,Festive Bundle,24875.52,26376.03,1500.51
+TP-202604-0620,FY 2026–27,2026-04-22,West,Personal Care,Modern Trade,Volume Slab,21118.99,20133.38,-985.61
+TP-202604-0621,FY 2026–27,2026-04-14,West,Personal Care,E-commerce,Extra Trade Discount,6088.46,4528.75,-1559.71
+TP-202604-0622,FY 2026–27,2026-04-05,West,Home Care,General Trade,Free Goods,20755.17,24559.49,3804.32
+TP-202604-0623,FY 2026–27,2026-04-10,West,Home Care,Modern Trade,Retail Visibility,26089.08,27694.0,1604.92
+TP-202604-0624,FY 2026–27,2026-04-07,West,Home Care,E-commerce,Quarterly Incentive,10165.13,12125.64,1960.51
+TP-202605-0625,FY 2026–27,2026-05-22,East,Biscuits,General Trade,Volume Slab,7720.02,7798.46,78.44
+TP-202605-0626,FY 2026–27,2026-05-10,East,Biscuits,Modern Trade,Extra Trade Discount,7229.75,8297.3,1067.55
+TP-202605-0627,FY 2026–27,2026-05-04,East,Biscuits,E-commerce,Free Goods,7019.78,8884.44,1864.66
+TP-202605-0628,FY 2026–27,2026-05-19,East,Snacks,General Trade,Retail Visibility,22970.82,22727.8,-243.02
+TP-202605-0629,FY 2026–27,2026-05-16,East,Snacks,Modern Trade,Quarterly Incentive,9741.74,12467.98,2726.24
+TP-202605-0630,FY 2026–27,2026-05-14,East,Snacks,E-commerce,Festive Bundle,6155.44,5017.61,-1137.83
+TP-202605-0631,FY 2026–27,2026-05-22,East,Personal Care,General Trade,Volume Slab,8426.43,7087.41,-1339.02
+TP-202605-0632,FY 2026–27,2026-05-08,East,Personal Care,Modern Trade,Extra Trade Discount,6195.86,7063.63,867.77
+TP-202605-0633,FY 2026–27,2026-05-06,East,Personal Care,E-commerce,Free Goods,9268.03,9777.73,509.7
+TP-202605-0634,FY 2026–27,2026-05-07,East,Home Care,General Trade,Retail Visibility,15472.85,14281.17,-1191.68
+TP-202605-0635,FY 2026–27,2026-05-18,East,Home Care,Modern Trade,Quarterly Incentive,17601.19,13316.54,-4284.65
+TP-202605-0636,FY 2026–27,2026-05-21,East,Home Care,E-commerce,Festive Bundle,25336.05,25688.27,352.22
+TP-202605-0637,FY 2026–27,2026-05-23,North,Biscuits,General Trade,Volume Slab,4281.52,3484.05,-797.47
+TP-202605-0638,FY 2026–27,2026-05-13,North,Biscuits,Modern Trade,Extra Trade Discount,4731.94,4339.35,-392.59
+TP-202605-0639,FY 2026–27,2026-05-14,North,Biscuits,E-commerce,Free Goods,5516.61,5775.83,259.22
+TP-202605-0640,FY 2026–27,2026-05-22,North,Snacks,General Trade,Retail Visibility,14723.63,11072.51,-3651.12
+TP-202605-0641,FY 2026–27,2026-05-14,North,Snacks,Modern Trade,Quarterly Incentive,8986.7,7340.42,-1646.28
+TP-202605-0642,FY 2026–27,2026-05-14,North,Snacks,E-commerce,Festive Bundle,7433.88,9438.34,2004.46
+TP-202605-0643,FY 2026–27,2026-05-16,North,Personal Care,General Trade,Volume Slab,10428.03,8817.75,-1610.28
+TP-202605-0644,FY 2026–27,2026-05-12,North,Personal Care,Modern Trade,Extra Trade Discount,6603.52,7309.85,706.33
+TP-202605-0645,FY 2026–27,2026-05-21,North,Personal Care,E-commerce,Free Goods,7374.64,7080.59,-294.05
+TP-202605-0646,FY 2026–27,2026-05-17,North,Home Care,General Trade,Retail Visibility,13316.44,15540.44,2224.0
+TP-202605-0647,FY 2026–27,2026-05-17,North,Home Care,Modern Trade,Quarterly Incentive,5062.26,5976.24,913.98
+TP-202605-0648,FY 2026–27,2026-05-06,North,Home Care,E-commerce,Festive Bundle,12883.67,11141.75,-1741.92
+TP-202605-0649,FY 2026–27,2026-05-05,South,Biscuits,General Trade,Volume Slab,21674.3,18047.47,-3626.83
+TP-202605-0650,FY 2026–27,2026-05-20,South,Biscuits,Modern Trade,Extra Trade Discount,8030.79,6668.37,-1362.42
+TP-202605-0651,FY 2026–27,2026-05-20,South,Biscuits,E-commerce,Free Goods,7632.81,7752.59,119.78
+TP-202605-0652,FY 2026–27,2026-05-13,South,Snacks,General Trade,Retail Visibility,7249.32,6674.19,-575.13
+TP-202605-0653,FY 2026–27,2026-05-05,South,Snacks,Modern Trade,Quarterly Incentive,3605.49,3683.45,77.96
+TP-202605-0654,FY 2026–27,2026-05-11,South,Snacks,E-commerce,Festive Bundle,5183.0,4147.31,-1035.69
+TP-202605-0655,FY 2026–27,2026-05-13,South,Personal Care,General Trade,Volume Slab,27042.7,25711.87,-1330.83
+TP-202605-0656,FY 2026–27,2026-05-09,South,Personal Care,Modern Trade,Extra Trade Discount,10911.1,9133.69,-1777.41
+TP-202605-0657,FY 2026–27,2026-05-14,South,Personal Care,E-commerce,Free Goods,11851.63,12540.35,688.72
+TP-202605-0658,FY 2026–27,2026-05-20,South,Home Care,General Trade,Retail Visibility,12031.15,9273.77,-2757.38
+TP-202605-0659,FY 2026–27,2026-05-21,South,Home Care,Modern Trade,Quarterly Incentive,20748.9,20700.8,-48.1
+TP-202605-0660,FY 2026–27,2026-05-22,South,Home Care,E-commerce,Festive Bundle,8454.87,8156.29,-298.58
+TP-202605-0661,FY 2026–27,2026-05-21,West,Biscuits,General Trade,Volume Slab,4569.35,4180.82,-388.53
+TP-202605-0662,FY 2026–27,2026-05-07,West,Biscuits,Modern Trade,Extra Trade Discount,4020.11,3595.48,-424.63
+TP-202605-0663,FY 2026–27,2026-05-19,West,Biscuits,E-commerce,Free Goods,8043.24,7547.19,-496.05
+TP-202605-0664,FY 2026–27,2026-05-20,West,Snacks,General Trade,Retail Visibility,17071.04,21525.0,4453.96
+TP-202605-0665,FY 2026–27,2026-05-09,West,Snacks,Modern Trade,Quarterly Incentive,6827.72,6467.68,-360.04
+TP-202605-0666,FY 2026–27,2026-05-12,West,Snacks,E-commerce,Festive Bundle,5108.58,4666.49,-442.09
+TP-202605-0667,FY 2026–27,2026-05-04,West,Personal Care,General Trade,Volume Slab,19282.65,18525.29,-757.36
+TP-202605-0668,FY 2026–27,2026-05-15,West,Personal Care,Modern Trade,Extra Trade Discount,14497.53,12654.92,-1842.61
+TP-202605-0669,FY 2026–27,2026-05-22,West,Personal Care,E-commerce,Free Goods,3004.16,2286.2,-717.96
+TP-202605-0670,FY 2026–27,2026-05-09,West,Home Care,General Trade,Retail Visibility,16809.51,21461.17,4651.66
+TP-202605-0671,FY 2026–27,2026-05-16,West,Home Care,Modern Trade,Quarterly Incentive,10447.79,9476.78,-971.01
+TP-202605-0672,FY 2026–27,2026-05-08,West,Home Care,E-commerce,Festive Bundle,12190.2,11920.02,-270.18
+TP-202606-0673,FY 2026–27,2026-06-06,East,Biscuits,General Trade,Extra Trade Discount,7274.96,8590.97,1316.01
+TP-202606-0674,FY 2026–27,2026-06-12,East,Biscuits,Modern Trade,Free Goods,2964.29,3094.23,129.94
+TP-202606-0675,FY 2026–27,2026-06-09,East,Biscuits,E-commerce,Retail Visibility,7756.92,7274.93,-481.99
+TP-202606-0676,FY 2026–27,2026-06-10,East,Snacks,General Trade,Quarterly Incentive,13954.97,11666.15,-2288.82
+TP-202606-0677,FY 2026–27,2026-06-23,East,Snacks,Modern Trade,Festive Bundle,9590.91,8659.69,-931.22
+TP-202606-0678,FY 2026–27,2026-06-10,East,Snacks,E-commerce,Volume Slab,10253.37,10059.52,-193.85
+TP-202606-0679,FY 2026–27,2026-06-21,East,Personal Care,General Trade,Extra Trade Discount,13199.82,11919.21,-1280.61
+TP-202606-0680,FY 2026–27,2026-06-22,East,Personal Care,Modern Trade,Free Goods,7761.35,7519.86,-241.49
+TP-202606-0681,FY 2026–27,2026-06-08,East,Personal Care,E-commerce,Retail Visibility,14880.11,14941.53,61.42
+TP-202606-0682,FY 2026–27,2026-06-19,East,Home Care,General Trade,Quarterly Incentive,10796.35,9249.55,-1546.8
+TP-202606-0683,FY 2026–27,2026-06-11,East,Home Care,Modern Trade,Festive Bundle,17473.47,20722.02,3248.55
+TP-202606-0684,FY 2026–27,2026-06-20,East,Home Care,E-commerce,Volume Slab,23072.97,24759.52,1686.55
+TP-202606-0685,FY 2026–27,2026-06-04,North,Biscuits,General Trade,Extra Trade Discount,22305.37,16751.58,-5553.79
+TP-202606-0686,FY 2026–27,2026-06-17,North,Biscuits,Modern Trade,Free Goods,1700.92,1579.44,-121.48
+TP-202606-0687,FY 2026–27,2026-06-20,North,Biscuits,E-commerce,Retail Visibility,6816.61,6913.5,96.89
+TP-202606-0688,FY 2026–27,2026-06-09,North,Snacks,General Trade,Quarterly Incentive,8053.76,9215.06,1161.3
+TP-202606-0689,FY 2026–27,2026-06-08,North,Snacks,Modern Trade,Festive Bundle,22782.14,18111.74,-4670.4
+TP-202606-0690,FY 2026–27,2026-06-06,North,Snacks,E-commerce,Volume Slab,6883.55,6470.1,-413.45
+TP-202606-0691,FY 2026–27,2026-06-22,North,Personal Care,General Trade,Extra Trade Discount,17397.79,16523.33,-874.46
+TP-202606-0692,FY 2026–27,2026-06-04,North,Personal Care,Modern Trade,Free Goods,20958.41,16683.28,-4275.13
+TP-202606-0693,FY 2026–27,2026-06-09,North,Personal Care,E-commerce,Retail Visibility,8503.24,7065.37,-1437.87
+TP-202606-0694,FY 2026–27,2026-06-19,North,Home Care,General Trade,Quarterly Incentive,38915.73,47351.88,8436.15
+TP-202606-0695,FY 2026–27,2026-06-20,North,Home Care,Modern Trade,Festive Bundle,17153.66,14259.69,-2893.97
+TP-202606-0696,FY 2026–27,2026-06-08,North,Home Care,E-commerce,Volume Slab,19225.17,20918.59,1693.42
+TP-202606-0697,FY 2026–27,2026-06-15,South,Biscuits,General Trade,Extra Trade Discount,4063.73,3547.17,-516.56
+TP-202606-0698,FY 2026–27,2026-06-19,South,Biscuits,Modern Trade,Free Goods,5512.83,5551.26,38.43
+TP-202606-0699,FY 2026–27,2026-06-09,South,Biscuits,E-commerce,Retail Visibility,2391.96,2717.27,325.31
+TP-202606-0700,FY 2026–27,2026-06-23,South,Snacks,General Trade,Quarterly Incentive,10410.11,13297.16,2887.05
+TP-202606-0701,FY 2026–27,2026-06-19,South,Snacks,Modern Trade,Festive Bundle,10490.46,8849.55,-1640.91
+TP-202606-0702,FY 2026–27,2026-06-07,South,Snacks,E-commerce,Volume Slab,6669.91,8326.04,1656.13
+TP-202606-0703,FY 2026–27,2026-06-22,South,Personal Care,General Trade,Extra Trade Discount,16652.83,12715.13,-3937.7
+TP-202606-0704,FY 2026–27,2026-06-13,South,Personal Care,Modern Trade,Free Goods,16082.05,13165.1,-2916.95
+TP-202606-0705,FY 2026–27,2026-06-19,South,Personal Care,E-commerce,Retail Visibility,14175.64,12000.43,-2175.21
+TP-202606-0706,FY 2026–27,2026-06-19,South,Home Care,General Trade,Quarterly Incentive,4267.74,4648.89,381.15
+TP-202606-0707,FY 2026–27,2026-06-09,South,Home Care,Modern Trade,Festive Bundle,4803.3,5198.53,395.23
+TP-202606-0708,FY 2026–27,2026-06-23,South,Home Care,E-commerce,Volume Slab,20944.85,16680.3,-4264.55
+TP-202606-0709,FY 2026–27,2026-06-20,West,Biscuits,General Trade,Extra Trade Discount,10600.19,9926.42,-673.77
+TP-202606-0710,FY 2026–27,2026-06-15,West,Biscuits,Modern Trade,Free Goods,12818.97,11296.15,-1522.82
+TP-202606-0711,FY 2026–27,2026-06-16,West,Biscuits,E-commerce,Retail Visibility,9921.11,10955.58,1034.47
+TP-202606-0712,FY 2026–27,2026-06-11,West,Snacks,General Trade,Quarterly Incentive,10819.51,11814.36,994.85
+TP-202606-0713,FY 2026–27,2026-06-18,West,Snacks,Modern Trade,Festive Bundle,8163.51,6386.51,-1777.0
+TP-202606-0714,FY 2026–27,2026-06-12,West,Snacks,E-commerce,Volume Slab,10460.55,10105.56,-354.99
+TP-202606-0715,FY 2026–27,2026-06-09,West,Personal Care,General Trade,Extra Trade Discount,10808.22,8817.15,-1991.07
+TP-202606-0716,FY 2026–27,2026-06-11,West,Personal Care,Modern Trade,Free Goods,6877.61,5491.53,-1386.08
+TP-202606-0717,FY 2026–27,2026-06-07,West,Personal Care,E-commerce,Retail Visibility,10275.3,7847.03,-2428.27
+TP-202606-0718,FY 2026–27,2026-06-21,West,Home Care,General Trade,Quarterly Incentive,7634.33,7434.43,-199.9
+TP-202606-0719,FY 2026–27,2026-06-15,West,Home Care,Modern Trade,Festive Bundle,15998.88,17120.6,1121.72
+TP-202606-0720,FY 2026–27,2026-06-05,West,Home Care,E-commerce,Volume Slab,19487.2,17448.98,-2038.22
+TP-202607-0721,FY 2026–27,2026-07-18,East,Biscuits,General Trade,Free Goods,5553.64,4795.36,-758.28
+TP-202607-0722,FY 2026–27,2026-07-12,East,Biscuits,Modern Trade,Retail Visibility,10294.71,7741.38,-2553.33
+TP-202607-0723,FY 2026–27,2026-07-23,East,Biscuits,E-commerce,Quarterly Incentive,2943.13,3089.42,146.29
+TP-202607-0724,FY 2026–27,2026-07-12,East,Snacks,General Trade,Festive Bundle,9548.96,8741.07,-807.89
+TP-202607-0725,FY 2026–27,2026-07-14,East,Snacks,Modern Trade,Volume Slab,5525.97,6346.71,820.74
+TP-202607-0726,FY 2026–27,2026-07-05,East,Snacks,E-commerce,Extra Trade Discount,2135.15,2734.07,598.92
+TP-202607-0727,FY 2026–27,2026-07-20,East,Personal Care,General Trade,Free Goods,17684.12,16563.35,-1120.77
+TP-202607-0728,FY 2026–27,2026-07-11,East,Personal Care,Modern Trade,Retail Visibility,13938.81,14234.98,296.17
+TP-202607-0729,FY 2026–27,2026-07-21,East,Personal Care,E-commerce,Quarterly Incentive,7900.64,8466.28,565.64
+TP-202607-0730,FY 2026–27,2026-07-10,East,Home Care,General Trade,Festive Bundle,4912.08,5625.41,713.33
+TP-202607-0731,FY 2026–27,2026-07-14,East,Home Care,Modern Trade,Volume Slab,14411.7,16340.89,1929.19
+TP-202607-0732,FY 2026–27,2026-07-20,East,Home Care,E-commerce,Extra Trade Discount,14728.95,13920.73,-808.22
+TP-202607-0733,FY 2026–27,2026-07-13,North,Biscuits,General Trade,Free Goods,5390.72,4311.54,-1079.18
+TP-202607-0734,FY 2026–27,2026-07-19,North,Biscuits,Modern Trade,Retail Visibility,6182.36,5592.01,-590.35
+TP-202607-0735,FY 2026–27,2026-07-22,North,Biscuits,E-commerce,Quarterly Incentive,3573.02,2749.17,-823.85
+TP-202607-0736,FY 2026–27,2026-07-14,North,Snacks,General Trade,Festive Bundle,37293.46,29530.34,-7763.12
+TP-202607-0737,FY 2026–27,2026-07-09,North,Snacks,Modern Trade,Volume Slab,2872.34,2874.49,2.15
+TP-202607-0738,FY 2026–27,2026-07-13,North,Snacks,E-commerce,Extra Trade Discount,13021.52,11626.55,-1394.97
+TP-202607-0739,FY 2026–27,2026-07-11,North,Personal Care,General Trade,Free Goods,22960.42,24805.37,1844.95
+TP-202607-0740,FY 2026–27,2026-07-17,North,Personal Care,Modern Trade,Retail Visibility,15104.21,15719.71,615.5
+TP-202607-0741,FY 2026–27,2026-07-07,North,Personal Care,E-commerce,Quarterly Incentive,4293.79,3304.24,-989.55
+TP-202607-0742,FY 2026–27,2026-07-04,North,Home Care,General Trade,Festive Bundle,28290.64,29293.62,1002.98
+TP-202607-0743,FY 2026–27,2026-07-07,North,Home Care,Modern Trade,Volume Slab,13287.08,14627.12,1340.04
+TP-202607-0744,FY 2026–27,2026-07-06,North,Home Care,E-commerce,Extra Trade Discount,6387.78,4807.97,-1579.81
+TP-202607-0745,FY 2026–27,2026-07-10,South,Biscuits,General Trade,Free Goods,3251.02,3137.99,-113.03
+TP-202607-0746,FY 2026–27,2026-07-09,South,Biscuits,Modern Trade,Retail Visibility,3954.86,4350.59,395.73
+TP-202607-0747,FY 2026–27,2026-07-21,South,Biscuits,E-commerce,Quarterly Incentive,6616.49,6692.41,75.92
+TP-202607-0748,FY 2026–27,2026-07-13,South,Snacks,General Trade,Festive Bundle,6649.61,5048.67,-1600.94
+TP-202607-0749,FY 2026–27,2026-07-04,South,Snacks,Modern Trade,Volume Slab,10181.48,12669.16,2487.68
+TP-202607-0750,FY 2026–27,2026-07-07,South,Snacks,E-commerce,Extra Trade Discount,12452.36,11241.52,-1210.84
+TP-202607-0751,FY 2026–27,2026-07-22,South,Personal Care,General Trade,Free Goods,6037.35,7573.41,1536.06
+TP-202607-0752,FY 2026–27,2026-07-13,South,Personal Care,Modern Trade,Retail Visibility,5904.42,5581.36,-323.06
+TP-202607-0753,FY 2026–27,2026-07-11,South,Personal Care,E-commerce,Quarterly Incentive,4235.84,4649.35,413.51
+TP-202607-0754,FY 2026–27,2026-07-05,South,Home Care,General Trade,Festive Bundle,13880.0,13973.14,93.14
+TP-202607-0755,FY 2026–27,2026-07-12,South,Home Care,Modern Trade,Volume Slab,16766.1,18465.54,1699.44
+TP-202607-0756,FY 2026–27,2026-07-11,South,Home Care,E-commerce,Extra Trade Discount,25326.76,20717.56,-4609.2
+TP-202607-0757,FY 2026–27,2026-07-06,West,Biscuits,General Trade,Free Goods,7152.95,7876.25,723.3
+TP-202607-0758,FY 2026–27,2026-07-13,West,Biscuits,Modern Trade,Retail Visibility,3501.7,3441.81,-59.89
+TP-202607-0759,FY 2026–27,2026-07-17,West,Biscuits,E-commerce,Quarterly Incentive,9104.37,9482.49,378.12
+TP-202607-0760,FY 2026–27,2026-07-07,West,Snacks,General Trade,Festive Bundle,18720.23,19669.47,949.24
+TP-202607-0761,FY 2026–27,2026-07-05,West,Snacks,Modern Trade,Volume Slab,15844.46,12534.64,-3309.82
+TP-202607-0762,FY 2026–27,2026-07-08,West,Snacks,E-commerce,Extra Trade Discount,2836.52,3585.69,749.17
+TP-202607-0763,FY 2026–27,2026-07-05,West,Personal Care,General Trade,Free Goods,18056.34,15750.23,-2306.11
+TP-202607-0764,FY 2026–27,2026-07-11,West,Personal Care,Modern Trade,Retail Visibility,28397.51,29308.93,911.42
+TP-202607-0765,FY 2026–27,2026-07-14,West,Personal Care,E-commerce,Quarterly Incentive,17358.79,13402.23,-3956.56
+TP-202607-0766,FY 2026–27,2026-07-05,West,Home Care,General Trade,Festive Bundle,32537.06,26241.48,-6295.58
+TP-202607-0767,FY 2026–27,2026-07-22,West,Home Care,Modern Trade,Volume Slab,21248.49,23077.78,1829.29
+TP-202607-0768,FY 2026–27,2026-07-09,West,Home Care,E-commerce,Extra Trade Discount,28992.43,22017.49,-6974.94
+TP-202608-0769,FY 2026–27,2026-08-14,East,Biscuits,General Trade,Retail Visibility,6957.27,8381.26,1423.99
+TP-202608-0770,FY 2026–27,2026-08-04,East,Biscuits,Modern Trade,Quarterly Incentive,7576.98,8088.21,511.23
+TP-202608-0771,FY 2026–27,2026-08-23,East,Biscuits,E-commerce,Festive Bundle,2471.37,2148.59,-322.78
+TP-202608-0772,FY 2026–27,2026-08-22,East,Snacks,General Trade,Volume Slab,6022.67,6417.45,394.78
+TP-202608-0773,FY 2026–27,2026-08-05,East,Snacks,Modern Trade,Extra Trade Discount,12475.25,12597.48,122.23
+TP-202608-0774,FY 2026–27,2026-08-04,East,Snacks,E-commerce,Free Goods,5477.79,6044.98,567.19
+TP-202608-0775,FY 2026–27,2026-08-19,East,Personal Care,General Trade,Retail Visibility,4867.87,4763.65,-104.22
+TP-202608-0776,FY 2026–27,2026-08-15,East,Personal Care,Modern Trade,Quarterly Incentive,22895.61,26115.67,3220.06
+TP-202608-0777,FY 2026–27,2026-08-04,East,Personal Care,E-commerce,Festive Bundle,8694.11,7236.71,-1457.4
+TP-202608-0778,FY 2026–27,2026-08-14,East,Home Care,General Trade,Volume Slab,20952.59,21579.29,626.7
+TP-202608-0779,FY 2026–27,2026-08-19,East,Home Care,Modern Trade,Extra Trade Discount,31169.03,23422.13,-7746.9
+TP-202608-0780,FY 2026–27,2026-08-16,East,Home Care,E-commerce,Free Goods,13570.49,17318.09,3747.6
+TP-202608-0781,FY 2026–27,2026-08-11,North,Biscuits,General Trade,Retail Visibility,4590.62,3850.77,-739.85
+TP-202608-0782,FY 2026–27,2026-08-06,North,Biscuits,Modern Trade,Quarterly Incentive,5988.02,7556.19,1568.17
+TP-202608-0783,FY 2026–27,2026-08-18,North,Biscuits,E-commerce,Festive Bundle,4379.03,4072.76,-306.27
+TP-202608-0784,FY 2026–27,2026-08-20,North,Snacks,General Trade,Volume Slab,15013.93,16256.61,1242.68
+TP-202608-0785,FY 2026–27,2026-08-07,North,Snacks,Modern Trade,Extra Trade Discount,12486.04,11620.86,-865.18
+TP-202608-0786,FY 2026–27,2026-08-05,North,Snacks,E-commerce,Free Goods,8947.32,8731.59,-215.73
+TP-202608-0787,FY 2026–27,2026-08-22,North,Personal Care,General Trade,Retail Visibility,16600.48,14503.95,-2096.53
+TP-202608-0788,FY 2026–27,2026-08-17,North,Personal Care,Modern Trade,Quarterly Incentive,3037.84,2568.4,-469.44
+TP-202608-0789,FY 2026–27,2026-08-13,North,Personal Care,E-commerce,Festive Bundle,15525.04,13359.67,-2165.37
+TP-202608-0790,FY 2026–27,2026-08-19,North,Home Care,General Trade,Volume Slab,17347.52,21263.57,3916.05
+TP-202608-0791,FY 2026–27,2026-08-23,North,Home Care,Modern Trade,Extra Trade Discount,11767.16,9070.91,-2696.25
+TP-202608-0792,FY 2026–27,2026-08-22,North,Home Care,E-commerce,Free Goods,12694.0,14427.73,1733.73
+TP-202608-0793,FY 2026–27,2026-08-18,South,Biscuits,General Trade,Retail Visibility,10504.93,10079.29,-425.64
+TP-202608-0794,FY 2026–27,2026-08-04,South,Biscuits,Modern Trade,Quarterly Incentive,11749.63,10351.08,-1398.55
+TP-202608-0795,FY 2026–27,2026-08-18,South,Biscuits,E-commerce,Festive Bundle,5905.87,7541.72,1635.85
+TP-202608-0796,FY 2026–27,2026-08-14,South,Snacks,General Trade,Volume Slab,9975.19,12451.88,2476.69
+TP-202608-0797,FY 2026–27,2026-08-08,South,Snacks,Modern Trade,Extra Trade Discount,3880.37,4727.76,847.39
+TP-202608-0798,FY 2026–27,2026-08-13,South,Snacks,E-commerce,Free Goods,9470.54,7483.5,-1987.04
+TP-202608-0799,FY 2026–27,2026-08-08,South,Personal Care,General Trade,Retail Visibility,12968.31,15567.2,2598.89
+TP-202608-0800,FY 2026–27,2026-08-10,South,Personal Care,Modern Trade,Quarterly Incentive,15663.38,19634.67,3971.29
+TP-202608-0801,FY 2026–27,2026-08-13,South,Personal Care,E-commerce,Festive Bundle,3527.74,3863.32,335.58
+TP-202608-0802,FY 2026–27,2026-08-04,South,Home Care,General Trade,Volume Slab,32637.1,27839.4,-4797.7
+TP-202608-0803,FY 2026–27,2026-08-17,South,Home Care,Modern Trade,Extra Trade Discount,3651.1,4586.62,935.52
+TP-202608-0804,FY 2026–27,2026-08-23,South,Home Care,E-commerce,Free Goods,5169.41,4482.29,-687.12
+TP-202608-0805,FY 2026–27,2026-08-20,West,Biscuits,General Trade,Retail Visibility,6031.98,4787.91,-1244.07
+TP-202608-0806,FY 2026–27,2026-08-07,West,Biscuits,Modern Trade,Quarterly Incentive,9685.73,8742.53,-943.2
+TP-202608-0807,FY 2026–27,2026-08-08,West,Biscuits,E-commerce,Festive Bundle,6900.77,6335.01,-565.76
+TP-202608-0808,FY 2026–27,2026-08-13,West,Snacks,General Trade,Volume Slab,15004.81,11147.53,-3857.28
+TP-202608-0809,FY 2026–27,2026-08-06,West,Snacks,Modern Trade,Extra Trade Discount,3565.68,4546.69,981.01
+TP-202608-0810,FY 2026–27,2026-08-13,West,Snacks,E-commerce,Free Goods,16757.85,13140.5,-3617.35
+TP-202608-0811,FY 2026–27,2026-08-13,West,Personal Care,General Trade,Retail Visibility,8325.13,6674.69,-1650.44
+TP-202608-0812,FY 2026–27,2026-08-12,West,Personal Care,Modern Trade,Quarterly Incentive,36661.69,28132.35,-8529.34
+TP-202608-0813,FY 2026–27,2026-08-20,West,Personal Care,E-commerce,Festive Bundle,4281.57,3715.53,-566.04
+TP-202608-0814,FY 2026–27,2026-08-06,West,Home Care,General Trade,Volume Slab,29019.76,25135.41,-3884.35
+TP-202608-0815,FY 2026–27,2026-08-04,West,Home Care,Modern Trade,Extra Trade Discount,5131.35,5325.07,193.72
+TP-202608-0816,FY 2026–27,2026-08-14,West,Home Care,E-commerce,Free Goods,4886.83,4276.38,-610.45
+TP-202609-0817,FY 2026–27,2026-09-10,East,Biscuits,General Trade,Quarterly Incentive,6923.92,6758.28,-165.64
+TP-202609-0818,FY 2026–27,2026-09-20,East,Biscuits,Modern Trade,Festive Bundle,13605.91,10707.92,-2897.99
+TP-202609-0819,FY 2026–27,2026-09-10,East,Biscuits,E-commerce,Volume Slab,7273.73,5665.99,-1607.74
+TP-202609-0820,FY 2026–27,2026-09-18,East,Snacks,General Trade,Extra Trade Discount,9646.86,11307.42,1660.56
+TP-202609-0821,FY 2026–27,2026-09-21,East,Snacks,Modern Trade,Free Goods,16622.57,12690.15,-3932.42
+TP-202609-0822,FY 2026–27,2026-09-17,East,Snacks,E-commerce,Retail Visibility,12190.5,10984.66,-1205.84
+TP-202609-0823,FY 2026–27,2026-09-21,East,Personal Care,General Trade,Quarterly Incentive,19075.55,18162.8,-912.75
+TP-202609-0824,FY 2026–27,2026-09-17,East,Personal Care,Modern Trade,Festive Bundle,13620.28,11330.52,-2289.76
+TP-202609-0825,FY 2026–27,2026-09-23,East,Personal Care,E-commerce,Volume Slab,8958.65,7962.82,-995.83
+TP-202609-0826,FY 2026–27,2026-09-19,East,Home Care,General Trade,Extra Trade Discount,11794.1,14670.99,2876.89
+TP-202609-0827,FY 2026–27,2026-09-05,East,Home Care,Modern Trade,Free Goods,15572.19,16888.64,1316.45
+TP-202609-0828,FY 2026–27,2026-09-05,East,Home Care,E-commerce,Retail Visibility,40359.76,31948.98,-8410.78
+TP-202609-0829,FY 2026–27,2026-09-09,North,Biscuits,General Trade,Quarterly Incentive,15591.38,15016.61,-574.77
+TP-202609-0830,FY 2026–27,2026-09-12,North,Biscuits,Modern Trade,Festive Bundle,8113.44,7548.44,-565.0
+TP-202609-0831,FY 2026–27,2026-09-16,North,Biscuits,E-commerce,Volume Slab,8336.23,9642.99,1306.76
+TP-202609-0832,FY 2026–27,2026-09-23,North,Snacks,General Trade,Extra Trade Discount,18490.17,17691.38,-798.79
+TP-202609-0833,FY 2026–27,2026-09-21,North,Snacks,Modern Trade,Free Goods,9719.24,7534.53,-2184.71
+TP-202609-0834,FY 2026–27,2026-09-23,North,Snacks,E-commerce,Retail Visibility,4476.13,4434.34,-41.79
+TP-202609-0835,FY 2026–27,2026-09-15,North,Personal Care,General Trade,Quarterly Incentive,19439.1,20949.37,1510.27
+TP-202609-0836,FY 2026–27,2026-09-09,North,Personal Care,Modern Trade,Festive Bundle,10121.47,7910.15,-2211.32
+TP-202609-0837,FY 2026–27,2026-09-20,North,Personal Care,E-commerce,Volume Slab,4873.09,4419.43,-453.66
+TP-202609-0838,FY 2026–27,2026-09-18,North,Home Care,General Trade,Extra Trade Discount,18416.3,16053.73,-2362.57
+TP-202609-0839,FY 2026–27,2026-09-21,North,Home Care,Modern Trade,Free Goods,17230.0,15022.57,-2207.43
+TP-202609-0840,FY 2026–27,2026-09-07,North,Home Care,E-commerce,Retail Visibility,19012.77,14438.18,-4574.59
+TP-202609-0841,FY 2026–27,2026-09-15,South,Biscuits,General Trade,Quarterly Incentive,10913.72,8165.56,-2748.16
+TP-202609-0842,FY 2026–27,2026-09-09,South,Biscuits,Modern Trade,Festive Bundle,5174.55,5012.96,-161.59
+TP-202609-0843,FY 2026–27,2026-09-23,South,Biscuits,E-commerce,Volume Slab,3058.76,2372.25,-686.51
+TP-202609-0844,FY 2026–27,2026-09-23,South,Snacks,General Trade,Extra Trade Discount,26867.53,22047.49,-4820.04
+TP-202609-0845,FY 2026–27,2026-09-18,South,Snacks,Modern Trade,Free Goods,9682.04,7663.88,-2018.16
+TP-202609-0846,FY 2026–27,2026-09-23,South,Snacks,E-commerce,Retail Visibility,13883.37,10985.31,-2898.06
+TP-202609-0847,FY 2026–27,2026-09-05,South,Personal Care,General Trade,Quarterly Incentive,8323.51,9026.5,702.99
+TP-202609-0848,FY 2026–27,2026-09-22,South,Personal Care,Modern Trade,Festive Bundle,5358.02,6484.16,1126.14
+TP-202609-0849,FY 2026–27,2026-09-05,South,Personal Care,E-commerce,Volume Slab,11498.51,9564.11,-1934.4
+TP-202609-0850,FY 2026–27,2026-09-13,South,Home Care,General Trade,Extra Trade Discount,29950.93,25330.25,-4620.68
+TP-202609-0851,FY 2026–27,2026-09-19,South,Home Care,Modern Trade,Free Goods,25012.42,21825.31,-3187.11
+TP-202609-0852,FY 2026–27,2026-09-23,South,Home Care,E-commerce,Retail Visibility,32044.72,32307.04,262.32
+TP-202609-0853,FY 2026–27,2026-09-15,West,Biscuits,General Trade,Quarterly Incentive,10949.28,8836.16,-2113.12
+TP-202609-0854,FY 2026–27,2026-09-20,West,Biscuits,Modern Trade,Festive Bundle,12919.81,12456.3,-463.51
+TP-202609-0855,FY 2026–27,2026-09-23,West,Biscuits,E-commerce,Volume Slab,9302.71,7316.1,-1986.61
+TP-202609-0856,FY 2026–27,2026-09-14,West,Snacks,General Trade,Extra Trade Discount,9619.75,9686.64,66.89
+TP-202609-0857,FY 2026–27,2026-09-04,West,Snacks,Modern Trade,Free Goods,22127.43,22812.71,685.28
+TP-202609-0858,FY 2026–27,2026-09-22,West,Snacks,E-commerce,Retail Visibility,11059.06,13025.74,1966.68
+TP-202609-0859,FY 2026–27,2026-09-16,West,Personal Care,General Trade,Quarterly Incentive,17037.41,13083.82,-3953.59
+TP-202609-0860,FY 2026–27,2026-09-23,West,Personal Care,Modern Trade,Festive Bundle,10809.56,10308.19,-501.37
+TP-202609-0861,FY 2026–27,2026-09-11,West,Personal Care,E-commerce,Volume Slab,21608.92,19277.82,-2331.1
+TP-202609-0862,FY 2026–27,2026-09-07,West,Home Care,General Trade,Extra Trade Discount,18068.34,16189.75,-1878.59
+TP-202609-0863,FY 2026–27,2026-09-17,West,Home Care,Modern Trade,Free Goods,7233.1,8296.46,1063.36
+TP-202609-0864,FY 2026–27,2026-09-20,West,Home Care,E-commerce,Retail Visibility,3511.63,3211.41,-300.22
+TP-202610-0865,FY 2026–27,2026-10-14,East,Biscuits,General Trade,Festive Bundle,18952.37,20701.45,1749.08
+TP-202610-0866,FY 2026–27,2026-10-12,East,Biscuits,Modern Trade,Volume Slab,4189.51,4272.2,82.69
+TP-202610-0867,FY 2026–27,2026-10-21,East,Biscuits,E-commerce,Extra Trade Discount,5529.27,5003.73,-525.54
+TP-202610-0868,FY 2026–27,2026-10-09,East,Snacks,General Trade,Free Goods,6118.92,4607.06,-1511.86
+TP-202610-0869,FY 2026–27,2026-10-04,East,Snacks,Modern Trade,Retail Visibility,7279.16,7063.88,-215.28
+TP-202610-0870,FY 2026–27,2026-10-14,East,Snacks,E-commerce,Quarterly Incentive,16963.51,17072.64,109.13
+TP-202610-0871,FY 2026–27,2026-10-21,East,Personal Care,General Trade,Festive Bundle,36678.46,44985.45,8306.99
+TP-202610-0872,FY 2026–27,2026-10-08,East,Personal Care,Modern Trade,Volume Slab,12164.87,9241.06,-2923.81
+TP-202610-0873,FY 2026–27,2026-10-17,East,Personal Care,E-commerce,Extra Trade Discount,7349.47,8068.14,718.67
+TP-202610-0874,FY 2026–27,2026-10-06,East,Home Care,General Trade,Free Goods,9039.04,8150.74,-888.3
+TP-202610-0875,FY 2026–27,2026-10-21,East,Home Care,Modern Trade,Retail Visibility,32197.82,28052.89,-4144.93
+TP-202610-0876,FY 2026–27,2026-10-05,East,Home Care,E-commerce,Quarterly Incentive,13364.12,11840.17,-1523.95
+TP-202610-0877,FY 2026–27,2026-10-20,North,Biscuits,General Trade,Festive Bundle,20330.47,18782.52,-1547.95
+TP-202610-0878,FY 2026–27,2026-10-18,North,Biscuits,Modern Trade,Volume Slab,19161.69,15048.54,-4113.15
+TP-202610-0879,FY 2026–27,2026-10-04,North,Biscuits,E-commerce,Extra Trade Discount,5795.06,5120.64,-674.42
+TP-202610-0880,FY 2026–27,2026-10-16,North,Snacks,General Trade,Free Goods,10061.3,9141.0,-920.3
+TP-202610-0881,FY 2026–27,2026-10-18,North,Snacks,Modern Trade,Retail Visibility,14865.19,17251.49,2386.3
+TP-202610-0882,FY 2026–27,2026-10-16,North,Snacks,E-commerce,Quarterly Incentive,9922.1,11251.71,1329.61
+TP-202610-0883,FY 2026–27,2026-10-12,North,Personal Care,General Trade,Festive Bundle,18393.03,18534.72,141.69
+TP-202610-0884,FY 2026–27,2026-10-21,North,Personal Care,Modern Trade,Volume Slab,16283.53,16569.79,286.26
+TP-202610-0885,FY 2026–27,2026-10-14,North,Personal Care,E-commerce,Extra Trade Discount,4300.32,4123.53,-176.79
+TP-202610-0886,FY 2026–27,2026-10-07,North,Home Care,General Trade,Free Goods,21381.96,19382.46,-1999.5
+TP-202610-0887,FY 2026–27,2026-10-20,North,Home Care,Modern Trade,Retail Visibility,7565.99,6014.09,-1551.9
+TP-202610-0888,FY 2026–27,2026-10-05,North,Home Care,E-commerce,Quarterly Incentive,11017.76,10746.0,-271.76
+TP-202610-0889,FY 2026–27,2026-10-07,South,Biscuits,General Trade,Festive Bundle,15166.61,15635.26,468.65
+TP-202610-0890,FY 2026–27,2026-10-22,South,Biscuits,Modern Trade,Volume Slab,6665.38,6621.61,-43.77
+TP-202610-0891,FY 2026–27,2026-10-07,South,Biscuits,E-commerce,Extra Trade Discount,9384.73,8246.21,-1138.52
+TP-202610-0892,FY 2026–27,2026-10-06,South,Snacks,General Trade,Free Goods,13419.46,11703.1,-1716.36
+TP-202610-0893,FY 2026–27,2026-10-09,South,Snacks,Modern Trade,Retail Visibility,11431.38,9610.34,-1821.04
+TP-202610-0894,FY 2026–27,2026-10-19,South,Snacks,E-commerce,Quarterly Incentive,15454.27,16525.54,1071.27
+TP-202610-0895,FY 2026–27,2026-10-19,South,Personal Care,General Trade,Festive Bundle,11678.65,10464.3,-1214.35
+TP-202610-0896,FY 2026–27,2026-10-21,South,Personal Care,Modern Trade,Volume Slab,10873.66,8602.16,-2271.5
+TP-202610-0897,FY 2026–27,2026-10-05,South,Personal Care,E-commerce,Extra Trade Discount,11427.68,10129.17,-1298.51
+TP-202610-0898,FY 2026–27,2026-10-13,South,Home Care,General Trade,Free Goods,16889.4,15387.03,-1502.37
+TP-202610-0899,FY 2026–27,2026-10-05,South,Home Care,Modern Trade,Retail Visibility,4450.71,4500.08,49.37
+TP-202610-0900,FY 2026–27,2026-10-14,South,Home Care,E-commerce,Quarterly Incentive,14929.91,14972.09,42.18
+TP-202610-0901,FY 2026–27,2026-10-07,West,Biscuits,General Trade,Festive Bundle,10805.39,9112.63,-1692.76
+TP-202610-0902,FY 2026–27,2026-10-17,West,Biscuits,Modern Trade,Volume Slab,12199.15,12152.2,-46.95
+TP-202610-0903,FY 2026–27,2026-10-20,West,Biscuits,E-commerce,Extra Trade Discount,6520.88,5221.5,-1299.38
+TP-202610-0904,FY 2026–27,2026-10-04,West,Snacks,General Trade,Free Goods,7428.91,5987.14,-1441.77
+TP-202610-0905,FY 2026–27,2026-10-21,West,Snacks,Modern Trade,Retail Visibility,5343.62,6652.16,1308.54
+TP-202610-0906,FY 2026–27,2026-10-16,West,Snacks,E-commerce,Quarterly Incentive,8149.01,8099.99,-49.02
+TP-202610-0907,FY 2026–27,2026-10-18,West,Personal Care,General Trade,Festive Bundle,20286.96,20646.17,359.21
+TP-202610-0908,FY 2026–27,2026-10-08,West,Personal Care,Modern Trade,Volume Slab,13585.92,13959.57,373.65
+TP-202610-0909,FY 2026–27,2026-10-20,West,Personal Care,E-commerce,Extra Trade Discount,12409.93,9686.76,-2723.17
+TP-202610-0910,FY 2026–27,2026-10-11,West,Home Care,General Trade,Free Goods,45651.52,43672.05,-1979.47
+TP-202610-0911,FY 2026–27,2026-10-06,West,Home Care,Modern Trade,Retail Visibility,12501.22,12424.95,-76.27
+TP-202610-0912,FY 2026–27,2026-10-08,West,Home Care,E-commerce,Quarterly Incentive,24722.04,28744.33,4022.29
+TP-202611-0913,FY 2026–27,2026-11-23,East,Biscuits,General Trade,Volume Slab,9212.4,9354.38,141.98
+TP-202611-0914,FY 2026–27,2026-11-20,East,Biscuits,Modern Trade,Extra Trade Discount,7725.17,8138.99,413.82
+TP-202611-0915,FY 2026–27,2026-11-21,East,Biscuits,E-commerce,Free Goods,3778.31,3611.56,-166.75
+TP-202611-0916,FY 2026–27,2026-11-14,East,Snacks,General Trade,Retail Visibility,12096.94,12552.69,455.75
+TP-202611-0917,FY 2026–27,2026-11-10,East,Snacks,Modern Trade,Quarterly Incentive,15547.74,15560.5,12.76
+TP-202611-0918,FY 2026–27,2026-11-20,East,Snacks,E-commerce,Festive Bundle,15765.15,14229.52,-1535.63
+TP-202611-0919,FY 2026–27,2026-11-11,East,Personal Care,General Trade,Volume Slab,33103.71,30593.96,-2509.75
+TP-202611-0920,FY 2026–27,2026-11-07,East,Personal Care,Modern Trade,Extra Trade Discount,16673.29,16237.03,-436.26
+TP-202611-0921,FY 2026–27,2026-11-16,East,Personal Care,E-commerce,Free Goods,11742.24,13154.53,1412.29
+TP-202611-0922,FY 2026–27,2026-11-16,East,Home Care,General Trade,Retail Visibility,10305.09,10762.1,457.01
+TP-202611-0923,FY 2026–27,2026-11-11,East,Home Care,Modern Trade,Quarterly Incentive,19774.27,15747.03,-4027.24
+TP-202611-0924,FY 2026–27,2026-11-05,East,Home Care,E-commerce,Festive Bundle,23159.44,27013.92,3854.48
+TP-202611-0925,FY 2026–27,2026-11-15,North,Biscuits,General Trade,Volume Slab,9927.05,8558.63,-1368.42
+TP-202611-0926,FY 2026–27,2026-11-21,North,Biscuits,Modern Trade,Extra Trade Discount,3336.33,3776.45,440.12
+TP-202611-0927,FY 2026–27,2026-11-04,North,Biscuits,E-commerce,Free Goods,4175.31,5228.26,1052.95
+TP-202611-0928,FY 2026–27,2026-11-17,North,Snacks,General Trade,Retail Visibility,37485.92,32997.82,-4488.1
+TP-202611-0929,FY 2026–27,2026-11-12,North,Snacks,Modern Trade,Quarterly Incentive,2934.11,3160.89,226.78
+TP-202611-0930,FY 2026–27,2026-11-08,North,Snacks,E-commerce,Festive Bundle,10227.95,10155.05,-72.9
+TP-202611-0931,FY 2026–27,2026-11-14,North,Personal Care,General Trade,Volume Slab,8726.26,7906.4,-819.86
+TP-202611-0932,FY 2026–27,2026-11-14,North,Personal Care,Modern Trade,Extra Trade Discount,6279.02,7980.6,1701.58
+TP-202611-0933,FY 2026–27,2026-11-07,North,Personal Care,E-commerce,Free Goods,19265.79,15216.38,-4049.41
+TP-202611-0934,FY 2026–27,2026-11-12,North,Home Care,General Trade,Retail Visibility,10054.78,10749.85,695.07
+TP-202611-0935,FY 2026–27,2026-11-05,North,Home Care,Modern Trade,Quarterly Incentive,20058.48,15414.13,-4644.35
+TP-202611-0936,FY 2026–27,2026-11-07,North,Home Care,E-commerce,Festive Bundle,16437.25,13269.1,-3168.15
+TP-202611-0937,FY 2026–27,2026-11-20,South,Biscuits,General Trade,Volume Slab,10811.83,8952.46,-1859.37
+TP-202611-0938,FY 2026–27,2026-11-08,South,Biscuits,Modern Trade,Extra Trade Discount,4491.69,4188.66,-303.03
+TP-202611-0939,FY 2026–27,2026-11-14,South,Biscuits,E-commerce,Free Goods,4329.8,4110.38,-219.42
+TP-202611-0940,FY 2026–27,2026-11-20,South,Snacks,General Trade,Retail Visibility,23773.8,24966.45,1192.65
+TP-202611-0941,FY 2026–27,2026-11-07,South,Snacks,Modern Trade,Quarterly Incentive,6627.2,7371.16,743.96
+TP-202611-0942,FY 2026–27,2026-11-06,South,Snacks,E-commerce,Festive Bundle,22642.82,17867.05,-4775.77
+TP-202611-0943,FY 2026–27,2026-11-06,South,Personal Care,General Trade,Volume Slab,22481.18,24559.95,2078.77
+TP-202611-0944,FY 2026–27,2026-11-08,South,Personal Care,Modern Trade,Extra Trade Discount,21395.29,20977.04,-418.25
+TP-202611-0945,FY 2026–27,2026-11-21,South,Personal Care,E-commerce,Free Goods,8049.58,7107.6,-941.98
+TP-202611-0946,FY 2026–27,2026-11-10,South,Home Care,General Trade,Retail Visibility,49132.57,47628.66,-1503.91
+TP-202611-0947,FY 2026–27,2026-11-19,South,Home Care,Modern Trade,Quarterly Incentive,8751.34,8110.07,-641.27
+TP-202611-0948,FY 2026–27,2026-11-05,South,Home Care,E-commerce,Festive Bundle,23393.24,18141.33,-5251.91
+TP-202611-0949,FY 2026–27,2026-11-16,West,Biscuits,General Trade,Volume Slab,7130.8,9067.61,1936.81
+TP-202611-0950,FY 2026–27,2026-11-18,West,Biscuits,Modern Trade,Extra Trade Discount,12251.99,11986.0,-265.99
+TP-202611-0951,FY 2026–27,2026-11-05,West,Biscuits,E-commerce,Free Goods,7762.03,9021.74,1259.71
+TP-202611-0952,FY 2026–27,2026-11-22,West,Snacks,General Trade,Retail Visibility,44445.07,37928.79,-6516.28
+TP-202611-0953,FY 2026–27,2026-11-05,West,Snacks,Modern Trade,Quarterly Incentive,13051.7,14665.75,1614.05
+TP-202611-0954,FY 2026–27,2026-11-13,West,Snacks,E-commerce,Festive Bundle,11211.65,11508.3,296.65
+TP-202611-0955,FY 2026–27,2026-11-22,West,Personal Care,General Trade,Volume Slab,36390.89,28885.09,-7505.8
+TP-202611-0956,FY 2026–27,2026-11-08,West,Personal Care,Modern Trade,Extra Trade Discount,9917.64,9804.27,-113.37
+TP-202611-0957,FY 2026–27,2026-11-18,West,Personal Care,E-commerce,Free Goods,11005.88,12094.27,1088.39
+TP-202611-0958,FY 2026–27,2026-11-16,West,Home Care,General Trade,Retail Visibility,16298.44,13533.9,-2764.54
+TP-202611-0959,FY 2026–27,2026-11-23,West,Home Care,Modern Trade,Quarterly Incentive,13245.74,10577.89,-2667.85
+TP-202611-0960,FY 2026–27,2026-11-13,West,Home Care,E-commerce,Festive Bundle,22245.13,21191.56,-1053.57
